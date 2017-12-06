@@ -1,0 +1,2960 @@
+
+Afar	aa
+Abkhaz	ab
+Avestan	ae
+Afrikaans	af
+Akan	ak
+Amharic	am
+Aragonese	an
+Arabic	ar
+Assamese	as
+Avar	av
+Aymara	ay
+Azeri	az
+Bashkir	ba
+Belarusian	be
+Bulgarian	bg
+Bihari	bh
+Bislama	bi
+Bambara	bm
+Bengali	bn
+Tibetan	bo
+Breton	br
+Catalan	ca
+Chechen	ce
+Chamorro	ch
+Corsican	co
+Cree	cr
+Czech	cs
+Old Church Slavonic	cu
+Chuvash	cv
+Welsh	cy
+Danish	da
+German	de
+Dhivehi	dv
+Dzongkha	dz
+Ewe	ee
+Greek	el
+English	en
+Esperanto	eo
+Spanish	es
+Estonian	et
+Basque	eu
+Persian	fa
+Fula	ff
+Finnish	fi
+Fijian	fj
+Faroese	fo
+French	fr
+West Frisian	fy
+Irish	ga
+Scottish Gaelic	gd
+Galician	gl
+Guaraní	gn
+Gujarati	gu
+Manx	gv
+Hausa	ha
+Hebrew	he
+Hindi	hi
+Hiri Motu	ho
+Haitian Creole	ht
+Hungarian	hu
+Armenian	hy
+Herero	hz
+Interlingua	ia
+Indonesian	id
+Interlingue	ie
+Igbo	ig
+Sichuan Yi	ii
+Inupiak	ik
+Ido	io
+Icelandic	is
+Italian	it
+Inuktitut	iu
+Japanese	ja
+Javanese	jv
+Georgian	ka
+Kongo	kg
+Kikuyu	ki
+Kwanyama	kj
+Kazakh	kk
+Greenlandic	kl
+Khmer	km
+Kannada	kn
+Korean	ko
+Kanuri	kr
+Kashmiri	ks
+Kurdish	ku
+Cornish	kw
+Kyrgyz	ky
+Latin	la
+Luxembourgish	lb
+Luganda	lg
+Limburgish	li
+Lingala	ln
+Lao	lo
+Lithuanian	lt
+Luba-Katanga	lu
+Latvian	lv
+Malagasy	mg
+Marshallese	mh
+Maori	mi
+Macedonian	mk
+Malayalam	ml
+Mongolian	mn
+Marathi	mr
+Malay	ms
+Maltese	mt
+Burmese	my
+Nauruan	na
+Norwegian Bokmål	nb
+Northern Ndebele	nd
+Nepali	ne
+Ndonga	ng
+Dutch	nl
+Norwegian Nynorsk	nn
+Norwegian	no
+Southern Ndebele	nr
+Navajo	nv
+Chichewa	ny
+Occitan	oc
+Ojibwe	oj
+Oromo	om
+Oriya	or
+Ossetian	os
+Punjabi	pa
+Pali	pi
+Polish	pl
+Pashto	ps
+Portuguese	pt
+Quechua	qu
+Romansch	rm
+Romanian	ro
+Russian	ru
+Rwanda-Rundi	rw
+Sanskrit	sa
+Sardinian	sc
+Sindhi	sd
+Northern Sami	se
+Sango	sg
+Serbo-Croatian	sh
+Sinhalese	si
+Slovak	sk
+Slovene	sl
+Samoan	sm
+Shona	sn
+Somali	so
+Albanian	sq
+Swazi	ss
+Sotho	st
+Sundanese	su
+Swedish	sv
+Swahili	sw
+Tamil	ta
+Telugu	te
+Tajik	tg
+Thai	th
+Tigrinya	ti
+Turkmen	tk
+Tagalog	tl
+Tswana	tn
+Tongan	to
+Turkish	tr
+Tsonga	ts
+Tatar	tt
+Tahitian	ty
+Uyghur	ug
+Ukrainian	uk
+Urdu	ur
+Uzbek	uz
+Venda	ve
+Vietnamese	vi
+Volapük	vo
+Walloon	wa
+Wolof	wo
+Xhosa	xh
+Yiddish	yi
+Yoruba	yo
+Zhuang	za
+Chinese	zh
+Zulu	zu
+
+Ghotuo	aaa
+Alumu-Tesu	aab
+Ari	aac
+Amal	aad
+Arbëreshë Albanian	aae
+Aranadan	aaf
+Ambrak	aag
+Abu' Arapesh	aah
+Arifama-Miniafia	aai
+Ankave	aak
+Afade	aal
+Anambé	aan
+Algerian Saharan Arabic	aao
+Pará Arára	aap
+Penobscot	aaq
+Aasax	aas
+Arvanitika Albanian	aat
+Abau	aau
+Solong	aaw
+Mandobo Atas	aax
+Amarasi	aaz
+Abé	aba
+Bankon	abb
+Ambala Ayta	abc
+Camarines Norte Agta	abd
+Abenaki	abe
+Abai Sungai	abf
+Abaga	abg
+Tajiki Arabic	abh
+Abidji	abi
+Aka-Bea	abj
+Abung	abl
+Abanyom	abm
+Abua	abn
+Abon	abo
+Abenlen Ayta	abp
+Abaza	abq
+Abron	abr
+Ambonese Malay	abs
+Ambulas	abt
+Abure	abu
+Baharna Arabic	abv
+Pal	abw
+Inabaknon	abx
+Aneme Wake	aby
+Abui	abz
+Achagua	aca
+Áncá	acb
+Gikyode	acd
+Acehnese	ace
+Acholi	ach
+Aka-Cari	aci
+Aka-Kora	ack
+Akar-Bale	acl
+Iraqi Arabic	acm
+Achang	acn
+Eastern Acipa	acp
+Ta'izzi-Adeni Arabic	acq
+Achi	acr
+Acroá	acs
+Achuar	acu
+Achumawi	acv
+Hijazi Arabic	acw
+Omani Arabic	acx
+Cypriot Arabic	acy
+Acheron	acz
+Adangme	ada
+Adabe	adb
+Dzodinka	add
+Adele	ade
+Dhofari Arabic	adf
+Andegerebinha	adg
+Adhola	adh
+Adi	adi
+Adioukrou	adj
+Galo	adl
+Adang	adn
+Abu	ado
+Adap	adp
+Adangbe	adq
+Adonara	adr
+Adamorobe Sign Language	ads
+Adnyamathanha	adt
+Aduge	adu
+Amondawa	adw
+Adyghe	ady
+Adzera	adz
+Areba	aea
+Tunisian Arabic	aeb
+Saidi Arabic	aec
+Argentine Sign Language	aed
+Northeast Pashayi	aee
+Haeke	aek
+Ambele	ael
+Arem	aem
+Armenian Sign Language	aen
+Aer	aeq
+Eastern Arrernte	aer
+Alsea	aes
+Akeu	aeu
+Ambakich	aew
+Amele	aey
+Aeka	aez
+Gulf Arabic	afb
+Andai	afd
+Putukwam	afe
+Afghan Sign Language	afg
+Afrihili	afh
+Akrukay	afi
+Nanubae	afk
+Defaka	afn
+Eloyi	afo
+Tapei	afp
+Afro-Seminole Creole	afs
+Afitti	aft
+Awutu	afu
+Obokuitai	afz
+Aguano	aga
+Legbo	agb
+Agatu	agc
+Agarabi	agd
+Angal	age
+Arguni	agf
+Angor	agg
+Ngelima	agh
+Agariya	agi
+Argobba	agj
+Isarog Agta	agk
+Fembe	agl
+Angaataha	agm
+Agutaynen	agn
+Tainae	ago
+Aghem	agq
+Aguaruna	agr
+Esimbi	ags
+Central Cagayan Agta	agt
+Aguacateco	agu
+Remontado Agta	agv
+Kahua	agw
+Aghul	agx
+Southern Alta	agy
+Mt. Iriga Agta	agz
+Ahanta	aha
+Axamb	ahb
+Qimant	ahg
+Aghu	ahh
+Tiagbamrin Aizi	ahi
+Akha	ahk
+Igo	ahl
+Mobumrin Aizi	ahm
+Àhàn	ahn
+Ahom	aho
+Aproumu Aizi	ahp
+Ahirani	ahr
+Ashe	ahs
+Ahtna	aht
+Arosi	aia
+Aynu	aib
+Ainbai	aic
+Alngith	aid
+Amara	aie
+Agi	aif
+Antigua and Barbuda Creole English	aig
+Ai-Cham	aih
+Assyrian Neo-Aramaic	aii
+Lishanid Noshan	aij
+Ake	aik
+Aimele	ail
+Aimol	aim
+Ainu	ain
+Aiton	aio
+Burumakok	aip
+Airoran	air
+Nataoran Amis	ais
+Arikem	ait
+Aari	aiw
+Aighon	aix
+Ali	aiy
+Aja	aja
+Adja	ajg
+Ajië	aji
+Andajin	ajn
+South Levantine Arabic	ajp
+Judeo-Tunisian Arabic	ajt
+Judeo-Moroccan Arabic	aju
+Ajawa	ajw
+Amri Karbi	ajz
+Angkola Batak	akb
+Mpur	akc
+Ukpet-Ehom	akd
+Akawaio	ake
+Akpa	akf
+Anakalangu	akg
+Angal Heneng	akh
+Aiome	aki
+Jeru	akj
+Akkadian	akk
+Aklanon	akl
+Aka-Bo	akm
+Akurio	ako
+Siwu	akp
+Ak	akq
+Araki	akr
+Akaselem	aks
+Akolet	akt
+Akum	aku
+Akhvakh	akv
+Akwa	akw
+Aka-Kede	akx
+Aka-Kol	aky
+Alabama	akz
+Alago	ala
+Kawésqar	alc
+Alladian	ald
+Aleut	ale
+Alege	alf
+Alawa	alh
+Amaimon	ali
+Alangan	alj
+Alak	alk
+Allar	all
+Amblong	alm
+Gheg Albanian	aln
+Larike-Wakasihu	alo
+Alune	alp
+Algonquin	alq
+Alutor	alr
+Southern Altai	alt
+'Are'are	alu
+Alaba	alw
+Amol	alx
+Alyawarr	aly
+Alur	alz
+Amanayé	ama
+Ambo	amb
+Amahuaca	amc
+Yanesha'	ame
+Hamer-Banna	amf
+Amurdag	amg
+Amis	ami
+Amdang	amj
+Ambai	amk
+War-Jaintia	aml
+Ama	amm
+Amanab	amn
+Amo	amo
+Alamblak	amp
+Amahai	amq
+Amarakaeri	amr
+Southern Amami-Oshima	ams
+Amto	amt
+Guerrero Amuzgo	amu
+Ambelau	amv
+Western Neo-Aramaic	amw
+Anmatyerre	amx
+Ami	amy
+Atampaya	amz
+Andaqui	ana
+Andoa	anb
+Angas	anc
+Ansus	and
+Xârâcùù	ane
+Animere	anf
+Old English	ang
+Nend	anh
+Andi	ani
+Anor	anj
+Goemai	ank
+Anu	anl
+Anal	anm
+Obolo	ann
+Andoque	ano
+Angika	anp
+Jarawa	anq
+Andh	anr
+Anserma	ans
+Antakarinya	ant
+Anuak	anu
+Denya	anv
+Anaang	anw
+Andra-Hus	anx
+Anyi	any
+Anem	anz
+Angolar	aoa
+Abom	aob
+Pemon	aoc
+Andarum	aod
+Angal Enen	aoe
+Bragat	aof
+Angoram	aog
+Arma	aoh
+Anindilyakwa	aoi
+Mufian	aoj
+Arhö	aok
+Alor	aol
+Ömie	aom
+Bumbita Arapesh	aon
+Aore	aor
+Taikat	aos
+Atong (India)	aot
+A'ou	aou
+Atorada	aox
+Uab Meto	aoz
+Sa'a	apb
+North Levantine Arabic	apc
+Sudanese Arabic	apd
+Bukiyip	ape
+Pahanan Agta	apf
+Ampanang	apg
+Athpare	aph
+Apiaká	api
+Jicarilla	apj
+Plains Apache	apk
+Lipan	apl
+Chiricahua	apm
+Apinayé	apn
+Ambul	apo
+Apma	app
+A-Pucikwar	apq
+Arop-Lokep	apr
+Arop-Sissano	aps
+Apatani	apt
+Apurinã	apu
+Alapmunte	apv
+Western Apache	apw
+Aputai	apx
+Apalaí	apy
+Safeyoka	apz
+Archi	aqc
+Ampari Dogon	aqd
+Arigidi	aqg
+Atohwaim	aqm
+Northern Alta	aqn
+Atakapa	aqp
+Arhâ	aqr
+Angaité	aqt
+Akuntsu	aqz
+Aramaic	arc
+Arabana	ard
+Western Arrernte	are
+Arhuaco	arh
+Arikara	ari
+Arapaso	arj
+Arikapú	ark
+Arabela	arl
+Mapudungun	arn
+Araona	aro
+Arapaho	arp
+Algerian Arabic	arq
+Arara-Karo	arr
+Najdi Arabic	ars
+Arua	aru
+Arbore	arv
+Arawak	arw
+Aruá	arx
+Moroccan Arabic	ary
+Egyptian Arabic	arz
+Pare	asa
+Assiniboine	asb
+Casuarina Coast Asmat	asc
+Asas	asd
+American Sign Language	ase
+Auslan	asf
+Cishingini	asg
+Abishira	ash
+Buruwai	asi
+Nsari	asj
+Ashkun	ask
+Asilulu	asl
+Xingú Asuriní	asn
+Dano	aso
+Algerian Sign Language	asp
+Austrian Sign Language	asq
+Asuri	asr
+Ipulo	ass
+Asturian	ast
+Tocantins Asurini	asu
+Asoa	asv
+Australian Aboriginal Sign Language	asw
+Muratayak	asx
+Yaosakor Asmat	asy
+As	asz
+Pele-Ata	ata
+Zaiwa	atb
+Atsahuaca	atc
+Ata Manobo	atd
+Atemble	ate
+Okpela	atg
+Attié	ati
+Atikamekw	atj
+Ati	atk
+Mt. Iraya Agta	atl
+Ata	atm
+Ashtiani	atn
+Atong (Cameroon)	ato
+Pudtol Atta	atp
+Aralle-Tabulahan	atq
+Waimiri-Atroari	atr
+Gros Ventre	ats
+Pamplona Atta	att
+Reel	atu
+Northern Altai	atv
+Atsugewi	atw
+Arutani	atx
+Aneityum	aty
+Arta	atz
+Asumboa	aua
+Alugu	aub
+Huaorani	auc
+Anuta	aud
+Aguna	aug
+Aushi	auh
+Anuki	aui
+Augila	auj
+Heyo	auk
+Aulua	aul
+Asu	aum
+Molmo One	aun
+Auyokawa	auo
+Makayam	aup
+Anus	auq
+Aruek	aur
+Austral	aut
+Auye	auu
+Awyi	auw
+Aurá	aux
+Auyana	auy
+Uzbeki Arabic	auz
+Avau	avb
+Alviri-Vidari	avd
+Avikam	avi
+Kotava	avk
+Eastern Egyptian Bedawi Arabic	avl
+Angkamuthi	avm
+Avatime	avn
+Agavotaguerra	avo
+Aushiri	avs
+Au	avt
+Avokaya	avu
+Avá-Canoeiro	avv
+Awadhi	awa
+Awa (New Guinea)	awb
+Cicipu	awc
+Awetí	awe
+Anguthimri	awg
+Awbono	awh
+Aekyom	awi
+Awabakal	awk
+Arawum	awm
+Awngi	awn
+Awak	awo
+Awera	awr
+South Awyu	aws
+Araweté	awt
+Central Awyu	awu
+Jair Awyu	awv
+Awun	aww
+Awara	awx
+Edera Awyu	awy
+Abipon	axb
+Ayerrerenge	axe
+Mato Grosso Arára	axg
+Aka (Central Africa)	axk
+Lower Southern Aranda	axl
+Middle Armenian	axm
+Xaragure	axx
+Awar	aya
+Ayizo Gbe	ayb
+Ayabadhu	ayd
+Ayere	aye
+Nyanga (Togo)	ayg
+Hadrami Arabic	ayh
+Leyigha	ayi
+Akuku	ayk
+Libyan Arabic	ayl
+Sanaani Arabic	ayn
+Ayoreo	ayo
+North Mesopotamian Arabic	ayp
+Ayi	ayq
+Sorsogon Ayta	ays
+Bataan Ayta	ayt
+Ayu	ayu
+Tayabas Ayta	ayy
+Maybrat	ayz
+Azha	aza
+Eastern Durango Nahuatl	azd
+San Pedro Amuzgos Amuzgo	azg
+Ipalapa Amuzgo	azm
+Western Durango Nahuatl	azn
+Awing	azo
+Faire Atta	azt
+Highland Puebla Nahuatl	azz
+
+Babatana	baa
+Bainouk-Gunyuño	bab
+Badui	bac
+Baré	bae
+Nubaca	baf
+Tuki	bag
+Bahamian Creole	bah
+Barakai	baj
+Baluchi	bal
+Balinese	ban
+Waimaha	bao
+Bantawa	bap
+Bavarian	bar
+Basaa	bas
+Badanchi	bau
+Babungo	bav
+Bambili-Bambui	baw
+Bamum	bax
+Batuley	bay
+Baatonum	bba
+Barai	bbb
+Toba Batak	bbc
+Bau	bbd
+Bangba	bbe
+Baibai	bbf
+Barama	bbg
+Bugan	bbh
+Barombi	bbi
+Ghomálá'	bbj
+Babanki	bbk
+Bats	bbl
+Babango	bbm
+Uneapa	bbn
+Konabéré	bbo
+West Central Banda	bbp
+Bamali	bbq
+Girawa	bbr
+Bakpinka	bbs
+Mburku	bbt
+Bakulung	bbu
+Karnai	bbv
+Baba	bbw
+Bubia	bbx
+Befang	bby
+Babalia Creole Arabic	bbz
+Central Bai	bca
+Bainouk-Samik	bcb
+North Babar	bcd
+Bamenyam	bce
+Bamu	bcf
+Baga Pokur	bcg
+Bariai	bch
+Baoule	bci
+Bardi	bcj
+Bunaba	bck
+Bikol Central	bcl
+Bannoni	bcm
+Bibaali	bcn
+Kaluli	bco
+Bali	bcp
+Bench	bcq
+Babine-Witsuwit'en	bcr
+Kohumono	bcs
+Bendi	bct
+Biliau	bcu
+Shoo-Minda-Nye	bcv
+Bana	bcw
+Bacama	bcy
+Bainouk-Gunyaamolo	bcz
+Bayot	bda
+Basap	bdb
+Emberá-Baudó	bdc
+Bunama	bdd
+Bade	bde
+Biage	bdf
+Bonggi	bdg
+Tara Baka	bdh
+Burun	bdi
+Bai	bdj
+Budukh	bdk
+Indonesian Bajau	bdl
+Buduma	bdm
+Baldemu	bdn
+Morom	bdo
+Bende	bdp
+Bahnar	bdq
+West Coast Bajau	bdr
+Burunge	bds
+Bokoto	bdt
+Oroko	bdu
+Bodo Parja	bdv
+Baham	bdw
+Budong-Budong	bdx
+Bandjalang	bdy
+Badeshi	bdz
+Beaver	bea
+Bebele	beb
+Iceve-Maci	bec
+Bedoanas	bed
+Byangsi	bee
+Benabena	bef
+Belait	beg
+Biali	beh
+Bekati'	bei
+Beja	bej
+Bebeli	bek
+Bemba	bem
+Beami	beo
+Besoa	bep
+Beembe	beq
+Besme	bes
+Guiberoua Béte	bet
+Blagar	beu
+Daloa Bété	bev
+Betawi	bew
+Jur Modo	bex
+Akuwagel	bey
+Kibena	bez
+Bari	bfa
+Pauri Bareli	bfb
+Northern Bai	bfc
+Bafut	bfd
+Betaf	bfe
+Bofi	bff
+Busang Kayan	bfg
+Blafe	bfh
+British Sign Language	bfi
+Bafanji	bfj
+Ban Khor Sign Language	bfk
+Banda-Ndélé	bfl
+Mmen	bfm
+Bunak	bfn
+Malba Birifor	bfo
+Beba	bfp
+Badaga	bfq
+Bazigar	bfr
+Southern Bai	bfs
+Balti	bft
+Gahri	bfu
+Bondo	bfw
+Bantayanon	bfx
+Bagheli	bfy
+Mahasu Pahari	bfz
+Gwamhi-Wuri	bga
+Bobongko	bgb
+Haryanvi	bgc
+Rathwi Bareli	bgd
+Bauria	bge
+Bangandu	bgf
+Bugun	bgg
+Giangan	bgi
+Bangolan	bgj
+Bit	bgk
+Bo	bgl
+Baga Koga	bgo
+Bagri	bgq
+Bawm Chin	bgr
+Tagabawa	bgs
+Bughotu	bgt
+Mbongno	bgu
+Warkay-Bipim	bgv
+Bhatri	bgw
+Balkan Gagauz Turkish	bgx
+Benggoi	bgy
+Banggai	bgz
+Bharia	bha
+Bhili	bhb
+Biga	bhc
+Bhadrawahi	bhd
+Bhaya	bhe
+Odiai	bhf
+Binandere	bhg
+Bukhari	bhh
+Bhilali	bhi
+Bahing	bhj
+Bimin	bhl
+Bathari	bhm
+Bohtan Neo-Aramaic	bhn
+Bhojpuri	bho
+Bima	bhp
+Tukang Besi South	bhq
+Buwal	bhs
+Bhattiyali	bht
+Bhunjia	bhu
+Bahau	bhv
+Biak	bhw
+Bhalay	bhx
+Bhele	bhy
+Bada	bhz
+Badimaya	bia
+Bissa	bib
+Bikaru	bic
+Bidiyo	bid
+Bepour	bie
+Biafada	bif
+Biangai	big
+Vaghat-Ya-Bijim-Legeri	bij
+Bile	bil
+Bimoba	bim
+Edo	bin
+Nai	bio
+Bila	bip
+Bipi	biq
+Bisorio	bir
+Berinomo	bit
+Biete	biu
+Southern Birifor	biv
+Kol (Cameroon)	biw
+Bijori	bix
+Birhor	biy
+Baloi	biz
+Budza	bja
+Banggarla	bjb
+Bariji	bjc
+Biao-Jiao Mien	bje
+Barzani Jewish Neo-Aramaic	bjf
+Bidyogo	bjg
+Bahinemo	bjh
+Burji	bji
+Kanauji	bjj
+Barok	bjk
+Bulu (New Guinea)	bjl
+Bajelani	bjm
+Banjarese	bjn
+Mid-Southern Banda	bjo
+Fanamaket	bjp
+Binumarien	bjr
+Bajan	bjs
+Balanta-Ganja	bjt
+Busuu	bju
+Bedjond	bjv
+Bakwé	bjw
+Banao Itneg	bjx
+Bayali	bjy
+Baruga	bjz
+Kyak	bka
+Baka	bkc
+Binukid	bkd
+Beeke	bkf
+Buraka	bkg
+Bakoko	bkh
+Baki	bki
+Pande	bkj
+Brokskat	bkk
+Berik	bkl
+Kom (Cameroon)	bkm
+Bukitan	bkn
+Kwa'	bko
+Iboko	bkp
+Bakairí	bkq
+Bakumpai	bkr
+Masbate Sorsogon	bks
+Boloki	bkt
+Buhid	bku
+Bekwarra	bkv
+Bekwel	bkw
+Baikeno	bkx
+Bokyi	bky
+Bungku	bkz
+Blackfoot	bla
+Bilua	blb
+Bella Coola	blc
+Bolango	bld
+Balanta-Kentohe	ble
+Buol	blf
+Balau	blg
+Kuwaa	blh
+Bolia	bli
+Bolongan	blj
+Pa'o Karen	blk
+Biloxi	bll
+Beli	blm
+Southern Catanduanes Bicolano	bln
+Anii	blo
+Blablanga	blp
+Baluan-Pam	blq
+Blang	blr
+Balaesang	bls
+Tai Dam	blt
+Bolo	blv
+Balangao	blw
+Mag-Indi Ayta	blx
+Notre	bly
+Balantak	blz
+Lame	bma
+Bembe	bmb
+Biem	bmc
+Baga Manduri	bmd
+Limassa	bme
+Bom	bmf
+Bamwe	bmg
+Kein	bmh
+Bagirmi	bmi
+Bote-Majhi	bmj
+Ghayavi	bmk
+Bomboli	bml
+Bina	bmn
+Bambalang	bmo
+Bulgebi	bmp
+Bomu	bmq
+Muinane	bmr
+Biao Mon	bmt
+Somba-Siawari	bmu
+Bum	bmv
+Bomwali	bmw
+Baimak	bmx
+Baramu	bmz
+Bonerate	bna
+Bookan	bnb
+Banda	bnd
+Bintauna	bne
+Masiwang	bnf
+Benga	bng
+Bangi	bni
+Eastern Tawbuid	bnj
+Bierebo	bnk
+Boon	bnl
+Batanga	bnm
+Bunun	bnn
+Asi	bno
+Bola	bnp
+Bantik	bnq
+Butmas-Tur	bnr
+Bundeli	bns
+Bentong	bnu
+Beneraf	bnv
+Bisis	bnw
+Bangubangu	bnx
+Bintulu	bny
+Beezen	bnz
+Bora	boa
+Aweer	bob
+Mundabli	boe
+Bolon	bof
+Bamako Sign Language	bog
+Boma	boh
+Barbareño	boi
+Anjam	boj
+Bonjo	bok
+Bole	bol
+Berom	bom
+Bine	bon
+Tiemacèwè Bozo	boo
+Bonkiman	bop
+Bogaya	boq
+Borôro	bor
+Bongo	bot
+Bondei	bou
+Tuwuli	bov
+Rema	bow
+Buamu	box
+Bodo (Central Africa)	boy
+Tiéyaxo Bozo	boz
+Dakaka	bpa
+Barbacoas	bpb
+Banda-Banda	bpd
+Bonggo	bpg
+Botlikh	bph
+Bagupi	bpi
+Binji	bpj
+Orowe	bpk
+Broome Pearling Lugger Pidgin	bpl
+Biyom	bpm
+Dzao Min	bpn
+Anasi	bpo
+Kaure	bpp
+Banda Malay	bpq
+Koronadal Blaan	bpr
+Sarangani Blaan	bps
+Barrow Point	bpt
+Bongu	bpu
+Bian Marind	bpv
+Palya Bareli	bpx
+Bishnupriya Manipuri	bpy
+Bilba	bpz
+Tchumbuli	bqa
+Bagusa	bqb
+Boko	bqc
+Bung	bqd
+Baga Kaloum	bqf
+Bago-Kusuntu	bqg
+Baima	bqh
+Bakhtiari	bqi
+Bandial	bqj
+Banda-Mbrès	bqk
+Bilakura	bql
+Wumboko	bqm
+Bulgarian Sign Language	bqn
+Balo	bqo
+Busa	bqp
+Biritai	bqq
+Burusu	bqr
+Bosngun	bqs
+Bamukumbit	bqt
+Boguru	bqu
+Begbere-Ejar	bqv
+Buru (Nigeria)	bqw
+Baangi	bqx
+Bengkala Sign Language	bqy
+Bakaka	bqz
+Braj	bra
+Lave	brb
+Berbice Creole Dutch	brc
+Baraamu	brd
+Bera	brf
+Baure	brg
+Brahui	brh
+Mokpwe	bri
+Bieria	brj
+Birgid	brk
+Birwa	brl
+Barambu	brm
+Boruca	brn
+Brokkat	bro
+Barapasi	brp
+Breri	brq
+Birao	brr
+Baras	brs
+Bitare	brt
+Eastern Bru	bru
+Western Bru	brv
+Bellari	brw
+Bodo (India)	brx
+Burui	bry
+Bilbil	brz
+Abinomn	bsa
+Brunei Bisaya	bsb
+Bassari	bsc
+Wushi	bse
+Bauchi	bsf
+Bashkardi	bsg
+Kati	bsh
+Bassossi	bsi
+Bangwinji	bsj
+Burushaski	bsk
+Basa-Gumna	bsl
+Busami	bsm
+Barasana	bsn
+Buso	bso
+Baga Sitemu	bsp
+Bassa	bsq
+Bassa-Kontagora	bsr
+Akoose	bss
+Basketo	bst
+Bahonsuai	bsu
+Baga Sobané	bsv
+Baiso	bsw
+Yangkam	bsx
+Sabah Bisaya	bsy
+Bata	bta
+Bati (Cameroon)	btc
+Dairi Batak	btd
+Gamo-Ningi	bte
+Birgit	btf
+Gagnoa Bété	btg
+Biatah Bidayuh	bth
+Burate	bti
+Bacanese Malay	btj
+Mandailing Batak	btm
+Ratagnon	btn
+Iriga Bicolano	bto
+Budibud	btp
+Batek	btq
+Baetora	btr
+Simalungun Batak	bts
+Bete-Bendi	btt
+Batu	btu
+Bateri	btv
+Butuanon	btw
+Karo Batak	btx
+Bobot	bty
+Alas-Kluet Batak	btz
+Buryat	bua
+Bua	bub
+Ntcham	bud
+Beothuk	bue
+Bushoong	buf
+Buginese	bug
+Younuo Bunu	buh
+Bongili	bui
+Basa-Gurmana	buj
+Bukawa	buk
+Bulu (Cameroon)	bum
+Sherbro	bun
+Terei	buo
+Busoa	bup
+Brem	buq
+Bokobaru	bus
+Bungain	but
+Budu	buu
+Bun	buv
+Bubi	buw
+Boghom	bux
+Mmani	buy
+Barein	bva
+Bube	bvb
+Baelelea	bvc
+Baeggu	bvd
+Berau Malay	bve
+Boor	bvf
+Bonkeng	bvg
+Bure	bvh
+Belanda Viri	bvi
+Baan	bvj
+Bukat	bvk
+Bolivian Sign Language	bvl
+Bamunka	bvm
+Buna	bvn
+Bolgo	bvo
+Bumang	bvp
+Birri	bvq
+Burarra	bvr
+Bati (Indonesia)	bvt
+Bukit Malay	bvu
+Baniva	bvv
+Boga	bvw
+Babole	bvx
+Baybayanon	bvy
+Bauzi	bvz
+Bwatoo	bwa
+Namosi-Naitasiri-Serua	bwb
+Bwile	bwc
+Bwaidoka	bwd
+Bwe Karen	bwe
+Boselewa	bwf
+Barwe	bwg
+Bishuo	bwh
+Baniwa	bwi
+Láá Láá Bwamu	bwj
+Bauwaki	bwk
+Bwela	bwl
+Biwat	bwm
+Wunai Bunu	bwn
+Shinasha	bwo
+Mandobo Bawah	bwp
+Southern Bobo	bwq
+Bura	bwr
+Bomboma	bws
+Bafaw-Balong	bwt
+Buli (Ghana)	bwu
+Bwa	bww
+Bu-Nao Bunu	bwx
+Cwi Bwamu	bwy
+Bwisi	bwz
+Bauro	bxa
+Belanda Bor	bxb
+Molengue	bxc
+Pela	bxd
+Ongota	bxe
+Bilur	bxf
+Bangala	bxg
+Buhutu	bxh
+Pirlatapa	bxi
+Bayungu	bxj
+Bukusu	bxk
+Jalkunan	bxl
+Burduna	bxn
+Barikanchi	bxo
+Bebil	bxp
+Beele	bxq
+Busam	bxs
+Berakou	bxv
+Banka	bxw
+Binahari	bxz
+Palawan Batak	bya
+Bikya	byb
+Ubaghara	byc
+Benyadu'	byd
+Pouye	bye
+Bete	byf
+Baygo	byg
+Bujhyal	byh
+Buyu	byi
+Binawa	byj
+Biao	byk
+Bayono	byl
+Bidyara	bym
+Blin	byn
+Biyo	byo
+Bumaji	byp
+Basay	byq
+Baruya	byr
+Burak	bys
+Berti	byt
+Medumba	byv
+Belhariya	byw
+Qaqet	byx
+Banaro	byz
+Bandi	bza
+Andio	bzb
+Bribri	bzd
+Jenaama Bozo	bze
+Boikin	bzf
+Babuza	bzg
+Mapos Buang	bzh
+Bisu	bzi
+Belizean Creole	bzj
+Nicaraguan Creole	bzk
+Boano (Sulawesi)	bzl
+Bolondo	bzm
+Boano (Maluku)	bzn
+Bozaba	bzo
+Kemberano	bzp
+Buli (Indonesia)	bzq
+Biri	bzr
+Brazilian Sign Language	bzs
+Burmeso	bzu
+Bebe	bzv
+Basa	bzw
+Hainyaxo Bozo	bzx
+Obanliku	bzy
+Evant	bzz
+
+Ch'orti'	caa
+Garifuna	cab
+Chuj	cac
+Caddo	cad
+Laalaa	cae
+Southern Carrier	caf
+Nivaclé	cag
+Cahuarano	cah
+Chané	caj
+Cakchiquel	cak
+Carolinian	cal
+Cemuhî	cam
+Chambri	can
+Chácobo	cao
+Chipaya	cap
+Car Nicobarese	caq
+Galibi Carib	car
+Tsimané	cas
+Cavineña	cav
+Callawalla	caw
+Chiquitano	cax
+Cayuga	cay
+Canichana	caz
+Cabiyarí	cbb
+Carapana	cbc
+Carijona	cbd
+Chimila	cbg
+Chachi	cbi
+Ede Cabe	cbj
+Chavacano	cbk
+Bualkhaw Chin	cbl
+Nyah Kur	cbn
+Izora	cbo
+Shuba	cbq
+Cashibo-Cacataibo	cbr
+Cashinahua	cbs
+Chayahuita	cbt
+Candoshi-Shapra	cbu
+Cacua	cbv
+Kinabalian	cbw
+Carabayo	cby
+Cauca	cca
+Chamicuro	ccc
+Cafundo Creole	ccd
+Chopi	cce
+Chamba Daka	ccg
+Atsam	cch
+Kasanga	ccj
+Cutchi-Swahili	ccl
+Malaccan Creole Malay	ccm
+Comaltepec Chinantec	cco
+Chakma	ccp
+Cacaopera	ccr
+Choni	cda
+Chenchu	cde
+Chiru	cdf
+Chamari	cdg
+Chambeali	cdh
+Chodri	cdi
+Churahi	cdj
+Chepang	cdm
+Chaudangsi	cdn
+Min Dong	cdo
+Cinda-Regi-Tiyal	cdr
+Chadian Sign Language	cds
+Chadong	cdy
+Koda	cdz
+Lower Chehalis	cea
+Cebuano	ceb
+Chamacoco	ceg
+Cen	cen
+Centúúm	cet
+Dijim-Bwilim	cfa
+Cara	cfd
+Como Karim	cfg
+Falam Chin	cfm
+Changriwa	cga
+Kagayanen	cgc
+Rukiga	cgg
+Chocangacakha	cgk
+Chibcha	chb
+Catawba	chc
+Highland Oaxaca Chontal	chd
+Tabasco Chontal	chf
+Chagatai	chg
+Chinook	chh
+Ojitlán Chinantec	chj
+Chuukese	chk
+Cahuilla	chl
+Eastern Mari	chm
+Chinook Jargon	chn
+Choctaw	cho
+Chipewyan	chp
+Quiotepec Chinantec	chq
+Cherokee	chr
+Cholón	cht
+Chuwabu	chw
+Chantyal	chx
+Cheyenne	chy
+Ozumacín Chinantec	chz
+Cia-Cia	cia
+Ci Gbe	cib
+Chickasaw	cic
+Chimariko	cid
+Cineni	cie
+Chinali	cih
+Chitkuli Kinnauri	cik
+Cimbrian	cim
+Cinta Larga	cin
+Chiapanec	cip
+Tiri	cir
+Chaima	ciy
+Western Cham	cja
+Chru	cje
+Upper Chehalis	cjh
+Chamalal	cji
+Chokwe	cjk
+Eastern Cham	cjm
+Chenapian	cjn
+Ashéninka Pajonal	cjo
+Cabécar	cjp
+Shor	cjs
+Chuave	cjv
+Jin	cjy
+Central Kurdish	ckb
+Chak	ckh
+Cibak	ckl
+Kaang Chin	ckn
+Anufo	cko
+Kajakse	ckq
+Kairak	ckr
+Tayo	cks
+Chukchi	ckt
+Koasati	cku
+Kavalan	ckv
+Caka	ckx
+Cakfem-Mushere	cky
+Cakchiquel-Quiché Mixed Language	ckz
+Ron	cla
+Chilcotin	clc
+Chaldean Neo-Aramaic	cld
+Lealao Chinantec	cle
+Chilisso	clh
+Chakali	cli
+Laitu Chin	clj
+Idu	clk
+Chala	cll
+Klallam	clm
+Lowland Oaxaca Chontal	clo
+Lautu Chin	clt
+Caluyanun	clu
+Chulym	clw
+Eastern Highland Chatino	cly
+Maa	cma
+Cerma	cme
+Classical Mongolian	cmg
+Emberá-Chamí	cmi
+Campalagian	cml
+Michigamea	cmm
+Mandarin	cmn
+Central Mnong	cmo
+Mro Chin	cmr
+Messapic	cms
+Camtho	cmt
+Changthang	cna
+Chinbon Chin	cnb
+Côông	cnc
+Northern Qiang	cng
+Lai	cnh
+Asháninka	cni
+Khumi Chin	cnk
+Lalana Chinantec	cnl
+Con	cno
+Central Asmat	cns
+Tepetotutla Chinantec	cnt
+Chenoua	cnu
+Ngawn Chin	cnw
+Middle Cornish	cnx
+Cocos Islands Malay	coa
+Chicomuceltec	cob
+Cocopa	coc
+Cocama	cod
+Koreguaje	coe
+Tsafiki	cof
+Chong	cog
+Chichonyi-Chidzihana-Chikauma	coh
+Cochimi	coj
+Santa Teresa Cora	cok
+Columbia-Wenatchi	col
+Comanche	com
+Cofán	con
+Comox	coo
+Coptic	cop
+Coquille	coq
+Caquinte	cot
+Wamey	cou
+Cao Miao	cov
+Cowlitz	cow
+Nanti	cox
+Coyaima	coy
+Chochotec	coz
+Palantla Chinantec	cpa
+Ucayali-Yurúa Ashéninka	cpb
+Ajyíninka Apurucayali	cpc
+Cappadocian Greek	cpg
+Chinese Pidgin English	cpi
+Cherepon	cpn
+Kpee	cpo
+Capiznon	cps
+Pichis Ashéninka	cpu
+Puxian	cpx
+South Ucayali Ashéninka	cpy
+Chuanqiandian Cluster Miao	cqd
+Chara	cra
+Island Carib	crb
+Lonwolwol	crc
+Coeur d'Alene	crd
+Caramanta	crf
+Michif	crg
+Crimean Tatar	crh
+Sãotomense	cri
+Southern East Cree	crj
+Plains Cree	crk
+Northern East Cree	crl
+Moose Cree	crm
+Cora	crn
+Crow	cro
+Iyo'wujwa Chorote	crq
+Carolina Algonquian	crr
+Seychellois Creole	crs
+Iyojwa'ja Chorote	crt
+Chaura	crv
+Chrau	crw
+Carrier	crx
+Cori	cry
+Cruzeño	crz
+Chiltepec Chinantec	csa
+Kashubian	csb
+Catalan Sign Language	csc
+Chiangmai Sign Language	csd
+Czech Sign Language	cse
+Cuban Sign Language	csf
+Chilean Sign Language	csg
+Asho Chin	csh
+Coast Miwok	csi
+Songlai Chin	csj
+Jola-Kasa	csk
+Chinese Sign Language	csl
+Central Sierra Miwok	csm
+Colombian Sign Language	csn
+Sochiapam Chinantec	cso
+Croatian Sign Language	csq
+Costa Rican Sign Language	csr
+Southern Ohlone	css
+Northern Ohlone	cst
+Sumtu Chin	csv
+Swampy Cree	csw
+Siyin Chin	csy
+Coos	csz
+Tataltepec Chatino	cta
+Chetco-Tolowa	ctc
+Tedim Chin	ctd
+Tepinapa Chinantec	cte
+Chittagonian	ctg
+Thaiphum Chin	cth
+Tlacoatzintepec Chinantec	ctl
+Chitimacha	ctm
+Chhintange	ctn
+Emberá-Catío	cto
+Western Highland Chatino	ctp
+Northern Catanduanes Bicolano	cts
+Wayanad Chetti	ctt
+Chol	ctu
+Zacatepec Chatino	ctz
+Cua	cua
+Cubeo	cub
+Usila Chinantec	cuc
+Cung	cug
+Chuka	cuh
+Cuiba	cui
+Mashco Piro	cuj
+Kuna	cuk
+Culina	cul
+Cumanagoto	cuo
+Cupeño	cup
+Cun	cuq
+Chhulung	cur
+Teutila Cuicatec	cut
+Tai Ya	cuu
+Cuvok	cuv
+Chukwa	cuw
+Tepeuxila Cuicatec	cux
+Chug	cvg
+Valle Nacional Chinantec	cvn
+Kabwa	cwa
+Maindo	cwb
+Woods Cree	cwd
+Kwere	cwe
+Chewong	cwg
+Kuwaataay	cwt
+Nopala Chatino	cya
+Cayubaba	cyb
+Cuyunon	cyo
+Huizhou	czh
+Knaanic	czk
+Zenzontepec Chatino	czn
+Min Zhong	czo
+Zotung Chin	czt
+
+Dangaléat	daa
+Dambi	dac
+Marik	dad
+Duupa	dae
+Dagbani	dag
+Gwahatike	dah
+Day	dai
+Dar Fur Daju	daj
+Dakota	dak
+Dahalo	dal
+Damakawa	dam
+Daai Chin	dao
+Dandami Maria	daq
+Dargwa	dar
+Daho-Doo	das
+Dar Sila Daju	dau
+Taita	dav
+Davawenyo	daw
+Dayi	dax
+Dao	daz
+Bangi Me	dba
+Deno	dbb
+Dadiya	dbd
+Dabe	dbe
+Edopi	dbf
+Dogul Dom	dbg
+Doka	dbi
+Ida'an	dbj
+Dyirbal	dbl
+Duguri	dbm
+Duriankere	dbn
+Dulbu	dbo
+Duwai	dbp
+Daba	dbq
+Dabarre	dbr
+Ben Tey	dbt
+Bondum Dom Dogon	dbu
+Dungu	dbv
+Bankan Tey Dogon	dbw
+Dibiyaso	dby
+Deccan	dcc
+Negerhollands	dcr
+Dadi Dadi	dda
+Dongotono	ddd
+Doondo	dde
+Fataluku	ddg
+Diodio	ddi
+Jaru	ddj
+Dendi	ddn
+Tsez	ddo
+Dhudhuroa	ddr
+Donno So Dogon	dds
+Dawera-Daweloor	ddw
+Dagik	dec
+Dedua	ded
+Dewoin	dee
+Dezfuli	def
+Degema	deg
+Dehwari	deh
+Demisa	dei
+Dek	dek
+Dem	dem
+Slavey	den
+Pidgin Delaware	dep
+Deori	der
+Desano	des
+Domung	dev
+Dengese	dez
+Southern Dagaare	dga
+Bunoge	dgb
+Casiguran Dumagat Agta	dgc
+Dagaari Dioula	dgd
+Degenan	dge
+Doga	dgg
+Dghwede	dgh
+Northern Dagara	dgi
+Dagba	dgk
+Dagoman	dgn
+Hindi Dogri	dgo
+Dogrib	dgr
+Dogoso	dgs
+Ntra'ngith	dgt
+Degaru	dgu
+Daungwurrung	dgw
+Doghoro	dgx
+Daga	dgz
+Dhangu	dhg
+Dhimal	dhi
+Dhalandji	dhl
+Zemba	dhm
+Dhanki	dhn
+Dhodia	dho
+Tharrgari	dhr
+Dhaiso	dhs
+Dhurga	dhu
+Drehu	dhv
+Danuwar	dhw
+Dhungaloo	dhx
+Dia	dia
+South Central Dinka	dib
+Lakota Dida	dic
+Didinga	did
+Dieri	dif
+Digo	dig
+Kumiai	dih
+Dimbong	dii
+Dai	dij
+Southwestern Dinka	dik
+Dilling	dil
+Dime	dim
+Dinka	din
+Dibo	dio
+Northeastern Dinka	dip
+Dirim	dir
+Dimasa	dis
+Gciriku	diu
+Northwestern Dinka	diw
+Dixon Reef	dix
+Diuwe	diy
+Ding	diz
+Djadjawurrung	dja
+Djinba	djb
+Dar Daju Daju	djc
+Djamindjung	djd
+Zarma	dje
+Djangun	djf
+Djinang	dji
+Djeebbana	djj
+Aukan	djk
+Djiwarli	djl
+Jamsay	djm
+Djauan	djn
+Jangkang	djo
+Djambarrpuyngu	djr
+Kapriman	dju
+Djawi	djw
+Dakpa	dka
+Dakka	dkk
+Kuijau	dkr
+Southeastern Dinka	dks
+Mazagway	dkx
+Dolgan	dlg
+Dahalik	dlk
+Dalmatian	dlm
+Darlong	dln
+Duma	dma
+Mombo Dogon	dmb
+Dimir	dmc
+Madhi Madhi	dmd
+Dugwor	dme
+Upper Kinabatangan	dmg
+Domaaki	dmk
+Dameli	dml
+Dama	dmm
+Kemezung	dmo
+East Damar	dmr
+Dampelas	dms
+Dubu	dmu
+Dumpas	dmv
+Mudburra	dmw
+Dema	dmx
+Demta	dmy
+Upper Grand Valley Dani	dna
+Daonda	dnd
+Ndendeule	dne
+Dungan	dng
+Lower Grand Valley Dani	dni
+Dan	dnj
+Dengka	dnk
+Dzuun	dnn
+Danaru	dnr
+Mid Grand Valley Dani	dnt
+Danau	dnu
+Danu	dnv
+Western Dani	dnw
+Dení	dny
+Dom	doa
+Dobu	dob
+Doe	doe
+Domu	dof
+Dong	doh
+Dogri	doi
+Dondo	dok
+Doso	dol
+Doura	don
+Dongo	doo
+Lukpa	dop
+Dominican Sign Language	doq
+Dori'o	dor
+Dogosé	dos
+Dass	dot
+Dombe	dov
+Doyayo	dow
+Bussa	dox
+Dompo	doy
+Dorze	doz
+Papar	dpp
+Dair	drb
+Minderico	drc
+Darmiya	drd
+Rungus	drg
+Lela	dri
+Baagandji	drl
+West Damar	drn
+Daro-Matu Melanau	dro
+Dura	drq
+Dororo	drr
+Gedeo	drs
+Rukai	dru
+Darai	dry
+Lower Sorbian	dsb
+Dutch Sign Language	dse
+Daasanach	dsh
+Disa	dsi
+Danish Sign Language	dsl
+Dusner	dsn
+Desiya	dso
+Tadaksahak	dsq
+Daur	dta
+Labuk-Kinabatangan Kadazan	dtb
+Ditidaht	dtd
+Adithinngithigh	dth
+Ana Tinga Dogon	dti
+Tene Kan Dogon	dtk
+Tomo Kan Dogon	dtm
+Tommo So	dto
+Central Dusun	dtp
+Lotud	dtr
+Toro So Dogon	dts
+Toro Tegu Dogon	dtt
+Tebul Ure Dogon	dtu
+Doteli	dty
+Duala	dua
+Dubli	dub
+Duna	duc
+Duka	dud
+Umiray Dumaget Agta	due
+Dumbea	duf
+Chiduruma	dug
+Dungra Bhil	duh
+Dumun	dui
+Uyajitaya	duk
+Alabat Island Agta	dul
+Middle Dutch	dum
+Dusun Deyah	dun
+Dupaninan Agta	duo
+Duano	dup
+Dusun Malang	duq
+Dii	dur
+Dumi	dus
+Drung	duu
+Duvle	duv
+Dusun Witu	duw
+Duun	dux
+Dicamay Agta	duy
+Duli	duz
+Duau	dva
+Diri	dwa
+Dawro	dwr
+Dhuwal	dwu
+Dawawa	dww
+Dhuwaya	dwy
+Dyan	dya
+Dyaberdyaber	dyb
+Dyugun	dyd
+Villa Viciosa Agta	dyg
+Djimini	dyi
+Yanda Dogon	dym
+Dyangadi	dyn
+Jola-Fonyi	dyo
+Dyula	dyu
+Dyaabugay	dyy
+Tunzu	dza
+Dazaga	dzg
+Dzala	dzl
+Dzando	dzn
+
+Ebughu	ebg
+Eastern Bontoc	ebk
+Teke-Ebo	ebo
+Ebrié	ebr
+Embu	ebu
+Eteocretan	ecr
+Ecuadorian Sign Language	ecs
+Eteocypriot	ecy
+E	eee
+Efai	efa
+Efe	efe
+Efik	efi
+Ega	ega
+Emilian	egl
+Eggon	ego
+Egyptian	egy
+Ehueun	ehu
+Eipomek	eip
+Eitiep	eit
+Askopan	eiv
+Ejamat	eja
+Ekajuk	eka
+Ekit	eke
+Ekari	ekg
+Eki	eki
+Kolhe	ekl
+Elip	ekm
+Koti	eko
+Ekpeye	ekp
+Yace	ekr
+Eastern Kayah	eky
+Elepi	ele
+El Hugeirat	elh
+Nding	eli
+Elkei	elk
+Eleme	elm
+El Molo	elo
+Elu	elu
+Elamite	elx
+Emai	ema
+Embaloh	emb
+Emerillon	eme
+Eastern Meohang	emg
+Mussau-Emira	emi
+Eastern Maninkakan	emk
+Mamulique	emm
+Eman	emn
+Northern Emberá	emp
+Alutiiq	ems
+Eastern Muria	emu
+Emplawas	emw
+Erromintxela	emx
+Epigraphic Mayan	emy
+Apali	ena
+Markweeta	enb
+En	enc
+Ende	end
+Forest Enets	enf
+Tundra Enets	enh
+Enlhet	enl
+Middle English	enm
+Engenni	enn
+Enggano	eno
+Enga	enq
+Emem	enr
+Enu	enu
+Enwan	env
+Enwang	enw
+Enxet	enx
+Eotile	eot
+Epie	epi
+Eravallan	era
+Sie	erg
+Eruwa	erh
+Ogea	eri
+South Efate	erk
+Horpa	ero
+Erre	err
+Ersu	ers
+Eritai	ert
+Erokwanas	erw
+Ese Ejja	ese
+Eshtehardi	esh
+North Alaskan Inupiatun	esi
+Northwest Alaska Inupiatun	esk
+Egyptian Sign Language	esl
+Esuma	esm
+Salvadoran Sign Language	esn
+Estonian Sign Language	eso
+Esselen	esq
+Central Siberian Yupik	ess
+Yup'ik	esu
+Eskayan	esy
+Etebi	etb
+Etchemin	etc
+Ethiopian Sign Language	eth
+Eton (Vanuatu)	etn
+Eton (Cameroon)	eto
+Edolo	etr
+Yekhee	ets
+Etruscan	ett
+Ejagham	etu
+Eten	etx
+Semimi	etz
+Even	eve
+Uvbie	evh
+Evenki	evn
+Ewondo	ewo
+Extremaduran	ext
+Eyak	eya
+Keiyo	eyo
+Ezaa	eza
+Uzekwe	eze
+
+Fasu	faa
+Annobonese	fab
+Wagi	fad
+Fagani	faf
+Finongan	fag
+Baissa Fali	fah
+Faiwol	fai
+Faita	faj
+Fang (Cameroon)	fak
+South Fali	fal
+Fam	fam
+Fang (Guinea)	fan
+Palor	fap
+Fataleka	far
+Fayu	fau
+Fala	fax
+Southwestern Fars	fay
+Northwestern Fars	faz
+West Albay Bikol	fbl
+Quebec Sign Language	fcs
+Feroge	fer
+Foia Foia	ffi
+Fongoro	fgr
+Nobiin	fia
+Fyer	fie
+Fipa	fip
+Firan	fir
+Meänkieli	fit
+Fiwaga	fiw
+Kirya-Konzel	fkk
+Kven	fkv
+Montana Salish	fla
+Foau	flh
+Fali	fli
+North Fali	fll
+Flinders Island	fln
+Fuliiru	flr
+Tsotsitaal	fly
+Fe'fe'	fmp
+Far Western Muria	fmu
+Fanagalo	fng
+Fania	fni
+Foodo	fod
+Foi	foi
+Foma	fom
+Fon	fon
+Fore	for
+Siraya	fos
+Pichinglis	fpe
+Fas	fqs
+Fordata	frd
+Frankish	frk
+Middle French	frm
+Old French	fro
+Franco-Provençal	frp
+Forak	frq
+North Frisian	frr
+Fortsenal	frt
+Finnish Sign Language	fse
+French Sign Language	fsl
+Finnish-Swedish Sign Language	fss
+East Futuna	fud
+Ko	fuj
+Fum	fum
+Fulniô	fun
+Friulian	fur
+Futuna-Aniwa	fut
+Furu	fuu
+Fuyug	fuy
+Fur	fvr
+Fwâi	fwa
+Fwe	fwe
+
+Ga	gaa
+Gabri	gab
+Gaddang	gad
+Warekena	gae
+Gende	gaf
+Gagauz	gag
+Alekano	gah
+Borei	gai
+Gadsup	gaj
+Gamkonora	gak
+Galoli	gal
+Kandawo	gam
+Gan	gan
+Gants	gao
+Gal	gap
+Gata'	gaq
+Galeya	gar
+Adiwasi Garasia	gas
+Kenati	gat
+Kondekor	gau
+Nobonob	gaw
+Gayo	gay
+Gbaya	gba
+Kaytetye	gbb
+Karadjeri	gbd
+Niksek	gbe
+Gaikundi	gbf
+Gbanziri	gbg
+Defi Gbe	gbh
+Galela	gbi
+Bodo Gadaba	gbj
+Gaddi	gbk
+Gamit	gbl
+Garhwali	gbm
+Mo'da	gbn
+Northern Grebo	gbo
+Gbaya-Bossangoa	gbp
+Gbaya-Bozoum	gbq
+Gbagyi	gbr
+Gbesi Gbe	gbs
+Gagadu	gbu
+Gbanu	gbv
+Gabi	gbw
+Eastern Xwla Gbe	gbx
+Gbari	gby
+Zoroastrian Dari	gbz
+Mali	gcc
+Ganggalida	gcd
+Galice	gce
+Antillean Creole	gcf
+Grenadian Creole English	gcl
+Gaina	gcn
+Guianese Creole	gcr
+Colonia Tovar German	gct
+Ollari	gdb
+Gugu Badhun	gdc
+Gedaged	gdd
+Gude	gde
+Guduf-Gava	gdf
+Ga'dang	gdg
+Gadjerawang	gdh
+Gundi	gdi
+Kurtjar	gdj
+Gadang	gdk
+Dirasha	gdl
+Laal	gdm
+Umanakaina	gdn
+Godoberi	gdo
+Mehri	gdq
+Wipi	gdr
+Ghandruk Sign Language	gds
+Kungardutyi	gdt
+Gudu	gdu
+Godwari	gdx
+Geruma	gea
+Kire	geb
+Gboloo Grebo	gec
+Gade	ged
+Gengle	geg
+Hutterisch	geh
+Gebe	gei
+Gen	gej
+Gerka	gek
+Fakkanci	gel
+Geme	geq
+Geser-Gorom	ges
+Viya	gev
+Gera	gew
+Garre	gex
+Enya	gey
+Ge'ez	gez
+Patpatar	gfk
+Gafat	gft
+Gao	gga
+Gbii	ggb
+Gugadj	ggd
+Guragone	gge
+Gurgula	ggg
+Kungarakany	ggk
+Ganglau	ggl
+Eastern Gurung	ggn
+Gitua	ggt
+Gban	ggu
+Gogodala	ggw
+Ghadames	gha
+Southern Ghale	ghe
+Northern Ghale	ghh
+Geko Karen	ghk
+Ghulfan	ghl
+Ghanongga	ghn
+Ghomara	gho
+Ghera	ghr
+Guhu-Samane	ghs
+Kutang Ghale	ght
+Kitja	gia
+Gibanawa	gib
+Gail	gic
+Gidar	gid
+Goaria	gig
+Githabul	gih
+Gilbertese	gil
+Papuan Gimi	gim
+Hinukh	gin
+Gelao	gio
+Austronesian Gimi	gip
+Green Gelao	giq
+Red Gelao	gir
+North Giziga	gis
+Gitxsan	git
+Mulao	giu
+White Gelao	giw
+Gilima	gix
+Giyug	giy
+South Giziga	giz
+Geji	gji
+Kachi Koli	gjk
+Gunditjmara	gjm
+Gonja	gjn
+Gojri	gju
+Guya	gka
+Ndai	gke
+Gokana	gkn
+Kok-Nar	gko
+Guinea Kpelle	gkp
+Bon Gula	glc
+Nanai	gld
+Northwest Pashayi	glh
+Guliguli	gli
+Kulaal	glj
+Gilaki	glk
+Galambu	glo
+Glaro-Twabo	glr
+Gula	glu
+Glavda	glw
+Gule	gly
+Gambera	gma
+Gula'alaa	gmb
+Mághdì	gmd
+Magɨyi	gmg
+Middle High German	gmh
+Middle Low German	gml
+Gbaya-Mbodomo	gmm
+Gimnime	gmn
+Gumalu	gmu
+Gamo	gmv
+Magoma	gmx
+Mycenaean Greek	gmy
+Mgbo	gmz
+Kaansa	gna
+Gangte	gnb
+Guanche	gnc
+Zulgo-Gemzek	gnd
+Ganang	gne
+Ngangam	gng
+Lere	gnh
+Gooniyandi	gni
+ǁGana	gnk
+Gangulu	gnl
+Ginuman	gnm
+Gumatj	gnn
+Gana	gnq
+Gureng Gureng	gnr
+Guntai	gnt
+Gnau	gnu
+Western Bolivian Guaraní	gnw
+Ganzi	gnz
+Guro	goa
+Playero	gob
+Gorakor	goc
+Godié	god
+Gongduk	goe
+Gofa	gof
+Gogo	gog
+Old High German	goh
+Gobasi	goi
+Gowlan	goj
+Gowli	gok
+Gola	gol
+Gondi	gon
+Gone Dau	goo
+Yeretuar	gop
+Gorap	goq
+Gorontalo	gor
+Gothic	got
+Gavar	gou
+Gorowa	gow
+Gobu	gox
+Goundo	goy
+Gozarkhani	goz
+Gupa-Abawa	gpa
+Taiap	gpn
+Ga'anda	gqa
+Guiqiong	gqi
+Kinikinao	gqn
+Gor	gqr
+Qau	gqu
+Rajput Garasia	gra
+Grebo	grb
+Ancient Greek	grc
+Guruntum	grd
+Madi	grg
+Gbiri-Niragu	grh
+Ghari	gri
+Southern Grebo	grj
+Kota Marudu Talantang	grm
+Groma	gro
+Gorovu	grq
+Taznatit	grr
+Gresi	grs
+Garo	grt
+Kistane	gru
+Central Grebo	grv
+Gweda	grw
+Guriaso	grx
+Barclayville Grebo	gry
+Guramalum	grz
+Ghanaian Sign Language	gse
+German Sign Language	gsg
+Gusilay	gsl
+Guatemalan Sign Language	gsm
+Gusan	gsn
+Southwest Gbaya	gso
+Wasembo	gsp
+Greek Sign Language	gss
+Alemannic German	gsw
+Guató	gta
+Gbati-ri	gti
+Aghu Tharrnggala	gtu
+Shiki	gua
+Guajajára	gub
+Wayuu	guc
+Yocoboué Dida	gud
+Gurindji	gue
+Gupapuyngu	guf
+Paraguayan Guaraní	gug
+Guahibo	guh
+Eastern Bolivian Guaraní	gui
+Gumuz	guk
+Gullah	gul
+Guambiano	gum
+Mbyá Guaraní	gun
+Guayabero	guo
+Gunwinggu	gup
+Aché	guq
+Farefare	gur
+Guinean Sign Language	gus
+Maléku Jaíka	gut
+Yanomamö	guu
+Gey	guv
+Gun	guw
+Gourmanchéma	gux
+Gusii	guz
+Kaskihá	gva
+Guanano	gvc
+Duwet	gve
+Golin	gvf
+Guajá	gvj
+Gulay	gvl
+Gurmana	gvm
+Kuku-Yalanji	gvn
+Gavião do Jiparaná	gvo
+Pará Gavião	gvp
+Western Gurung	gvr
+Gumawana	gvs
+Guyani	gvy
+Mbato	gwa
+Gwa	gwb
+Kalami	gwc
+Gawwada	gwd
+Gweno	gwe
+Gowro	gwf
+Moo	gwg
+Gwich'in	gwi
+Gcwi	gwj
+Awngthim	gwm
+Gwandara	gwn
+Gwere	gwr
+Gawar-Bati	gwt
+Guwamu	gwu
+Kwini	gww
+Gua	gwx
+Wè Southern	gxx
+Northwest Gbaya	gya
+Garus	gyb
+Kayardild	gyd
+Gyem	gye
+Gungabula	gyf
+Gbayi	gyg
+Gyele	gyi
+Gayil	gyl
+Ngäbere	gym
+Guyanese Creole English	gyn
+Guarayu	gyr
+Gunya	gyy
+Ganza	gza
+Gazi	gzi
+Gane	gzn
+
+Han	haa
+Hanoi Sign Language	hab
+Gurani	hac
+Hatam	had
+Haiphong Sign Language	haf
+Hanga	hag
+Hahon	hah
+Haida	hai
+Hajong	haj
+Hakka	hak
+Halang	hal
+Hewa	ham
+Hakö	hao
+Hupla	hap
+Harari	har
+Haisla	has
+Havu	hav
+Hawaiian	haw
+Southern Haida	hax
+Haya	hay
+Hazaragi	haz
+Hamba	hba
+Huba	hbb
+Heiban	hbn
+Habu	hbu
+Andaman Creole Hindi	hca
+Huichol	hch
+Northern Haida	hdn
+Honduras Sign Language	hds
+Hadiyya	hdy
+Northern Qiandong Miao	hea
+Herdé	hed
+Helong	heg
+Hehe	heh
+Heiltsuk	hei
+Hemba	hem
+Haiǁom	hgm
+Haigwai	hgw
+Hoia Hoia	hhi
+Kerak	hhr
+Hoyahoya	hhy
+Lamang	hia
+Hibito	hib
+Hidatsa	hid
+Fiji Hindi	hif
+Kamwe	hig
+Pamosu	hih
+Hinduri	hii
+Hijuk	hij
+Seit-Kaitetu	hik
+Hiligaynon	hil
+Tshwa	hio
+Himarimã	hir
+Hittite	hit
+Hiw	hiw
+Hixkaryana	hix
+Haji	hji
+Kahe	hka
+Hunde	hke
+Hunjara-Kaina Ke	hkk
+Hong Kong Sign Language	hks
+Halia	hla
+Halbi	hlb
+Halang Doan	hld
+Hlersu	hle
+Nga La	hlt
+Southern Mashan Hmong	hma
+Humburi Senni Songhay	hmb
+Central Huishui Hmong	hmc
+A-Hmao	hmd
+Eastern Huishui Hmong	hme
+Hmong Don	hmf
+Southwestern Guiyang Hmong	hmg
+Southwestern Huishui Hmong	hmh
+Northern Huishui Hmong	hmi
+Ge	hmj
+Maek	hmk
+Luopohe Hmong	hml
+Central Mashan Hmong	hmm
+Northern Mashan Hmong	hmp
+Eastern Qiandong Miao	hmq
+Hmar	hmr
+Southern Qiandong Miao	hms
+Hamtai	hmt
+Hamap	hmu
+Hmong Dô	hmv
+Western Mashan Hmong	hmw
+Southern Guiyang Hmong	hmy
+Hmong Shua	hmz
+Mina	hna
+Southern Hindko	hnd
+Chhattisgarhi	hne
+ǁAni	hnh
+Hani	hni
+Green Hmong	hnj
+Hanunoo	hnn
+Northern Hindko	hno
+Caribbean Hindustani	hns
+Hung	hnu
+Hoava	hoa
+Austronesian Mari	hob
+Ho	hoc
+Holma	hod
+Horom	hoe
+Hobyót	hoh
+Holikachuk	hoi
+Hadothi	hoj
+Holu	hol
+Homa	hom
+Holoholo	hoo
+Hopi	hop
+Horo	hor
+Ho Chi Minh City Sign Language	hos
+Hote	hot
+Hovongan	hov
+Honi	how
+Holiya	hoy
+Hozo	hoz
+Hpon	hpo
+Hawai'i Pidgin Sign Language	hps
+Hrangkhol	hra
+Niwer Mil	hrc
+Hre	hre
+Haruku	hrk
+Horned Miao	hrm
+Haroi	hro
+Nhirrpi	hrp
+Hértevin	hrt
+Hruso	hru
+Warwar Feni	hrw
+Hunsrik	hrx
+Harzani	hrz
+Upper Sorbian	hsb
+Hungarian Sign Language	hsh
+Hausa Sign Language	hsl
+Xiang	hsn
+Harsusi	hss
+Hoti	hti
+Minica Huitoto	hto
+Hadza	hts
+Hitu	htu
+Middle Hittite	htx
+Huambisa	hub
+ǂHoan	huc
+Huaulu	hud
+Humene	huf
+Huachipaeri	hug
+Huilliche	huh
+Huli	hui
+Northern Guiyang Hmong	huj
+Hulung	huk
+Hula	hul
+Hungana	hum
+Hu	huo
+Hupa	hup
+Tsat	huq
+Halkomelem	hur
+Wastek	hus
+Murui Huitoto	huu
+Huave	huv
+Hukumina	huw
+Nüpode Huitoto	hux
+Hulaulá	huy
+Hunzib	huz
+Haitian Vodoun Culture Language	hvc
+Haveke	hvk
+Sabu	hvn
+Wané	hwa
+Hwana	hwo
+Hya	hya
+
+Iaai	iai
+Iatmul	ian
+Purari	iar
+Iban	iba
+Ibibio	ibb
+Iwaidja	ibd
+Akpes	ibe
+Ibanag	ibg
+Ibaloi	ibl
+Agoi	ibm
+Ibino	ibn
+Ibuoro	ibr
+Ibu	ibu
+Ibani	iby
+Ede Ica	ica
+Etkywan	ich
+Icelandic Sign Language	icl
+Islander Creole English	icr
+Idakho-Isukha-Tiriki	ida
+Indo-Portuguese	idb
+Idon	idc
+Ede Idaca	idd
+Idere	ide
+Idi	idi
+Indri	idr
+Idesa	ids
+Idaté	idt
+Idoma	idu
+Amganad Ifugao	ifa
+Batad Ifugao	ifb
+Ifè	ife
+Ifo	iff
+Tuwali Ifugao	ifk
+Teke-Fuumu	ifm
+Mayoyao Ifugao	ifu
+Keley-I Kallahan	ify
+Ebira	igb
+Igede	ige
+Igana	igg
+Igala	igl
+Kanggape	igm
+Ignaciano	ign
+Isebe	igo
+Glosa	igs
+Igwe	igw
+Iha Based Pidgin	ihb
+Ihievbe	ihi
+Iha	ihp
+Izon	ijc
+Biseni	ije
+Ede Ije	ijj
+Kalabari	ijn
+Southeast Ijo	ijs
+Eastern Canadian Inuktitut	ike
+Iko	iki
+Ika	ikk
+Ikulu	ikl
+Olulumo-Ikom	iko
+Ikpeshi	ikp
+Ikaranggal	ikr
+Inuit Sign Language	iks
+Western Canadian Inuktitut	ikt
+Iku-Gora-Ankwa	ikv
+Ikwere	ikw
+Ik	ikx
+Ikizu	ikz
+Ile Ape	ila
+Ila	ilb
+Ilgar	ilg
+Ili Turki	ili
+Ilongot	ilk
+Iranun	ill
+Ilocano	ilo
+International Sign	ils
+Ili'uun	ilu
+Ilue	ilv
+Mala Malasar	ima
+Anamgura	imi
+Miluk	iml
+Imonda	imn
+Imbongu	imo
+Imroing	imr
+Marsian	ims
+Milyan	imy
+Inga	inb
+Deg Xinag	ing
+Ingush	inh
+Jungle Inga	inj
+Indonesian Sign Language	inl
+Minaean	inm
+Isinai	inn
+Inoke-Yate	ino
+Iñapari	inp
+Indian Sign Language	ins
+Intha	int
+Ineseño	inz
+Inor	ior
+Tuma-Irumu	iou
+Chiwere	iow
+Ipili	ipi
+Ipiko	ipo
+Iquito	iqu
+Ikwo	iqw
+Iresim	ire
+Irarutu	irh
+Irigwe	iri
+Iraqw	irk
+Irántxe	irn
+Ir	irr
+Irula	iru
+Kamberau	irx
+Iraya	iry
+Isabi	isa
+Isconahua	isc
+Isnag	isd
+Italian Sign Language	ise
+Irish Sign Language	isg
+Esan	ish
+Nkem-Nkum	isi
+Ishkashimi	isk
+Masimasi	ism
+Isanzu	isn
+Isoko	iso
+Israeli Sign Language	isr
+Istriot	ist
+Isu	isu
+Binongan Itneg	itb
+Southern Tidong	itd
+Itene	ite
+Inlaod Itneg	iti
+Judeo-Italian	itk
+Itelmen	itl
+Itu Mbon Uzo	itm
+Itonama	ito
+Iteri	itr
+Isekiri	its
+Maeng Itneg	itt
+Itawit	itv
+Ito	itw
+Itik	itx
+Moyadan Itneg	ity
+Itzá	itz
+Iu Mien	ium
+Ibatan	ivb
+Ivatan	ivv
+I-Wak	iwk
+Iwam	iwm
+Iwur	iwo
+Sepik Iwam	iws
+Ixcatec	ixc
+Ixil	ixl
+Iyayu	iya
+Mesaka	iyo
+Yaa	iyx
+Ingrian	izh
+Izi-Ezaa-Ikwo-Mgbo	izi
+Izere	izr
+Izi	izz
+
+Jamamadí	jaa
+Hyam	jab
+Jakaltek	jac
+Jahanka	jad
+Jabem	jae
+Jara	jaf
+Jah Hut	jah
+Zazao	jaj
+Yalahatan	jal
+Jamaican Creole	jam
+Yanyuwa	jao
+Yaqay	jaq
+New Caledonian Javanese	jas
+Jakati	jat
+Yaur	jau
+Jambi Malay	jax
+Yan-nhangu	jay
+Jawe	jaz
+Judeo-Berber	jbe
+Arandai	jbj
+Nefusa	jbn
+Lojban	jbo
+Jofotek-Bromnya	jbr
+Jabutí	jbt
+Jukun Takum	jbu
+Jamaican Country Sign Language	jcs
+Krymchak	jct
+Jad	jda
+Jadgali	jdg
+Judeo-Tat	jdt
+Jebero	jeb
+Jerung	jee
+Jeng	jeg
+Jeh	jeh
+Yei	jei
+Jeri Kuo	jek
+Yelmek	jel
+Dza	jen
+Jere	jer
+Manem	jet
+Jonkor Bourmataguil	jeu
+Ngbee	jgb
+Ngomba	jgo
+Jehai	jhi
+Jhankot Sign Language	jhs
+Jina	jia
+Jibu	jib
+Tol	jic
+Bu	jid
+Jilbe	jie
+Jingulu	jig
+Shangzhai	jih
+Jiiddu	jii
+Jilim	jil
+Jimjimen	jim
+Jiamao	jio
+Guanyinqiao	jiq
+Jita	jit
+Youle Jinuo	jiu
+Shuar	jiv
+Buyuan Jinuo	jiy
+Jeju	jje
+Kaera	jka
+Kubo	jko
+Koro (India)	jkr
+Labir	jku
+Ngile	jle
+Jamaican Sign Language	jls
+Dima	jma
+Zumbun	jmb
+Machame	jmc
+Yamdena	jmd
+Jimi	jmi
+Jumli	jml
+Makuri Naga	jmn
+Kamara	jmr
+Western Juxtlahuaca Mixtec	jmx
+Jangshung	jna
+Jandavra	jnd
+Yangman	jng
+Janji	jni
+Yemsa	jnj
+Rawat	jnl
+Jaunsari	jns
+Joba	job
+Wojenaka	jod
+Jorá	jor
+Jordanian Sign Language	jos
+Jowulu	jow
+Judeo-Persian	jpr
+Jaqaru	jqr
+Jarai	jra
+Judeo-Arabic	jrb
+Jiru	jrr
+Jorto	jrt
+Japrería	jru
+Japanese Sign Language	jsl
+Júma	jua
+Wannu	jub
+Jurchen	juc
+Worodougou	jud
+Hõne	juh
+Wapan	juk
+Jirel	jul
+Jumjum	jum
+Juang	jun
+Jiba	juo
+Hupdë	jup
+Jurúna	jur
+Jumla Sign Language	jus
+Jutish	jut
+Ju	juu
+Wãpha	juw
+Juray	juy
+Javindo	jvd
+Caribbean Javanese	jvn
+Jwira-Pepesa	jwi
+Judeo-Yemeni Arabic	jye
+Jaya	jyy
+
+Karakalpak	kaa
+Kabyle	kab
+Jingpho	kac
+Kadara	kad
+Ketangalan	kae
+Katso	kaf
+Kajaman	kag
+Fer	kah
+Karekare	kai
+Jju	kaj
+Kayapa Kallahan	kak
+Kamba	kam
+Kassonke	kao
+Bezhta	kap
+Capanahua	kaq
+Old Javanese	kaw
+Kao	kax
+Kamayurá	kay
+Kalarko	kba
+Kaxuyana	kbb
+Kadiwéu	kbc
+Kabardian	kbd
+Kanju	kbe
+Camsá	kbh
+Kaptiau	kbi
+Kari	kbj
+Grass Koiari	kbk
+Iwal	kbm
+Kare (New Guinea)	kbn
+Keliko	kbo
+Kabiyé	kbp
+Kamano	kbq
+Kafa	kbr
+Kande	kbs
+Gabadi	kbt
+Kabutra	kbu
+Kamberataro	kbv
+Kaiep	kbw
+Ap Ma	kbx
+Duhwa	kbz
+Khanty	kca
+Kawacha	kcb
+Lubila	kcc
+Ngkâlmpw Kanum	kcd
+Kaivi	kce
+Ukaan	kcf
+Tyap	kcg
+Vono	kch
+Kamantan	kci
+Kobiana	kcj
+Kalanga	kck
+Kala	kcl
+Tar Gula	kcm
+Nubi	kcn
+Kinalakna	kco
+Kanga	kcp
+Kamo	kcq
+Katla	kcr
+Koenoem	kcs
+Kaian	kct
+Kikami	kcu
+Kete	kcv
+Kabwari	kcw
+Kachama-Ganjule	kcx
+Korandje	kcy
+Konongo	kcz
+Worimi	kda
+Kutu	kdc
+Yankunytjatjara	kdd
+Makonde	kde
+Mamusi	kdf
+Seba	kdg
+Tem	kdh
+Kumam	kdi
+Karamojong	kdj
+Numee	kdk
+Tsikimba	kdl
+Kagoma	kdm
+Kunda	kdn
+Kaningdon-Nindem	kdp
+Koch	kdq
+Karaim	kdr
+Kuy	kdt
+Kadaru	kdu
+Kado	kdv
+Koneraw	kdw
+Kam	kdx
+Keder	kdy
+Kwaja	kdz
+Kabuverdianu	kea
+Kélé	keb
+Keiga	kec
+Kerewe	ked
+Eastern Keres	kee
+Kpessi	kef
+Tese	keg
+Keak	keh
+Kei	kei
+Kadar	kej
+Q'eqchi	kek
+Kela	kel
+Kemak	kem
+Kenyang	ken
+Kakwa	keo
+Kaikadi	kep
+Kamar	keq
+Kera	ker
+Kugbo	kes
+Ket	ket
+Akebu	keu
+Kanikkaran	kev
+West Kewa	kew
+Kukna	kex
+Kupia	key
+Kukele	kez
+Kodava	kfa
+Northwestern Kolami	kfb
+Konda-Dora	kfc
+Korra Koraga	kfd
+Kota	kfe
+Koya	kff
+Kudiya	kfg
+Kurichiya	kfh
+Kannada Kurumba	kfi
+Kemiehua	kfj
+Kinnauri	kfk
+Kung	kfl
+Khunsari	kfm
+Kuk	kfn
+Koro (West Africa)	kfo
+Korwa	kfp
+	kfq

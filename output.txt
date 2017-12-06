@@ -1,0 +1,1239 @@
+ALLER 
+French#VERB	Table	           aller simple  infinitive   être allé compound  infinitive     en allant simple  gerund   en étant allé compound  gerund      allant	 simple  present participle         allé	 simple  past participle                                 vais	 je (j’) indicative first singular person present  vas	 tu indicative second singular person present  va	 il indicative third singular person present  allons	 nous indicative first plural person present  allez	 vous indicative second plural person present  vont	 ils indicative third plural person present    allais	 je (j’) indicative first singular person imperfect  allais	 tu indicative second singular person imperfect  allait	 il indicative third singular person imperfect  allions	 nous indicative first plural person imperfect  alliez	 vous indicative second plural person imperfect  allaient	 ils indicative third plural person imperfect   past historic	 imperfect simple<br> tenses person person person simple<br> tenses  allai	 je (j’) indicative first singular person simple<br> tenses  allas	 tu indicative second singular person simple<br> tenses  alla	 il indicative third singular person simple<br> tenses  allâmes	 nous indicative first plural person simple<br> tenses  allâtes	 vous indicative second plural person simple<br> tenses  allèrent	 ils indicative third plural person simple<br> tenses    irai	 je (j’) indicative first singular person future  iras	 tu indicative second singular person future  ira	 il indicative third singular person future  irons	 nous indicative first plural person future  irez	 vous indicative second plural person future  iront	 ils indicative third plural person future    irais	 je (j’) indicative first singular person conditional  irais	 tu indicative second singular person conditional  irait	 il indicative third singular person conditional  irions	 nous indicative first plural person conditional  iriez	 vous indicative second plural person conditional  iraient	 ils indicative third plural person conditional                   past anterior	 pluperfect compound<br> tenses person person person compound<br> tenses                                  aille	 que je (j’) subjunctive first singular person present  ailles	 que tu subjunctive second singular person present  aille	 qu’il subjunctive third singular person present  allions	 que nous subjunctive first plural person present  alliez	 que vous subjunctive second plural person present  aillent	 qu’ils subjunctive third plural person present   imperfect	 present simple<br> tenses person person person simple<br> tenses  allasse	 que je (j’) subjunctive first singular person simple<br> tenses  allasses	 que tu subjunctive second singular person simple<br> tenses  allât	 qu’il subjunctive third singular person simple<br> tenses  allassions	 que nous subjunctive first plural person simple<br> tenses  allassiez	 que vous subjunctive second plural person simple<br> tenses  allassent	 qu’ils subjunctive third plural person simple<br> tenses           pluperfect	 past compound<br> tenses person person person compound<br> tenses         – use the imperfect subjunctive tense of être followed by the past participle compound<br> tenses first singular person imperative  – use the imperfect subjunctive tense of être followed by the past participle compound<br> tenses third singular person tu   – use the imperfect subjunctive tense of être followed by the past participle compound<br> tenses third plural person vous     va	 tu imperative second singular person imperative   allons	 nous imperative first plural person imperative  allez	 vous imperative second plural person imperative          
+French#NOUN		allers	plural
+German#ADJECTIVE	
+Middle French#VERB	Table	           aller simple  infinitive   estre  allé	 compound  infinitive     en  allant	 simple  gerund         allant	 simple  present participle         allé	 simple  past participle                                 vays	 ie (may be i' before a vowel) indicative first singular person present  vas	 tu indicative second singular person present  va	 il indicative third singular person present  allons	 nous indicative first plural person present  allez	 vous indicative second plural person present  vont	 ilz, elles indicative third plural person present    allois	 ie (may be i' before a vowel) indicative first singular person imperfect  allois	 tu indicative second singular person imperfect  alloit	 il indicative third singular person imperfect  allions	 nous indicative first plural person imperfect  alliez	 vous indicative second plural person imperfect  alloient	 ilz, elles indicative third plural person imperfect    allai	 ie (may be i' before a vowel) indicative first singular person past historic  allas	 tu indicative second singular person past historic  alla	 il indicative third singular person past historic  allasmes	 nous indicative first plural person past historic  allastes	 vous indicative second plural person past historic  allerent	 ilz, elles indicative third plural person past historic    yroie	 ie (may be i' before a vowel) indicative first singular person future  yras	 tu indicative second singular person future  yra	 il indicative third singular person future  yrons	 nous indicative first plural person future  yrez	 vous indicative second plural person future  yront	 ilz, elles indicative third plural person future    yrois	 ie (may be i' before a vowel) indicative first singular person conditional  yrois	 tu indicative second singular person conditional  yroit	 il indicative third singular person conditional  yrions	 nous indicative first plural person conditional  yriez	 vous indicative second plural person conditional  yroient	 ilz, elles indicative third plural person conditional                                                    aille	 que ie subjunctive first singular person present  ailles	 que tu subjunctive second singular person present  aille	 qu'il subjunctive third singular person present  allions	 que nous subjunctive first plural person present  alliez	 que vous subjunctive second plural person present  aillent	 qu'ilz, qu'elles subjunctive third plural person present    allasse	 que ie subjunctive first singular person imperfect  allasses	 que tu subjunctive second singular person imperfect  allast	 qu'il subjunctive third singular person imperfect  allassions	 que nous subjunctive first plural person imperfect  allassiez	 que vous subjunctive second plural person imperfect  allassent	 qu'ilz, qu'elles subjunctive third plural person imperfect                   – use the imperfect subjunctive of estre followed by the past participle compound<br> tenses first singular person imperative  – use the imperfect subjunctive of estre followed by the past participle compound<br> tenses third singular person tu   – use the imperfect subjunctive of estre followed by the past participle compound<br> tenses third plural person vous     va	 tu imperative second singular person imperative   allons	 nous imperative first plural person imperative  allez	 vous imperative second plural person imperative  
+Norman#VERB	
+Norwegian Bokmål#ADVERB	
+Norwegian Nynorsk#ADVERB	
+Old French#VERB	
+Scots#NOUN		allers	plural
+Welsh#VERB	
+
+AVOIR 
+French#NOUN		avoirs	plural
+French#VERB	Table	           avoir simple  infinitive   avoir eu compound  infinitive     en ayant simple  gerund   en ayant eu compound  gerund      ayant	 simple  present participle         eu	 simple  past participle                                 ai	 je (j’) indicative first singular person present  as	 tu indicative second singular person present  a	 il indicative third singular person present  avons	 nous indicative first plural person present  avez	 vous indicative second plural person present  ont	 ils indicative third plural person present    avais	 je (j’) indicative first singular person imperfect  avais	 tu indicative second singular person imperfect  avait	 il indicative third singular person imperfect  avions	 nous indicative first plural person imperfect  aviez	 vous indicative second plural person imperfect  avaient	 ils indicative third plural person imperfect   past historic	 imperfect simple<br> tenses person person person simple<br> tenses  eus	 je (j’) indicative first singular person simple<br> tenses  eus	 tu indicative second singular person simple<br> tenses  eut	 il indicative third singular person simple<br> tenses  eûmes	 nous indicative first plural person simple<br> tenses  eûtes	 vous indicative second plural person simple<br> tenses  eurent	 ils indicative third plural person simple<br> tenses    aurai	 je (j’) indicative first singular person future  auras	 tu indicative second singular person future  aura	 il indicative third singular person future  aurons	 nous indicative first plural person future  aurez	 vous indicative second plural person future  auront	 ils indicative third plural person future    aurais	 je (j’) indicative first singular person conditional  aurais	 tu indicative second singular person conditional  aurait	 il indicative third singular person conditional  aurions	 nous indicative first plural person conditional  auriez	 vous indicative second plural person conditional  auraient	 ils indicative third plural person conditional                   past anterior	 pluperfect compound<br> tenses person person person compound<br> tenses                                  aie	 que je (j’) subjunctive first singular person present  aies	 que tu subjunctive second singular person present  ait	 qu’il subjunctive third singular person present  ayons	 que nous subjunctive first plural person present  ayez	 que vous subjunctive second plural person present  aient	 qu’ils subjunctive third plural person present   imperfect	 present simple<br> tenses person person person simple<br> tenses  eusse	 que je (j’) subjunctive first singular person simple<br> tenses  eusses	 que tu subjunctive second singular person simple<br> tenses  eût	 qu’il subjunctive third singular person simple<br> tenses  eussions	 que nous subjunctive first plural person simple<br> tenses  eussiez	 que vous subjunctive second plural person simple<br> tenses  eussent	 qu’ils subjunctive third plural person simple<br> tenses           pluperfect	 past compound<br> tenses person person person compound<br> tenses         – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses first singular person imperative  – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses third singular person tu   – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses third plural person vous     aie	 tu imperative second singular person imperative   ayons	 nous imperative first plural person imperative  ayez	 vous imperative second plural person imperative          
+Middle French#VERB	Table	           avoir simple  infinitive   avoir  eu	 compound  infinitive     en  ayant	 simple  gerund         ayant	 simple  present participle         eu	 simple  past participle                                 ay	 ie (may be i' before a vowel) indicative first singular person present  as	 tu indicative second singular person present  a	 il indicative third singular person present  avons	 nous indicative first plural person present  avez	 vous indicative second plural person present  ont	 ilz, elles indicative third plural person present    avais	 ie (may be i' before a vowel) indicative first singular person imperfect  avais	 tu indicative second singular person imperfect  avait	 il indicative third singular person imperfect  avions	 nous indicative first plural person imperfect  aviez	 vous indicative second plural person imperfect  avoyent	 ilz, elles indicative third plural person imperfect    eus	 ie (may be i' before a vowel) indicative first singular person past historic  eus	 tu indicative second singular person past historic  eut	 il indicative third singular person past historic  eusmes	 nous indicative first plural person past historic  eustes	 vous indicative second plural person past historic  eurent	 ilz, elles indicative third plural person past historic    auroye	 ie (may be i' before a vowel) indicative first singular person future  auras	 tu indicative second singular person future  aura	 il indicative third singular person future  aurons	 nous indicative first plural person future  aurez	 vous indicative second plural person future  auront	 ilz, elles indicative third plural person future    aurois	 ie (may be i' before a vowel) indicative first singular person conditional  aurois	 tu indicative second singular person conditional  aurait	 il indicative third singular person conditional  aurions	 nous indicative first plural person conditional  auriez	 vous indicative second plural person conditional  auroyent	 ilz, elles indicative third plural person conditional                                                    aie	 que ie subjunctive first singular person present  aies	 que tu subjunctive second singular person present  ait	 qu'il subjunctive third singular person present  ayons	 que nous subjunctive first plural person present  ayez	 que vous subjunctive second plural person present  ayent	 qu'ilz, qu'elles subjunctive third plural person present    eusse	 que ie subjunctive first singular person imperfect  eusses	 que tu subjunctive second singular person imperfect  eust	 qu'il subjunctive third singular person imperfect  eussions	 que nous subjunctive first plural person imperfect  eussiez	 que vous subjunctive second plural person imperfect  eussent	 qu'ilz, qu'elles subjunctive third plural person imperfect                   – use the imperfect subjunctive of avoir followed by the past participle compound<br> tenses first singular person imperative  – use the imperfect subjunctive of avoir followed by the past participle compound<br> tenses third singular person tu   – use the imperfect subjunctive of avoir followed by the past participle compound<br> tenses third plural person vous     aie	 tu imperative second singular person imperative   aions	 nous imperative first plural person imperative  aiez	 vous imperative second plural person imperative  
+Old French#VERB	Table	            avoir	 simple  infinitive    oüṭ	 compound  infinitive     en  aiant	 simple  gerund         aiant	 simple  present participle         oüṭ	 simple  past participle                                 ai	 jo indicative first singular person present  as	 tu indicative second singular person present  aṭ	 il indicative third singular person present  avons	 nos indicative first plural person present  avez	 vos indicative second plural person present  ont	 il indicative third plural person present    aveie	 jo indicative first singular person imperfect  aveies	 tu indicative second singular person imperfect  aveit	 il indicative third singular person imperfect  aviens	 nos indicative first plural person imperfect  aviez	 vos indicative second plural person imperfect  aveient	 il indicative third plural person imperfect    oi	 jo indicative first singular person preterite  oüs	 tu indicative second singular person preterite  out	 il indicative third singular person preterite  oümes	 nos indicative first plural person preterite  oüstes	 vos indicative second plural person preterite  orent	 il indicative third plural person preterite    arai	 jo indicative first singular person future  aras	 tu indicative second singular person future  ara	 il indicative third singular person future  arons	 nos indicative first plural person future  arez	 vos indicative second plural person future  aront	 il indicative third plural person future    areie	 jo indicative first singular person conditional  areies	 tu indicative second singular person conditional  areit	 il indicative third singular person conditional  ariens	 nos indicative first plural person conditional  ariez	 vos indicative second plural person conditional  areient	 il indicative third plural person conditional                                                    aie	 que jo subjunctive first singular person present  aies	 que tu subjunctive second singular person present  ait	 qu’il subjunctive third singular person present  aions	 que nos subjunctive first plural person present  aiiez	 que vos subjunctive second plural person present  aient	 qu’il subjunctive third plural person present    oüsse	 que jo subjunctive first singular person imperfect  oüsses	 que tu subjunctive second singular person imperfect  oüst	 qu’il subjunctive third singular person imperfect  oüssiens	 que nos subjunctive first plural person imperfect  oüssiez	 que vos subjunctive second plural person imperfect  oüssent	 qu’il subjunctive third plural person imperfect                   – use the imperfect subjunctive of  avoir	 compound<br> tenses first singular person imperative  – use the imperfect subjunctive of  avoir	 compound<br> tenses third singular person tu   – use the imperfect subjunctive of  avoir	 compound<br> tenses third plural person vos     aies	 tu imperative second singular person imperative   aions	 nos imperative first plural person imperative  aiiez	 vos imperative second plural person imperative  
+Old French#NOUN		avoirs	oblique plural	avoirs	nominative singular	avoir	nominative plural
+
+CONNAITRE 
+French#VERB	Table	           connaitre simple  infinitive   avoir connu compound  infinitive     en connaissant simple  gerund   en ayant connu compound  gerund      connaissant	 simple  present participle         connu	 simple  past participle                                 connais	 je (j’) indicative first singular person present  connais	 tu indicative second singular person present  connait	 il indicative third singular person present  connaissons	 nous indicative first plural person present  connaissez	 vous indicative second plural person present  connaissent	 ils indicative third plural person present    connaissais	 je (j’) indicative first singular person imperfect  connaissais	 tu indicative second singular person imperfect  connaissait	 il indicative third singular person imperfect  connaissions	 nous indicative first plural person imperfect  connaissiez	 vous indicative second plural person imperfect  connaissaient	 ils indicative third plural person imperfect   past historic	 imperfect simple<br> tenses person person person simple<br> tenses  connus	 je (j’) indicative first singular person simple<br> tenses  connus	 tu indicative second singular person simple<br> tenses  connut	 il indicative third singular person simple<br> tenses  connûmes	 nous indicative first plural person simple<br> tenses  connûtes	 vous indicative second plural person simple<br> tenses  connurent	 ils indicative third plural person simple<br> tenses    connaitrai	 je (j’) indicative first singular person future  connaitras	 tu indicative second singular person future  connaitra	 il indicative third singular person future  connaitrons	 nous indicative first plural person future  connaitrez	 vous indicative second plural person future  connaitront	 ils indicative third plural person future    connaitrais	 je (j’) indicative first singular person conditional  connaitrais	 tu indicative second singular person conditional  connaitrait	 il indicative third singular person conditional  connaitrions	 nous indicative first plural person conditional  connaitriez	 vous indicative second plural person conditional  connaitraient	 ils indicative third plural person conditional                   past anterior	 pluperfect compound<br> tenses person person person compound<br> tenses                                  connaisse	 que je (j’) subjunctive first singular person present  connaisses	 que tu subjunctive second singular person present  connaisse	 qu’il subjunctive third singular person present  connaissions	 que nous subjunctive first plural person present  connaissiez	 que vous subjunctive second plural person present  connaissent	 qu’ils subjunctive third plural person present   imperfect	 present simple<br> tenses person person person simple<br> tenses  connusse	 que je (j’) subjunctive first singular person simple<br> tenses  connusses	 que tu subjunctive second singular person simple<br> tenses  connût	 qu’il subjunctive third singular person simple<br> tenses  connussions	 que nous subjunctive first plural person simple<br> tenses  connussiez	 que vous subjunctive second plural person simple<br> tenses  connussent	 qu’ils subjunctive third plural person simple<br> tenses           pluperfect	 past compound<br> tenses person person person compound<br> tenses         – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses first singular person imperative  – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses third singular person tu   – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses third plural person vous     connais	 tu imperative second singular person imperative   connaissons	 nous imperative first plural person imperative  connaissez	 vous imperative second plural person imperative          
+
+DEVOIR 
+English#NOUN		devoirs	plural
+French#NOUN		devoirs	plural
+French#VERB	Table	           devoir simple  infinitive   avoir dû compound  infinitive     en devant simple  gerund   en ayant dû compound  gerund      devant	 simple  present participle         dû	 simple  past participle                                 dois	 je (j’) indicative first singular person present  dois	 tu indicative second singular person present  doit	 il indicative third singular person present  devons	 nous indicative first plural person present  devez	 vous indicative second plural person present  doivent	 ils indicative third plural person present    devais	 je (j’) indicative first singular person imperfect  devais	 tu indicative second singular person imperfect  devait	 il indicative third singular person imperfect  devions	 nous indicative first plural person imperfect  deviez	 vous indicative second plural person imperfect  devaient	 ils indicative third plural person imperfect   past historic	 imperfect simple<br> tenses person person person simple<br> tenses  dus	 je (j’) indicative first singular person simple<br> tenses  dus	 tu indicative second singular person simple<br> tenses  dut	 il indicative third singular person simple<br> tenses  dûmes	 nous indicative first plural person simple<br> tenses  dûtes	 vous indicative second plural person simple<br> tenses  durent	 ils indicative third plural person simple<br> tenses    devrai	 je (j’) indicative first singular person future  devras	 tu indicative second singular person future  devra	 il indicative third singular person future  devrons	 nous indicative first plural person future  devrez	 vous indicative second plural person future  devront	 ils indicative third plural person future    devrais	 je (j’) indicative first singular person conditional  devrais	 tu indicative second singular person conditional  devrait	 il indicative third singular person conditional  devrions	 nous indicative first plural person conditional  devriez	 vous indicative second plural person conditional  devraient	 ils indicative third plural person conditional                   past anterior	 pluperfect compound<br> tenses person person person compound<br> tenses                                  doive	 que je (j’) subjunctive first singular person present  doives	 que tu subjunctive second singular person present  doive	 qu’il subjunctive third singular person present  devions	 que nous subjunctive first plural person present  deviez	 que vous subjunctive second plural person present  doivent	 qu’ils subjunctive third plural person present   imperfect	 present simple<br> tenses person person person simple<br> tenses  dusse	 que je (j’) subjunctive first singular person simple<br> tenses  dusses	 que tu subjunctive second singular person simple<br> tenses  dût	 qu’il subjunctive third singular person simple<br> tenses  dussions	 que nous subjunctive first plural person simple<br> tenses  dussiez	 que vous subjunctive second plural person simple<br> tenses  dussent	 qu’ils subjunctive third plural person simple<br> tenses           pluperfect	 past compound<br> tenses person person person compound<br> tenses         – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses first singular person imperative  – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses third singular person tu   – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses third plural person vous     dois	 tu imperative second singular person imperative   devons	 nous imperative first plural person imperative  devez	 vous imperative second plural person imperative          
+Old French#VERB	Table	            devoir	 simple  infinitive    deu	 compound  infinitive     en  devant	 simple  gerund         devant	 simple  present participle         deu	 simple  past participle                                 doi	 jo indicative first singular person present  dois	 tu indicative second singular person present  doit	 il indicative third singular person present  devons	 nos indicative first plural person present  devez	 vos indicative second plural person present  doivent	 il indicative third plural person present    deveie	 jo indicative first singular person imperfect  deveies	 tu indicative second singular person imperfect  deveit	 il indicative third singular person imperfect  deviens	 nos indicative first plural person imperfect  deviez	 vos indicative second plural person imperfect  deveient	 il indicative third plural person imperfect    dui	 jo indicative first singular person preterite  deüs	 tu indicative second singular person preterite  dut	 il indicative third singular person preterite  deümes	 nos indicative first plural person preterite  deüstes	 vos indicative second plural person preterite  durent	 il indicative third plural person preterite    devrai	 jo indicative first singular person future  devras	 tu indicative second singular person future  devra	 il indicative third singular person future  devrons	 nos indicative first plural person future  devrez	 vos indicative second plural person future  devront	 il indicative third plural person future    devreie	 jo indicative first singular person conditional  devreies	 tu indicative second singular person conditional  devreit	 il indicative third singular person conditional  devriens	 nos indicative first plural person conditional  devriez	 vos indicative second plural person conditional  devreient	 il indicative third plural person conditional                                                    doive	 que jo subjunctive first singular person present  doives	 que tu subjunctive second singular person present  doive	 qu’il subjunctive third singular person present  devons	 que nos subjunctive first plural person present  devez	 que vos subjunctive second plural person present  doivent	 qu’il subjunctive third plural person present    deüsse	 que jo subjunctive first singular person imperfect  deüsses	 que tu subjunctive second singular person imperfect  deüst	 qu’il subjunctive third singular person imperfect  deüssiens	 que nos subjunctive first plural person imperfect  deüssiez	 que vos subjunctive second plural person imperfect  deüssent	 qu’il subjunctive third plural person imperfect                   – use the imperfect subjunctive of  avoir	 compound<br> tenses first singular person imperative  – use the imperfect subjunctive of  avoir	 compound<br> tenses third singular person tu   – use the imperfect subjunctive of  avoir	 compound<br> tenses third plural person vos         
+Old French#NOUN		devoirs	oblique plural	devoirs	nominative singular	devoir	nominative plural
+
+DIRE 
+English#ADJECTIVE		direr	or	more	comparative	direst	or	most	superlative
+French#VERB	Table	 
+French#NOUN		dires	plural
+Italian#VERB	Table	   dire	   infinitive         essere	   auxiliary verb    dicendo	   gerund     dicente	   present participle    detto	   past participle                         dico	 io indicative first singular person present  dici	 tu indicative second singular person present  dice	 lui/lei, esso/essa indicative third singular person present  diciamo	 noi indicative first plural person present  dite	 voi indicative second plural person present  dicono	 loro, essi/esse indicative third plural person present   dicevo	 io indicative first singular person imperfect  dicevi	 tu indicative second singular person imperfect  diceva	 lui/lei, esso/essa indicative third singular person imperfect  dicevamo	 noi indicative first plural person imperfect  dicevate	 voi indicative second plural person imperfect  dicevano	 loro, essi/esse indicative third plural person imperfect   dissi	 io indicative first singular person past historic  dicesti	 tu indicative second singular person past historic  disse	 lui/lei, esso/essa indicative third singular person past historic  dicemmo	 noi indicative first plural person past historic  diceste	 voi indicative second plural person past historic  dissero	 loro, essi/esse indicative third plural person past historic   dirò	 io indicative first singular person future  dirai	 tu indicative second singular person future  dirà	 lui/lei, esso/essa indicative third singular person future  diremo	 noi indicative first plural person future  direte	 voi indicative second plural person future  diranno	 loro, essi/esse indicative third plural person future          direi	 io conditional first singular person present  diresti	 tu conditional second singular person present  direbbe	 lui/lei, esso/essa conditional third singular person present  diremmo	 noi conditional first plural person present  direste	 voi conditional second plural person present  direbbero	 loro, essi/esse conditional third plural person present          dica	 che io subjunctive first singular person present  dica	 che tu subjunctive second singular person present  dica	 che lui/che lei, che esso/che essa subjunctive third singular person present  diciamo	 che noi subjunctive first plural person present  diciate	 che voi subjunctive second plural person present  dicano	 che loro, che essi/che esse subjunctive third plural person present   dicessi	 che io subjunctive first singular person imperfect  dicessi	 che tu subjunctive second singular person imperfect  dicesse	 che lui/che lei, che esso/che essa subjunctive third singular person imperfect  dicessimo	 che noi subjunctive first plural person imperfect  diceste	 che voi subjunctive second plural person imperfect  dicessero	 che loro, che essi/che esse subjunctive third plural person imperfect           di'	 tu imperative second singular person imperative  dica	 lei imperative third singular person imperative  diciamo	 noi imperative first plural person imperative  dite	 voi imperative second plural person imperative  dicano	 loro imperative third plural person imperative 
+Latin#ADJECTIVE	
+Middle French#VERB	
+Occitan#VERB	Table	 vuoto
+Old French#VERB	Table	            dire	 simple  infinitive    dit	 compound  infinitive     en  disant	 simple  gerund         disant	 simple  present participle         dit	 simple  past participle                                 di	 jo indicative first singular person present  dis	 tu indicative second singular person present  dit	 il indicative third singular person present  disons	 nos indicative first plural person present  dites	 vos indicative second plural person present  dient	 il indicative third plural person present    diseie	 jo indicative first singular person imperfect  diseies	 tu indicative second singular person imperfect  diseit	 il indicative third singular person imperfect  disiens	 nos indicative first plural person imperfect  disiez	 vos indicative second plural person imperfect  diseient	 il indicative third plural person imperfect    dis	 jo indicative first singular person preterite  desis	 tu indicative second singular person preterite  dist	 il indicative third singular person preterite  desimes	 nos indicative first plural person preterite  desistes	 vos indicative second plural person preterite  distrent	 il indicative third plural person preterite    dirai	 jo indicative first singular person future  diras	 tu indicative second singular person future  dira	 il indicative third singular person future  dirons	 nos indicative first plural person future  direz	 vos indicative second plural person future  diront	 il indicative third plural person future    direie	 jo indicative first singular person conditional  direies	 tu indicative second singular person conditional  direit	 il indicative third singular person conditional  diriens	 nos indicative first plural person conditional  diriez	 vos indicative second plural person conditional  direient	 il indicative third plural person conditional                                                    dïe	 que jo subjunctive first singular person present  dïes	 que tu subjunctive second singular person present  dïe	 qu’il subjunctive third singular person present  disons	 que nos subjunctive first plural person present  disiez	 que vos subjunctive second plural person present  dïent	 qu’il subjunctive third plural person present    desisse	 que jo subjunctive first singular person imperfect  desisses	 que tu subjunctive second singular person imperfect  desist	 qu’il subjunctive third singular person imperfect  desissiens	 que nos subjunctive first plural person imperfect  desissiez	 que vos subjunctive second plural person imperfect  desissent	 qu’il subjunctive third plural person imperfect                   – use the imperfect subjunctive of  avoir	 compound<br> tenses first singular person imperative  – use the imperfect subjunctive of  avoir	 compound<br> tenses third singular person tu   – use the imperfect subjunctive of  avoir	 compound<br> tenses third plural person vos     di	 tu imperative second singular person imperative   disons	 nos imperative first plural person imperative  dites	 vos imperative second plural person imperative  
+Walloon#VERB	
+
+FAIRE 
+English#ADJECTIVE	
+English#NOUN		faires	plural
+French#VERB	Table	           faire simple  infinitive   avoir fait compound  infinitive     en faisant simple  gerund   en ayant fait compound  gerund      faisant	 simple  present participle         fait	 simple  past participle                                 fais	 je (j’) indicative first singular person present  fais	 tu indicative second singular person present  fait	 il indicative third singular person present  faisons	 nous indicative first plural person present  faites	 vous indicative second plural person present  font	 ils indicative third plural person present    faisais	 je (j’) indicative first singular person imperfect  faisais	 tu indicative second singular person imperfect  faisait	 il indicative third singular person imperfect  faisions	 nous indicative first plural person imperfect  faisiez	 vous indicative second plural person imperfect  faisaient	 ils indicative third plural person imperfect   past historic	 imperfect simple<br> tenses person person person simple<br> tenses  fis	 je (j’) indicative first singular person simple<br> tenses  fis	 tu indicative second singular person simple<br> tenses  fit	 il indicative third singular person simple<br> tenses  fîmes	 nous indicative first plural person simple<br> tenses  fîtes	 vous indicative second plural person simple<br> tenses  firent	 ils indicative third plural person simple<br> tenses    ferai	 je (j’) indicative first singular person future  feras	 tu indicative second singular person future  fera	 il indicative third singular person future  ferons	 nous indicative first plural person future  ferez	 vous indicative second plural person future  feront	 ils indicative third plural person future    ferais	 je (j’) indicative first singular person conditional  ferais	 tu indicative second singular person conditional  ferait	 il indicative third singular person conditional  ferions	 nous indicative first plural person conditional  feriez	 vous indicative second plural person conditional  feraient	 ils indicative third plural person conditional                   past anterior	 pluperfect compound<br> tenses person person person compound<br> tenses                                  fasse	 que je (j’) subjunctive first singular person present  fasses	 que tu subjunctive second singular person present  fasse	 qu’il subjunctive third singular person present  fassions	 que nous subjunctive first plural person present  fassiez	 que vous subjunctive second plural person present  fassent	 qu’ils subjunctive third plural person present   imperfect	 present simple<br> tenses person person person simple<br> tenses  fisse	 que je (j’) subjunctive first singular person simple<br> tenses  fisses	 que tu subjunctive second singular person simple<br> tenses  fît	 qu’il subjunctive third singular person simple<br> tenses  fissions	 que nous subjunctive first plural person simple<br> tenses  fissiez	 que vous subjunctive second plural person simple<br> tenses  fissent	 qu’ils subjunctive third plural person simple<br> tenses           pluperfect	 past compound<br> tenses person person person compound<br> tenses         – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses first singular person imperative  – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses third singular person tu   – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses third plural person vous     fais	 tu imperative second singular person imperative   faisons	 nous imperative first plural person imperative  faites	 vous imperative second plural person imperative          
+German#ADJECTIVE	
+Irish#NOUN		faire	genitive singular
+Irish#VERB	
+Middle English#ADJECTIVE	
+Middle French#VERB	Table	           faire simple  infinitive   avoir  faict	 compound  infinitive     en  faisant	 simple  gerund         faisant	 simple  present participle         faict	 simple  past participle                                 fais	 ie (may be i' before a vowel) indicative first singular person present  fais	 tu indicative second singular person present  fet	 il indicative third singular person present  faisons	 nous indicative first plural person present  faites	 vous indicative second plural person present  font	 ilz, elles indicative third plural person present    faisoys	 ie (may be i' before a vowel) indicative first singular person imperfect  faisoys	 tu indicative second singular person imperfect  faisoyt	 il indicative third singular person imperfect  faisions	 nous indicative first plural person imperfect  faisiez	 vous indicative second plural person imperfect  faisoyent	 ilz, elles indicative third plural person imperfect    fis	 ie (may be i' before a vowel) indicative first singular person past historic  fis	 tu indicative second singular person past historic  fit	 il indicative third singular person past historic  fismes	 nous indicative first plural person past historic  fistes	 vous indicative second plural person past historic  firent	 ilz, elles indicative third plural person past historic    feroye	 ie (may be i' before a vowel) indicative first singular person future  feras	 tu indicative second singular person future  fera	 il indicative third singular person future  ferons	 nous indicative first plural person future  ferez	 vous indicative second plural person future  feront	 ilz, elles indicative third plural person future    feroys	 ie (may be i' before a vowel) indicative first singular person conditional  feroys	 tu indicative second singular person conditional  feroyt	 il indicative third singular person conditional  ferions	 nous indicative first plural person conditional  feriez	 vous indicative second plural person conditional  feroyent	 ilz, elles indicative third plural person conditional                                                    face	 que ie subjunctive first singular person present  faces	 que tu subjunctive second singular person present  face	 qu'il subjunctive third singular person present  facions	 que nous subjunctive first plural person present  faciez	 que vous subjunctive second plural person present  facent	 qu'ilz, qu'elles subjunctive third plural person present    fisse	 que ie subjunctive first singular person imperfect  fisses	 que tu subjunctive second singular person imperfect  fist	 qu'il subjunctive third singular person imperfect  fissions	 que nous subjunctive first plural person imperfect  fissiez	 que vous subjunctive second plural person imperfect  fissent	 qu'ilz, qu'elles subjunctive third plural person imperfect                   – use the imperfect subjunctive of avoir followed by the past participle compound<br> tenses first singular person imperative  – use the imperfect subjunctive of avoir followed by the past participle compound<br> tenses third singular person tu   – use the imperfect subjunctive of avoir followed by the past participle compound<br> tenses third plural person vous     fais	 tu imperative second singular person imperative   faisons	 nous imperative first plural person imperative  faites	 vous imperative second plural person imperative  
+Norman#VERB	
+Occitan#VERB	Table	 vuoto
+Old French#VERB	Table	            faire	 simple  infinitive    fait	 compound  infinitive     en  faisant	 simple  gerund         faisant	 simple  present participle         fait	 simple  past participle                                 fai	 jo indicative first singular person present  fais	 tu indicative second singular person present  fait	 il indicative third singular person present  faisons	 nos indicative first plural person present  faites	 vos indicative second plural person present  font	 il indicative third plural person present    faiseie	 jo indicative first singular person imperfect  faiseies	 tu indicative second singular person imperfect  faiseit	 il indicative third singular person imperfect  faisiens	 nos indicative first plural person imperfect  faisiez	 vos indicative second plural person imperfect  faiseient	 il indicative third plural person imperfect    fis	 jo indicative first singular person preterite  feṣis	 tu indicative second singular person preterite  fist	 il indicative third singular person preterite  feṣimes	 nos indicative first plural person preterite  feṣistes	 vos indicative second plural person preterite  firent	 il indicative third plural person preterite    ferai	 jo indicative first singular person future  feras	 tu indicative second singular person future  fera	 il indicative third singular person future  ferons	 nos indicative first plural person future  ferez	 vos indicative second plural person future  feront	 il indicative third plural person future    fereie	 jo indicative first singular person conditional  fereies	 tu indicative second singular person conditional  fereit	 il indicative third singular person conditional  feriens	 nos indicative first plural person conditional  feriez	 vos indicative second plural person conditional  fereient	 il indicative third plural person conditional                                                    face	 que jo subjunctive first singular person present  faces	 que tu subjunctive second singular person present  face	 qu’il subjunctive third singular person present  façons	 que nos subjunctive first plural person present  faciez	 que vos subjunctive second plural person present  facent	 qu’il subjunctive third plural person present    feṣisse	 que jo subjunctive first singular person imperfect  feṣisses	 que tu subjunctive second singular person imperfect  feṣist	 qu’il subjunctive third singular person imperfect  feṣissiens	 que nos subjunctive first plural person imperfect  feṣissiez	 que vos subjunctive second plural person imperfect  feṣissent	 qu’il subjunctive third plural person imperfect                   – use the imperfect subjunctive of  avoir	 compound<br> tenses first singular person imperative  – use the imperfect subjunctive of  avoir	 compound<br> tenses third singular person tu   – use the imperfect subjunctive of  avoir	 compound<br> tenses third plural person vos     fa	 tu imperative second singular person imperative   faisons	 nos imperative first plural person imperative  faites	 vos imperative second plural person imperative  
+Scottish Gaelic#NOUN		faire	genitive singular	fairean	plural
+
+LIRE 
+English#NOUN		lires	plural
+English#NOUN		lires	plural
+English#NOUN		lires	plural
+English#NOUN	
+French#VERB	Table	           lire simple  infinitive   avoir lu compound  infinitive     en lisant simple  gerund   en ayant lu compound  gerund      lisant	 simple  present participle         lu	 simple  past participle                                 lis	 je (j’) indicative first singular person present  lis	 tu indicative second singular person present  lit	 il indicative third singular person present  lisons	 nous indicative first plural person present  lisez	 vous indicative second plural person present  lisent	 ils indicative third plural person present    lisais	 je (j’) indicative first singular person imperfect  lisais	 tu indicative second singular person imperfect  lisait	 il indicative third singular person imperfect  lisions	 nous indicative first plural person imperfect  lisiez	 vous indicative second plural person imperfect  lisaient	 ils indicative third plural person imperfect   past historic	 imperfect simple<br> tenses person person person simple<br> tenses  lus	 je (j’) indicative first singular person simple<br> tenses  lus	 tu indicative second singular person simple<br> tenses  lut	 il indicative third singular person simple<br> tenses  lûmes	 nous indicative first plural person simple<br> tenses  lûtes	 vous indicative second plural person simple<br> tenses  lurent	 ils indicative third plural person simple<br> tenses    lirai	 je (j’) indicative first singular person future  liras	 tu indicative second singular person future  lira	 il indicative third singular person future  lirons	 nous indicative first plural person future  lirez	 vous indicative second plural person future  liront	 ils indicative third plural person future    lirais	 je (j’) indicative first singular person conditional  lirais	 tu indicative second singular person conditional  lirait	 il indicative third singular person conditional  lirions	 nous indicative first plural person conditional  liriez	 vous indicative second plural person conditional  liraient	 ils indicative third plural person conditional                   past anterior	 pluperfect compound<br> tenses person person person compound<br> tenses                                  lise	 que je (j’) subjunctive first singular person present  lises	 que tu subjunctive second singular person present  lise	 qu’il subjunctive third singular person present  lisions	 que nous subjunctive first plural person present  lisiez	 que vous subjunctive second plural person present  lisent	 qu’ils subjunctive third plural person present   imperfect	 present simple<br> tenses person person person simple<br> tenses  lusse	 que je (j’) subjunctive first singular person simple<br> tenses  lusses	 que tu subjunctive second singular person simple<br> tenses  lût	 qu’il subjunctive third singular person simple<br> tenses  lussions	 que nous subjunctive first plural person simple<br> tenses  lussiez	 que vous subjunctive second plural person simple<br> tenses  lussent	 qu’ils subjunctive third plural person simple<br> tenses           pluperfect	 past compound<br> tenses person person person compound<br> tenses         – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses first singular person imperative  – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses third singular person tu   – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses third plural person vous     lis	 tu imperative second singular person imperative   lisons	 nous imperative first plural person imperative  lisez	 vous imperative second plural person imperative          
+French#NOUN		lires	plural
+Italian#NOUN	
+Old French#VERB	Table	            lire	 simple  infinitive    lit	 compound  infinitive     en  lisant	 simple  gerund         lisant	 simple  present participle         lit	 simple  past participle                                 li	 jo indicative first singular person present  lis	 tu indicative second singular person present  list	 il indicative third singular person present  lisons	 nos indicative first plural person present  lisiez	 vos indicative second plural person present  lisent	 il indicative third plural person present    liseie	 jo indicative first singular person imperfect  liseies	 tu indicative second singular person imperfect  liseit	 il indicative third singular person imperfect  lisiens	 nos indicative first plural person imperfect  lisiez	 vos indicative second plural person imperfect  liseient	 il indicative third plural person imperfect    lis	 jo indicative first singular person preterite  lesis	 tu indicative second singular person preterite  list	 il indicative third singular person preterite  lesimes	 nos indicative first plural person preterite  lesistes	 vos indicative second plural person preterite  listrent	 il indicative third plural person preterite    lirai	 jo indicative first singular person future  liras	 tu indicative second singular person future  lira	 il indicative third singular person future  lirons	 nos indicative first plural person future  lirez	 vos indicative second plural person future  liront	 il indicative third plural person future    lireie	 jo indicative first singular person conditional  lireies	 tu indicative second singular person conditional  lireit	 il indicative third singular person conditional  liriens	 nos indicative first plural person conditional  liriez	 vos indicative second plural person conditional  lireient	 il indicative third plural person conditional                                                    lise	 que jo subjunctive first singular person present  lises	 que tu subjunctive second singular person present  lise	 qu’il subjunctive third singular person present  lisons	 que nos subjunctive first plural person present  lisiez	 que vos subjunctive second plural person present  lisent	 qu’il subjunctive third plural person present    lesisse	 que jo subjunctive first singular person imperfect  lesisses	 que tu subjunctive second singular person imperfect  lesist	 qu’il subjunctive third singular person imperfect  lesissiens	 que nos subjunctive first plural person imperfect  lesissiez	 que vos subjunctive second plural person imperfect  lesissent	 qu’il subjunctive third plural person imperfect                   – use the imperfect subjunctive of  avoir	 compound<br> tenses first singular person imperative  – use the imperfect subjunctive of  avoir	 compound<br> tenses third singular person tu   – use the imperfect subjunctive of  avoir	 compound<br> tenses third plural person vos     lis	 tu imperative second singular person imperative   lisons	 nos imperative first plural person imperative  lisiez	 vos imperative second plural person imperative  
+
+SORTIR 
+Catalan#VERB	Table	     sortir	   infinitive         sortint	   present participle                  sortit	 masculine past participle singular   sortida	 feminine past participle singular       sortits	 masculine past participle plural   sortides	 feminine past participle plural                     jo	 first person first singular person indicative  tu	 second person second singular person indicative  vostè	 third person third singular person indicative  nós	 first person first plural person indicative  vós	 second person second plural person indicative  vostès	 third person third plural person indicative    surto	 first person first singular person present  surts	 second person second singular person present  surt	 third person third singular person present  sortim	 first person first plural person present  sortiu	 second person second plural person present  surten	 third person third plural person present    sortia	 first person first singular person imperfect  sorties	 second person second singular person imperfect  sortia	 third person third singular person imperfect  sortíem	 first person first plural person imperfect  sortíeu	 second person second plural person imperfect  sortien	 third person third plural person imperfect    sortiré	 first person first singular person future  sortiràs	 second person second singular person future  sortirà	 third person third singular person future  sortirem	 first person first plural person future  sortireu	 second person second plural person future  sortiran	 third person third plural person future    sortí	 first person first singular person preterite  sortires	 second person second singular person preterite  sortí	 third person third singular person preterite  sortírem	 first person first plural person preterite  sortíreu	 second person second plural person preterite  sortiren	 third person third plural person preterite    sortiria	 first person first singular person conditional  sortiries	 second person second singular person conditional  sortiria	 third person third singular person conditional  sortiríem	 first person first plural person conditional  sortiríeu	 second person second plural person conditional  sortirien	 third person third plural person conditional            surti	 jo subjunctive first singular person present  surtis	 tu subjunctive second singular person present  surti	 ell/ella<br> vostè subjunctive third singular person present  sortim	 nosaltres<br> nós subjunctive first plural person present  sortiu	 vosaltres<br> vós subjunctive second plural person present  surtin	 ells/elles<br> vostès subjunctive third plural person present    sortís	 jo subjunctive first singular person imperfect  sortissis	 tu subjunctive second singular person imperfect  sortís	 ell/ella<br> vostè subjunctive third singular person imperfect  sortíssim	 nosaltres<br> nós subjunctive first plural person imperfect  sortíssiu	 vosaltres<br> vós subjunctive second plural person imperfect  sortissin	 ells/elles<br> vostès subjunctive third plural person imperfect             surt	 tu imperative second singular person imperative  surti	 vostè imperative third singular person imperative  sortim	 nosaltres imperative first plural person imperative  sortiu	 vosaltres<br> vós imperative second plural person imperative  surtin	 vostès imperative third plural person imperative 
+Franco-Provençal#VERB	Table	 vuoto
+French#VERB	Table	           sortir simple  infinitive   avoir or être sorti compound  infinitive     en sortant simple  gerund   en ayant <i>or</i> en étant sorti compound  gerund      sortant	 simple  present participle         sorti	 simple  past participle                                 sors	 je (j’) indicative first singular person present  sors	 tu indicative second singular person present  sort	 il indicative third singular person present  sortons	 nous indicative first plural person present  sortez	 vous indicative second plural person present  sortent	 ils indicative third plural person present    sortais	 je (j’) indicative first singular person imperfect  sortais	 tu indicative second singular person imperfect  sortait	 il indicative third singular person imperfect  sortions	 nous indicative first plural person imperfect  sortiez	 vous indicative second plural person imperfect  sortaient	 ils indicative third plural person imperfect   past historic	 imperfect simple<br> tenses person person person simple<br> tenses  sortis	 je (j’) indicative first singular person simple<br> tenses  sortis	 tu indicative second singular person simple<br> tenses  sortit	 il indicative third singular person simple<br> tenses  sortîmes	 nous indicative first plural person simple<br> tenses  sortîtes	 vous indicative second plural person simple<br> tenses  sortirent	 ils indicative third plural person simple<br> tenses    sortirai	 je (j’) indicative first singular person future  sortiras	 tu indicative second singular person future  sortira	 il indicative third singular person future  sortirons	 nous indicative first plural person future  sortirez	 vous indicative second plural person future  sortiront	 ils indicative third plural person future    sortirais	 je (j’) indicative first singular person conditional  sortirais	 tu indicative second singular person conditional  sortirait	 il indicative third singular person conditional  sortirions	 nous indicative first plural person conditional  sortiriez	 vous indicative second plural person conditional  sortiraient	 ils indicative third plural person conditional                   past anterior	 pluperfect compound<br> tenses person person person compound<br> tenses                                  sorte	 que je (j’) subjunctive first singular person present  sortes	 que tu subjunctive second singular person present  sorte	 qu’il subjunctive third singular person present  sortions	 que nous subjunctive first plural person present  sortiez	 que vous subjunctive second plural person present  sortent	 qu’ils subjunctive third plural person present   imperfect	 present simple<br> tenses person person person simple<br> tenses  sortisse	 que je (j’) subjunctive first singular person simple<br> tenses  sortisses	 que tu subjunctive second singular person simple<br> tenses  sortît	 qu’il subjunctive third singular person simple<br> tenses  sortissions	 que nous subjunctive first plural person simple<br> tenses  sortissiez	 que vous subjunctive second plural person simple<br> tenses  sortissent	 qu’ils subjunctive third plural person simple<br> tenses           pluperfect	 past compound<br> tenses person person person compound<br> tenses         – use the imperfect subjunctive tense of avoir or être followed by the past participle compound<br> tenses first singular person imperative  – use the imperfect subjunctive tense of avoir or être followed by the past participle compound<br> tenses third singular person tu   – use the imperfect subjunctive tense of avoir or être followed by the past participle compound<br> tenses third plural person vous     sors	 tu imperative second singular person imperative   sortons	 nous imperative first plural person imperative  sortez	 vous imperative second plural person imperative          
+French#NOUN		sortirs	plural
+Norman#VERB	
+
+SAVOIR 
+French#VERB	Table	           savoir simple  infinitive   avoir su compound  infinitive     en sachant simple  gerund   en ayant su compound  gerund      sachant	 simple  present participle         su	 simple  past participle                                 sais	 je (j’) indicative first singular person present  sais	 tu indicative second singular person present  sait	 il indicative third singular person present  savons	 nous indicative first plural person present  savez	 vous indicative second plural person present  savent	 ils indicative third plural person present    savais	 je (j’) indicative first singular person imperfect  savais	 tu indicative second singular person imperfect  savait	 il indicative third singular person imperfect  savions	 nous indicative first plural person imperfect  saviez	 vous indicative second plural person imperfect  savaient	 ils indicative third plural person imperfect   past historic	 imperfect simple<br> tenses person person person simple<br> tenses  sus	 je (j’) indicative first singular person simple<br> tenses  sus	 tu indicative second singular person simple<br> tenses  sut	 il indicative third singular person simple<br> tenses  sûmes	 nous indicative first plural person simple<br> tenses  sûtes	 vous indicative second plural person simple<br> tenses  surent	 ils indicative third plural person simple<br> tenses    saurai	 je (j’) indicative first singular person future  sauras	 tu indicative second singular person future  saura	 il indicative third singular person future  saurons	 nous indicative first plural person future  saurez	 vous indicative second plural person future  sauront	 ils indicative third plural person future    saurais	 je (j’) indicative first singular person conditional  saurais	 tu indicative second singular person conditional  saurait	 il indicative third singular person conditional  saurions	 nous indicative first plural person conditional  sauriez	 vous indicative second plural person conditional  sauraient	 ils indicative third plural person conditional                   past anterior	 pluperfect compound<br> tenses person person person compound<br> tenses                                  sache	 que je (j’) subjunctive first singular person present  saches	 que tu subjunctive second singular person present  sache	 qu’il subjunctive third singular person present  sachions	 que nous subjunctive first plural person present  sachiez	 que vous subjunctive second plural person present  sachent	 qu’ils subjunctive third plural person present   imperfect	 present simple<br> tenses person person person simple<br> tenses  susse	 que je (j’) subjunctive first singular person simple<br> tenses  susses	 que tu subjunctive second singular person simple<br> tenses  sût	 qu’il subjunctive third singular person simple<br> tenses  sussions	 que nous subjunctive first plural person simple<br> tenses  sussiez	 que vous subjunctive second plural person simple<br> tenses  sussent	 qu’ils subjunctive third plural person simple<br> tenses           pluperfect	 past compound<br> tenses person person person compound<br> tenses         – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses first singular person imperative  – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses third singular person tu   – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses third plural person vous     sache	 tu imperative second singular person imperative   sachons	 nous imperative first plural person imperative  sachez	 vous imperative second plural person imperative          
+French#NOUN		savoirs	plural
+Old French#VERB	Table	            savoir	 simple  infinitive    seü	 compound  infinitive     en  sachant	 simple  gerund         sachant	 simple  present participle         seü	 simple  past participle                                 sai	 jo indicative first singular person present  ses	 tu indicative second singular person present  set	 il indicative third singular person present  savons	 nos indicative first plural person present  savez	 vos indicative second plural person present  sevent	 il indicative third plural person present    saveie	 jo indicative first singular person imperfect  saveies	 tu indicative second singular person imperfect  saveit	 il indicative third singular person imperfect  saviens	 nos indicative first plural person imperfect  saviez	 vos indicative second plural person imperfect  saveient	 il indicative third plural person imperfect    soi	 jo indicative first singular person preterite  seüs	 tu indicative second singular person preterite  sot	 il indicative third singular person preterite  seümes	 nos indicative first plural person preterite  seüstes	 vos indicative second plural person preterite  sorent	 il indicative third plural person preterite    sarai	 jo indicative first singular person future  saras	 tu indicative second singular person future  sara	 il indicative third singular person future  sarons	 nos indicative first plural person future  sarez	 vos indicative second plural person future  saront	 il indicative third plural person future    sareie	 jo indicative first singular person conditional  sareies	 tu indicative second singular person conditional  sareit	 il indicative third singular person conditional  sariens	 nos indicative first plural person conditional  sariez	 vos indicative second plural person conditional  sareient	 il indicative third plural person conditional                                                    sache	 que jo subjunctive first singular person present  saches	 que tu subjunctive second singular person present  sache	 qu’il subjunctive third singular person present  sachons	 que nos subjunctive first plural person present  sachiez	 que vos subjunctive second plural person present  sachent	 qu’il subjunctive third plural person present    seüsse	 que jo subjunctive first singular person imperfect  seüsses	 que tu subjunctive second singular person imperfect  seüst	 qu’il subjunctive third singular person imperfect  seüssiens	 que nos subjunctive first plural person imperfect  seüssiez	 que vos subjunctive second plural person imperfect  seüssent	 qu’il subjunctive third plural person imperfect                   – use the imperfect subjunctive of  avoir	 compound<br> tenses first singular person imperative  – use the imperfect subjunctive of  avoir	 compound<br> tenses third singular person tu   – use the imperfect subjunctive of  avoir	 compound<br> tenses third plural person vos     sache	 tu imperative second singular person imperative   sachons	 nos imperative first plural person imperative  sachiez	 vos imperative second plural person imperative  
+Old French#NOUN		savoirs	oblique plural	savoirs	nominative singular	savoir	nominative plural
+
+METTRE 
+French#VERB	Table	           mettre simple  infinitive   avoir mis compound  infinitive     en mettant simple  gerund   en ayant mis compound  gerund      mettant	 simple  present participle         mis	 simple  past participle                                 mets	 je (j’) indicative first singular person present  mets	 tu indicative second singular person present  met	 il indicative third singular person present  mettons	 nous indicative first plural person present  mettez	 vous indicative second plural person present  mettent	 ils indicative third plural person present    mettais	 je (j’) indicative first singular person imperfect  mettais	 tu indicative second singular person imperfect  mettait	 il indicative third singular person imperfect  mettions	 nous indicative first plural person imperfect  mettiez	 vous indicative second plural person imperfect  mettaient	 ils indicative third plural person imperfect   past historic	 imperfect simple<br> tenses person person person simple<br> tenses  mis	 je (j’) indicative first singular person simple<br> tenses  mis	 tu indicative second singular person simple<br> tenses  mit	 il indicative third singular person simple<br> tenses  mîmes	 nous indicative first plural person simple<br> tenses  mîtes	 vous indicative second plural person simple<br> tenses  mirent	 ils indicative third plural person simple<br> tenses    mettrai	 je (j’) indicative first singular person future  mettras	 tu indicative second singular person future  mettra	 il indicative third singular person future  mettrons	 nous indicative first plural person future  mettrez	 vous indicative second plural person future  mettront	 ils indicative third plural person future    mettrais	 je (j’) indicative first singular person conditional  mettrais	 tu indicative second singular person conditional  mettrait	 il indicative third singular person conditional  mettrions	 nous indicative first plural person conditional  mettriez	 vous indicative second plural person conditional  mettraient	 ils indicative third plural person conditional                   past anterior	 pluperfect compound<br> tenses person person person compound<br> tenses                                  mette	 que je (j’) subjunctive first singular person present  mettes	 que tu subjunctive second singular person present  mette	 qu’il subjunctive third singular person present  mettions	 que nous subjunctive first plural person present  mettiez	 que vous subjunctive second plural person present  mettent	 qu’ils subjunctive third plural person present   imperfect	 present simple<br> tenses person person person simple<br> tenses  misse	 que je (j’) subjunctive first singular person simple<br> tenses  misses	 que tu subjunctive second singular person simple<br> tenses  mît	 qu’il subjunctive third singular person simple<br> tenses  missions	 que nous subjunctive first plural person simple<br> tenses  missiez	 que vous subjunctive second plural person simple<br> tenses  missent	 qu’ils subjunctive third plural person simple<br> tenses           pluperfect	 past compound<br> tenses person person person compound<br> tenses         – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses first singular person imperative  – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses third singular person tu   – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses third plural person vous     mets	 tu imperative second singular person imperative   mettons	 nous imperative first plural person imperative  mettez	 vous imperative second plural person imperative          
+Middle French#VERB	Table	           mettre simple  infinitive   avoir  mis	 compound  infinitive     en  mettant	 simple  gerund         mettant	 simple  present participle         mis	 simple  past participle                                 mets	 ie (may be i' before a vowel) indicative first singular person present  mets	 tu indicative second singular person present  met	 il indicative third singular person present  mettons	 nous indicative first plural person present  mettez	 vous indicative second plural person present  mettent	 ilz, elles indicative third plural person present    mettoys	 ie (may be i' before a vowel) indicative first singular person imperfect  mettoys	 tu indicative second singular person imperfect  mettoyt	 il indicative third singular person imperfect  mettions	 nous indicative first plural person imperfect  mettiez	 vous indicative second plural person imperfect  mettoyent	 ilz, elles indicative third plural person imperfect    mis	 ie (may be i' before a vowel) indicative first singular person past historic  mis	 tu indicative second singular person past historic  mit	 il indicative third singular person past historic  mismes	 nous indicative first plural person past historic  mistes	 vous indicative second plural person past historic  mirent	 ilz, elles indicative third plural person past historic    mettroye	 ie (may be i' before a vowel) indicative first singular person future  mettras	 tu indicative second singular person future  mettra	 il indicative third singular person future  mettrons	 nous indicative first plural person future  mettrez	 vous indicative second plural person future  mettront	 ilz, elles indicative third plural person future    mettroys	 ie (may be i' before a vowel) indicative first singular person conditional  mettroys	 tu indicative second singular person conditional  mettroyt	 il indicative third singular person conditional  mettrions	 nous indicative first plural person conditional  mettriez	 vous indicative second plural person conditional  mettroyent	 ilz, elles indicative third plural person conditional                                                    mette	 que ie subjunctive first singular person present  mettes	 que tu subjunctive second singular person present  mette	 qu'il subjunctive third singular person present  mettions	 que nous subjunctive first plural person present  mettiez	 que vous subjunctive second plural person present  menttent	 qu'ilz, qu'elles subjunctive third plural person present    misse	 que ie subjunctive first singular person imperfect  misses	 que tu subjunctive second singular person imperfect  mist	 qu'il subjunctive third singular person imperfect  missions	 que nous subjunctive first plural person imperfect  missiez	 que vous subjunctive second plural person imperfect  missent	 qu'ilz, qu'elles subjunctive third plural person imperfect                   – use the imperfect subjunctive of avoir followed by the past participle compound<br> tenses first singular person imperative  – use the imperfect subjunctive of avoir followed by the past participle compound<br> tenses third singular person tu   – use the imperfect subjunctive of avoir followed by the past participle compound<br> tenses third plural person vous     mets	 tu imperative second singular person imperative   mettons	 nous imperative first plural person imperative  mettez	 vous imperative second plural person imperative  
+Norman#VERB	
+
+CUCINARE 
+Italian#VERB	Table	   cucinare	   infinitive         avere	   auxiliary verb    cucinando	   gerund     cucinante	   present participle    cucinato	   past participle                         cucino	 io indicative first singular person present  cucini	 tu indicative second singular person present  cucina	 lui/lei, esso/essa indicative third singular person present  cuciniamo	 noi indicative first plural person present  cucinate	 voi indicative second plural person present  cucinano	 loro, essi/esse indicative third plural person present   cucinavo	 io indicative first singular person imperfect  cucinavi	 tu indicative second singular person imperfect  cucinava	 lui/lei, esso/essa indicative third singular person imperfect  cucinavamo	 noi indicative first plural person imperfect  cucinavate	 voi indicative second plural person imperfect  cucinavano	 loro, essi/esse indicative third plural person imperfect   cucinai	 io indicative first singular person past historic  cucinasti	 tu indicative second singular person past historic  cucinò	 lui/lei, esso/essa indicative third singular person past historic  cucinammo	 noi indicative first plural person past historic  cucinaste	 voi indicative second plural person past historic  cucinarono	 loro, essi/esse indicative third plural person past historic   cucinerò	 io indicative first singular person future  cucinerai	 tu indicative second singular person future  cucinerà	 lui/lei, esso/essa indicative third singular person future  cucineremo	 noi indicative first plural person future  cucinerete	 voi indicative second plural person future  cucineranno	 loro, essi/esse indicative third plural person future          cucinerei	 io conditional first singular person present  cucineresti	 tu conditional second singular person present  cucinerebbe	 lui/lei, esso/essa conditional third singular person present  cucineremmo	 noi conditional first plural person present  cucinereste	 voi conditional second plural person present  cucinerebbero	 loro, essi/esse conditional third plural person present          cucini	 che io subjunctive first singular person present  cucini	 che tu subjunctive second singular person present  cucini	 che lui/che lei, che esso/che essa subjunctive third singular person present  cuciniamo	 che noi subjunctive first plural person present  cuciniate	 che voi subjunctive second plural person present  cucinino	 che loro, che essi/che esse subjunctive third plural person present   cucinassi	 che io subjunctive first singular person imperfect  cucinassi	 che tu subjunctive second singular person imperfect  cucinasse	 che lui/che lei, che esso/che essa subjunctive third singular person imperfect  cucinassimo	 che noi subjunctive first plural person imperfect  cucinaste	 che voi subjunctive second plural person imperfect  cucinassero	 che loro, che essi/che esse subjunctive third plural person imperfect           cucina	 tu imperative second singular person imperative  cucini	 lei imperative third singular person imperative  cuciniamo	 noi imperative first plural person imperative  cucinate	 voi imperative second plural person imperative  cucinino	 loro imperative third plural person imperative 
+
+FARE 
+English#NOUN		fares	plural
+English#VERB		fares	third-person singular simple present	faring	present participle	fared	or	<span class="qualifier-brac">(</span>	simple past	(	or	<span class="qualifier-content">archaic</span>	past participle
+Danish#NOUN	Table	 
+Danish#VERB		far	imperative	farer	present	farede	or	for	or	fór	past	faret	past participle
+Danish#VERB		far	imperative	farer	infinitive	farede	present tense	null	past tense	null	perfect tense
+Esperanto#ADVERB	
+Italian#VERB	Table	 
+Italian#NOUN		fari	plural
+Latin#VERB	
+Norwegian Bokmål#NOUN		faren	definite singular	farer	indefinite plural	farene	definite plural
+Norwegian Bokmål#VERB		far	imperative	farer	present tense	for	simple past	fart	past participle	farende	present participle
+Norwegian Nynorsk#NOUN		faren	definite singular	farar	indefinite plural	farane	definite plural
+Norwegian Nynorsk#VERB		fer	present tense	fór	past tense	<strong class="selflink">fare</strong>	past participle	farast	passive infinitive	farande	present participle	far	imperative
+Tahitian#NOUN	
+Tarantino#VERB	Table	 vuoto
+Turkish#NOUN	Table	 vuoto		fareyi	definite accusative	fareler	plural
+
+LEGGE 
+English#NOUN		legges	plural
+Dutch#VERB	
+Italian#NOUN		leggi	plural
+Italian#VERB	
+Middle English#NOUN		legges	plural
+Norwegian Bokmål#VERB		legger	present tense	la	past tense	lagt	past participle	legges	passive infinitive	leggende	present participle	legg	imperative
+Norwegian Nynorsk#VERB		legg	present tense	la	past tense	lagt	past participle	leggast	passive infinitive	leggande	present participle	legg	imperative
+
+LEGGERE 
+Italian#VERB	Table	   leggere	   infinitive         avere	   auxiliary verb    leggendo	   gerund     leggente	   present participle    letto	   past participle                         leggo	 io indicative first singular person present  leggi	 tu indicative second singular person present  legge	 lui/lei, esso/essa indicative third singular person present  leggiamo	 noi indicative first plural person present  leggete	 voi indicative second plural person present  leggono	 loro, essi/esse indicative third plural person present   leggevo	 io indicative first singular person imperfect  leggevi	 tu indicative second singular person imperfect  leggeva	 lui/lei, esso/essa indicative third singular person imperfect  leggevamo	 noi indicative first plural person imperfect  leggevate	 voi indicative second plural person imperfect  leggevano	 loro, essi/esse indicative third plural person imperfect   lessi	 io indicative first singular person past historic  leggesti	 tu indicative second singular person past historic  lesse	 lui/lei, esso/essa indicative third singular person past historic  leggemmo	 noi indicative first plural person past historic  leggeste	 voi indicative second plural person past historic  lessero	 loro, essi/esse indicative third plural person past historic   leggerò	 io indicative first singular person future  leggerai	 tu indicative second singular person future  leggerà	 lui/lei, esso/essa indicative third singular person future  leggeremo	 noi indicative first plural person future  leggerete	 voi indicative second plural person future  leggeranno	 loro, essi/esse indicative third plural person future          leggerei	 io conditional first singular person present  leggeresti	 tu conditional second singular person present  leggerebbe	 lui/lei, esso/essa conditional third singular person present  leggeremmo	 noi conditional first plural person present  leggereste	 voi conditional second plural person present  leggerebbero	 loro, essi/esse conditional third plural person present          legga	 che io subjunctive first singular person present  legga	 che tu subjunctive second singular person present  legga	 che lui/che lei, che esso/che essa subjunctive third singular person present  leggiamo	 che noi subjunctive first plural person present  leggiate	 che voi subjunctive second plural person present  leggano	 che loro, che essi/che esse subjunctive third plural person present   leggessi	 che io subjunctive first singular person imperfect  leggessi	 che tu subjunctive second singular person imperfect  leggesse	 che lui/che lei, che esso/che essa subjunctive third singular person imperfect  leggessimo	 che noi subjunctive first plural person imperfect  leggeste	 che voi subjunctive second plural person imperfect  leggessero	 che loro, che essi/che esse subjunctive third plural person imperfect           leggi	 tu imperative second singular person imperative  legga	 lei imperative third singular person imperative  leggiamo	 noi imperative first plural person imperative  leggete	 voi imperative second plural person imperative  leggano	 loro imperative third plural person imperative 
+Italian#ADJECTIVE	
+
+BERE 
+English#NOUN		null	uncountable
+Afrikaans#NOUN	
+Basque#PRONOUN	
+Chichewa#NOUN		maŵére	plural
+Interlingue#NOUN	
+Italian#VERB	Table	   bere	   infinitive         avere	   auxiliary verb    bevendo	   gerund     bevente	   present participle    bevuto	   past participle                         bevo	 io indicative first singular person present  bevi	 tu indicative second singular person present  beve	 lui/lei, esso/essa indicative third singular person present  beviamo	 noi indicative first plural person present  bevete	 voi indicative second plural person present  bevono	 loro, essi/esse indicative third plural person present   bevevo	 io indicative first singular person imperfect  bevevi	 tu indicative second singular person imperfect  beveva	 lui/lei, esso/essa indicative third singular person imperfect  bevevamo	 noi indicative first plural person imperfect  bevevate	 voi indicative second plural person imperfect  bevevano	 loro, essi/esse indicative third plural person imperfect   bevetti	 io indicative first singular person past historic  bevesti	 tu indicative second singular person past historic  bevette	 lui/lei, esso/essa indicative third singular person past historic  bevemmo	 noi indicative first plural person past historic  beveste	 voi indicative second plural person past historic  bevettero	 loro, essi/esse indicative third plural person past historic   berrò	 io indicative first singular person future  berrai	 tu indicative second singular person future  berrà	 lui/lei, esso/essa indicative third singular person future  berremo	 noi indicative first plural person future  berrete	 voi indicative second plural person future  berranno	 loro, essi/esse indicative third plural person future          berrei	 io conditional first singular person present  berresti	 tu conditional second singular person present  berrebbe	 lui/lei, esso/essa conditional third singular person present  berremmo	 noi conditional first plural person present  berreste	 voi conditional second plural person present  berrebbero	 loro, essi/esse conditional third plural person present          beva	 che io subjunctive first singular person present  beva	 che tu subjunctive second singular person present  beva	 che lui/che lei, che esso/che essa subjunctive third singular person present  beviamo	 che noi subjunctive first plural person present  beviate	 che voi subjunctive second plural person present  bevano	 che loro, che essi/che esse subjunctive third plural person present   bevessi	 che io subjunctive first singular person imperfect  bevessi	 che tu subjunctive second singular person imperfect  bevesse	 che lui/che lei, che esso/che essa subjunctive third singular person imperfect  bevessimo	 che noi subjunctive first plural person imperfect  beveste	 che voi subjunctive second plural person imperfect  bevessero	 che loro, che essi/che esse subjunctive third plural person imperfect           bevi	 tu imperative second singular person imperative  beva	 lei imperative third singular person imperative  beviamo	 noi imperative first plural person imperative  bevete	 voi imperative second plural person imperative  bevano	 loro imperative third plural person imperative 
+Latin#ADJECTIVE	
+Middle English#NOUN		beres	plural
+Norwegian Nynorsk#VERB		ber	present tense	bar	past tense	bore	past participle	berast	passive infinitive	berande	present participle	ber	imperative
+Norwegian Nynorsk#NOUN		bera	definite singular	berer	indefinite plural	berene	definite plural
+Old English#NOUN	Table	 vuoto
+Old English#VERB	
+Romanian#NOUN	Table	            (o)  bere	 indefinite articulation  nominative/accusative  berea	 definite articulation  nominative/accusative (niște)  beri	 indefinite articulation  nominative/accusative  berile	 definite articulation  nominative/accusative  (unei)  beri	 indefinite articulation  genitive/dative  berii	 definite articulation  genitive/dative (unor)  beri	 indefinite articulation  genitive/dative  berilor	 definite articulation  genitive/dative   bereo	 indefinite articulation  vocative  bereo	 definite articulation  vocative  berilor	 indefinite articulation  vocative  berilor	 definite articulation  vocative 
+Romanian#NOUN	Table	             (o)  bere	 indefinite articulation   nominative/accusative  berea	 definite articulation   nominative/accusative  (unei)  beri	 indefinite articulation   genitive/dative  berii	 definite articulation   genitive/dative   bereo	 indefinite articulation   vocative  bereo	 definite articulation   vocative 
+Scots#NOUN		null	uncountable
+Turkish#NOUN		bereyi	definite accusative	bereler	plural
+Turkish#NOUN		bereyi	definite accusative	bereler	plural
+
+MANGIARE 
+Italian#VERB	Table	   mangiare	   infinitive         avere	   auxiliary verb    mangiando	   gerund     mangiante	   present participle    mangiato	   past participle                         mangio	 io indicative first singular person present  mangi	 tu indicative second singular person present  mangia	 lui/lei, esso/essa indicative third singular person present  mangiamo	 noi indicative first plural person present  mangiate	 voi indicative second plural person present  mangiano	 loro, essi/esse indicative third plural person present   mangiavo	 io indicative first singular person imperfect  mangiavi	 tu indicative second singular person imperfect  mangiava	 lui/lei, esso/essa indicative third singular person imperfect  mangiavamo	 noi indicative first plural person imperfect  mangiavate	 voi indicative second plural person imperfect  mangiavano	 loro, essi/esse indicative third plural person imperfect   mangiai	 io indicative first singular person past historic  mangiasti	 tu indicative second singular person past historic  mangiò	 lui/lei, esso/essa indicative third singular person past historic  mangiammo	 noi indicative first plural person past historic  mangiaste	 voi indicative second plural person past historic  mangiarono	 loro, essi/esse indicative third plural person past historic   mangerò	 io indicative first singular person future  mangerai	 tu indicative second singular person future  mangerà	 lui/lei, esso/essa indicative third singular person future  mangeremo	 noi indicative first plural person future  mangerete	 voi indicative second plural person future  mangeranno	 loro, essi/esse indicative third plural person future          mangerei	 io conditional first singular person present  mangeresti	 tu conditional second singular person present  mangerebbe	 lui/lei, esso/essa conditional third singular person present  mangeremmo	 noi conditional first plural person present  mangereste	 voi conditional second plural person present  mangerebbero	 loro, essi/esse conditional third plural person present          mangi	 che io subjunctive first singular person present  mangi	 che tu subjunctive second singular person present  mangi	 che lui/che lei, che esso/che essa subjunctive third singular person present  mangiamo	 che noi subjunctive first plural person present  mangiate	 che voi subjunctive second plural person present  mangino	 che loro, che essi/che esse subjunctive third plural person present   mangiassi	 che io subjunctive first singular person imperfect  mangiassi	 che tu subjunctive second singular person imperfect  mangiasse	 che lui/che lei, che esso/che essa subjunctive third singular person imperfect  mangiassimo	 che noi subjunctive first plural person imperfect  mangiaste	 che voi subjunctive second plural person imperfect  mangiassero	 che loro, che essi/che esse subjunctive third plural person imperfect           mangia	 tu imperative second singular person imperative  mangi	 lei imperative third singular person imperative  mangiamo	 noi imperative first plural person imperative  mangiate	 voi imperative second plural person imperative  mangino	 loro imperative third plural person imperative 
+Italian#NOUN		mangiari	plural
+
+PRENDRE 
+Catalan#VERB	Table	     prendre	   infinitive         prenent	   present participle                  pres	 masculine past participle singular   presa	 feminine past participle singular       presos	 masculine past participle plural   preses	 feminine past participle plural                     jo	 first person first singular person indicative  tu	 second person second singular person indicative  vostè	 third person third singular person indicative  nós	 first person first plural person indicative  vós	 second person second plural person indicative  vostès	 third person third plural person indicative    prenc	 first person first singular person present  prens	 second person second singular person present  pren	 third person third singular person present  prenem	 first person first plural person present  preneu	 second person second plural person present  prenen	 third person third plural person present    prenia	 first person first singular person imperfect  prenies	 second person second singular person imperfect  prenia	 third person third singular person imperfect  preníem	 first person first plural person imperfect  preníeu	 second person second plural person imperfect  prenien	 third person third plural person imperfect    prendré	 first person first singular person future  prendràs	 second person second singular person future  prendrà	 third person third singular person future  prendrem	 first person first plural person future  prendreu	 second person second plural person future  prendran	 third person third plural person future    prenguí	 first person first singular person preterite  prengueres	 second person second singular person preterite  prengué	 third person third singular person preterite  prenguérem	 first person first plural person preterite  prenguéreu	 second person second plural person preterite  prengueren	 third person third plural person preterite    prendria	 first person first singular person conditional  prendries	 second person second singular person conditional  prendria	 third person third singular person conditional  prendríem	 first person first plural person conditional  prendríeu	 second person second plural person conditional  prendrien	 third person third plural person conditional            prengui	 jo subjunctive first singular person present  prenguis	 tu subjunctive second singular person present  prengui	 ell/ella<br> vostè subjunctive third singular person present  prenguem	 nosaltres<br> nós subjunctive first plural person present  prengueu	 vosaltres<br> vós subjunctive second plural person present  prenguin	 ells/elles<br> vostès subjunctive third plural person present    prengués	 jo subjunctive first singular person imperfect  prenguessis	 tu subjunctive second singular person imperfect  prengués	 ell/ella<br> vostè subjunctive third singular person imperfect  prenguéssim	 nosaltres<br> nós subjunctive first plural person imperfect  prenguéssiu	 vosaltres<br> vós subjunctive second plural person imperfect  prenguessin	 ells/elles<br> vostès subjunctive third plural person imperfect             pren	 tu imperative second singular person imperative  prengui	 vostè imperative third singular person imperative  prenguem	 nosaltres imperative first plural person imperative  preneu	 vosaltres<br> vós imperative second plural person imperative  prenguin	 vostès imperative third plural person imperative 
+Franco-Provençal#VERB	Table	 vuoto
+French#VERB	Table	           prendre simple  infinitive   avoir pris compound  infinitive     en prenant simple  gerund   en ayant pris compound  gerund      prenant	 simple  present participle         pris	 simple  past participle                                 prends	 je (j’) indicative first singular person present  prends	 tu indicative second singular person present  prend	 il indicative third singular person present  prenons	 nous indicative first plural person present  prenez	 vous indicative second plural person present  prennent	 ils indicative third plural person present    prenais	 je (j’) indicative first singular person imperfect  prenais	 tu indicative second singular person imperfect  prenait	 il indicative third singular person imperfect  prenions	 nous indicative first plural person imperfect  preniez	 vous indicative second plural person imperfect  prenaient	 ils indicative third plural person imperfect   past historic	 imperfect simple<br> tenses person person person simple<br> tenses  pris	 je (j’) indicative first singular person simple<br> tenses  pris	 tu indicative second singular person simple<br> tenses  prit	 il indicative third singular person simple<br> tenses  prîmes	 nous indicative first plural person simple<br> tenses  prîtes	 vous indicative second plural person simple<br> tenses  prirent	 ils indicative third plural person simple<br> tenses    prendrai	 je (j’) indicative first singular person future  prendras	 tu indicative second singular person future  prendra	 il indicative third singular person future  prendrons	 nous indicative first plural person future  prendrez	 vous indicative second plural person future  prendront	 ils indicative third plural person future    prendrais	 je (j’) indicative first singular person conditional  prendrais	 tu indicative second singular person conditional  prendrait	 il indicative third singular person conditional  prendrions	 nous indicative first plural person conditional  prendriez	 vous indicative second plural person conditional  prendraient	 ils indicative third plural person conditional                   past anterior	 pluperfect compound<br> tenses person person person compound<br> tenses                                  prenne	 que je (j’) subjunctive first singular person present  prennes	 que tu subjunctive second singular person present  prenne	 qu’il subjunctive third singular person present  prenions	 que nous subjunctive first plural person present  preniez	 que vous subjunctive second plural person present  prennent	 qu’ils subjunctive third plural person present   imperfect	 present simple<br> tenses person person person simple<br> tenses  prisse	 que je (j’) subjunctive first singular person simple<br> tenses  prisses	 que tu subjunctive second singular person simple<br> tenses  prît	 qu’il subjunctive third singular person simple<br> tenses  prissions	 que nous subjunctive first plural person simple<br> tenses  prissiez	 que vous subjunctive second plural person simple<br> tenses  prissent	 qu’ils subjunctive third plural person simple<br> tenses           pluperfect	 past compound<br> tenses person person person compound<br> tenses         – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses first singular person imperative  – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses third singular person tu   – use the imperfect subjunctive tense of avoir followed by the past participle compound<br> tenses third plural person vous     prends	 tu imperative second singular person imperative   prenons	 nous imperative first plural person imperative  prenez	 vous imperative second plural person imperative          
+Middle French#VERB	
+Norman#VERB	
+Old French#VERB	Table	            prendre	 simple  infinitive    pris	 compound  infinitive     en  prenant	 simple  gerund         prenant	 simple  present participle         pris	 simple  past participle                                 pren	 jo indicative first singular person present  prenz	 tu indicative second singular person present  prent	 il indicative third singular person present  prenons	 nos indicative first plural person present  prenez	 vos indicative second plural person present  prenent	 il indicative third plural person present    preneie	 jo indicative first singular person imperfect  preneies	 tu indicative second singular person imperfect  preneit	 il indicative third singular person imperfect  preniens	 nos indicative first plural person imperfect  preniez	 vos indicative second plural person imperfect  preneient	 il indicative third plural person imperfect    pris	 jo indicative first singular person preterite  preṣis	 tu indicative second singular person preterite  prist	 il indicative third singular person preterite  preṣimes	 nos indicative first plural person preterite  preṣistes	 vos indicative second plural person preterite  prisdrent	 il indicative third plural person preterite    prendrai	 jo indicative first singular person future  prendras	 tu indicative second singular person future  prendra	 il indicative third singular person future  prendrons	 nos indicative first plural person future  prendrez	 vos indicative second plural person future  prendront	 il indicative third plural person future    prendreie	 jo indicative first singular person conditional  prendreies	 tu indicative second singular person conditional  prendreit	 il indicative third singular person conditional  prendriens	 nos indicative first plural person conditional  prendriez	 vos indicative second plural person conditional  prendreient	 il indicative third plural person conditional                                                    preigne	 que jo subjunctive first singular person present  preignes	 que tu subjunctive second singular person present  preigne	 qu’il subjunctive third singular person present  preignons	 que nos subjunctive first plural person present  preigniez	 que vos subjunctive second plural person present  preignent	 qu’il subjunctive third plural person present    preṣisse	 que jo subjunctive first singular person imperfect  preṣisses	 que tu subjunctive second singular person imperfect  preṣist	 qu’il subjunctive third singular person imperfect  preṣissiens	 que nos subjunctive first plural person imperfect  preṣissiez	 que vos subjunctive second plural person imperfect  preṣissent	 qu’il subjunctive third plural person imperfect                   – use the imperfect subjunctive of  avoir	 compound<br> tenses first singular person imperative  – use the imperfect subjunctive of  avoir	 compound<br> tenses third singular person tu   – use the imperfect subjunctive of  avoir	 compound<br> tenses third plural person vos     pren	 tu imperative second singular person imperative   prenons	 nos imperative first plural person imperative  prenez	 vos imperative second plural person imperative  
+
+CHICO 
+English#NOUN		chicos	plural
+Portuguese#NOUN		chicos	plural
+Spanish#ADJECTIVE		chica	feminine singular	chicos	masculine plural	chicas	feminine plural
+Spanish#NOUN		chicos	plural	chica	feminine
+Tagalog#NOUN	
+
+BACKE 
+German#VERB	
+Swedish#NOUN	Table	                  backe	 indefinite  nominative  backen	 definite  nominative  backar	 indefinite  nominative  backarna	 definite  nominative   backes	 indefinite  genitive  backens	 definite  genitive  backars	 indefinite  genitive  backarnas	 definite  genitive 
+
+DICTIONARY 
+English#NOUN		dictionaries	plural
+English#VERB		dictionaries	third-person singular simple present	dictionarying	present participle	dictionaried	simple past and past participle
+
+FREE 
+English#ADJECTIVE		freer	comparative	freest	superlative
+English#ADVERB		more	comparative	most	superlative
+English#VERB		frees	third-person singular simple present	freeing	present participle	freed	simple past and past participle
+English#NOUN		frees	plural
+Low German#ADJECTIVE	Table	 vuoto		fre'er	comparative	freest	superlative
+
+THESAURUS 
+English#NOUN		thesauri	or	thesauruses	plural
+Latin#NOUN	Table		thēsaurus	Singular	nominative		thēsaurī	Plural	nominative		thēsaurī	Singular	genitive		thēsaurōrum	Plural	genitive		thēsaurō	Singular	dative		thēsaurīs	Plural	dative		thēsaurum	Singular	accusative		thēsaurōs	Plural	accusative		thēsaurō	Singular	ablative		thēsaurīs	Plural	ablative		thēsaure	Singular	vocative		thēsaurī	Plural	vocative	
+Portuguese#NOUN		thesauri	or	thesaurus	plural
+
+PORTMANTEAU 
+English#NOUN		portmanteaus	or	portmanteaux	plural
+English#ADJECTIVE		null	comparable
+English#NOUN		portmanteaus	or	portmanteaux	plural
+
+ENCYCLOPAEDIA 
+English#NOUN		encyclopaedias	or	encyclopaediae	plural
+Scots#NOUN		encyclopaedias	plural
+
+FREI 
+German#ADJECTIVE	Table	 
+Luxembourgish#VERB	
+Portuguese#NOUN		freis	plural
+Scots#ADJECTIVE		freier	comparative	freiist	superlative
+
+LIVRE 
+English#NOUN		livres	plural
+French#NOUN		livres	plural
+French#NOUN		livres	plural
+French#VERB	
+Norman#NOUN		livres	plural
+Norman#NOUN		livres	plural
+Old French#NOUN		livres	oblique plural	livres	nominative singular	livre	nominative plural
+Old French#NOUN		livres	oblique plural	livre	nominative singular	livres	nominative plural
+Portuguese#ADJECTIVE		null	plural	null	comparable
+Portuguese#VERB	
+
+BOOK 
+English#NOUN		books	plural
+English#VERB		books	third-person singular simple present	booking	present participle	booked	simple past and past participle
+English#VERB	
+Limburgish#NOUN	
+Middle English#NOUN		books	plural
+
+POUND 
+English#NOUN		pounds	plural
+English#NOUN		pounds	plural
+English#VERB		pounds	third-person singular simple present	pounding	present participle	pounded	simple past and past participle
+English#VERB		pounds	third-person singular simple present	pounding	present participle	pounded	simple past and past participle
+English#NOUN		pounds	plural
+
+GDP 
+English#NOUN		GDPs	uncountable	null	plural
+
+CHIEN 
+French#NOUN		chiens	plural	chienne	feminine
+Middle French#NOUN		chiens	plural
+Old French#NOUN		chiens	oblique plural	chiens	nominative singular	chien	nominative plural
+
+RAIN CATS AND DOGS 
+English#VERB		rains cats and dogs	third-person singular simple present	raining cats and dogs	present participle	rained cats and dogs	simple past and past participle
+
+POND 
+English#NOUN		ponds	plural
+English#VERB		ponds	third-person singular simple present	ponding	present participle	ponded	simple past and past participle
+English#VERB		ponds	third-person singular simple present	ponding	present participle	ponded	simple past and past participle
+Afrikaans#NOUN		ponds	plural
+Dutch#NOUN		ponden	plural	pondje	diminutive
+French#VERB	
+
+PIES 
+English#NOUN	
+English#VERB	
+Cornish#NOUN		piesen	singulative
+Dutch#NOUN		null	uncountable
+French#NOUN	
+Latin#VERB	
+Polish#NOUN	Table	      pies	 singular  nominative  psy	 plural  nominative   psa	 singular  genitive  psów	 plural  genitive   psu	 singular  dative  psom	 plural  dative   psa	 singular  accusative  psy	 plural  accusative   psem	 singular  instrumental  psami	 plural  instrumental   psie	 singular  locative  psach	 plural  locative   psie	 singular  vocative  psy	 plural  vocative 
+Portuguese#VERB	
+Spanish#NOUN	
+
+NONSENSE 
+English#NOUN		nonsenses	uncountable	null	plural
+English#VERB		nonsenses	third-person singular simple present	nonsensing	present participle	nonsensed	simple past and past participle
+English#ADJECTIVE		more	comparative	most	superlative
+
+PIE 
+English#NOUN		pies	countable
+uncountable	null	plural
+English#VERB		pies	third-person singular simple present	pieing	present participle	pied	simple past and past participle
+English#NOUN		pies	plural
+English#NOUN		pie	or	pies	plural
+Asturian#NOUN		pies	plural
+Esperanto#ADVERB	
+French#NOUN		pies	plural
+Italian#ADJECTIVE	
+Latin#ADJECTIVE	
+Latin#ADVERB		pius	comparable	pissimē	superlative
+Norman#NOUN		pies	plural
+Old French#NOUN		pies	oblique plural	pie	nominative singular	pies	nominative plural
+Portuguese#VERB	
+Spanish#NOUN		pies	plural
+Spanish#VERB	
+
+A 
+Danish#NOUN	Table	 <br> gender     <i>singular</i>      <i>plural</i>       <i>indefinite</i>     <i>definite</i>        nominative	      a	      a'et	      a'er	      a'erne	      genitive	      a's	      a'ets	      a'ers	      a'ernes	     
+German#NOUN	Table	         indef.	 singular     def.	 singular      def.	 plural  noun   ein singular  nominative das singular  nominative   noun  nominative die plural  nominative   eines singular  genitive des singular  genitive   noun  genitive der plural  genitive   einem singular  dative dem singular  dative   noun  dative den plural  dative   ein singular  accusative das singular  accusative   noun  accusative die plural  accusative  
+Luxembourgish#NOUN		Aen	plural
+Norwegian Bokmål#NOUN		a	uppercase	null	lowercase
+Norwegian Nynorsk#NOUN		a	uppercase	null	lowercase
+Portuguese#NOUN		a	upper case	null	lower case
+Scots#PRONOUN		I	first person singular	null	emphatic
+Spanish#NOUN		a	upper case	null	lower case
+
+CROW 
+English#NOUN		crows	plural
+English#VERB		crows	third-person singular simple present	crowing	present participle	crowed	or	<span class="qualifier-brac">(</span>	simple past	(	past participle
+
+RAVEN 
+English#NOUN		ravens	plural
+English#ADJECTIVE		null	comparable
+English#NOUN		ravens	plural
+English#VERB		ravens	third-person singular simple present	ravening	present participle	ravened	simple past and past participle
+Dutch#VERB	Table	  raven	 <a href="/wiki/infinitive" title="infinitive">infinitive</a>  ravede	 <a href="/wiki/past_tense" title="past tense">past</a>&nbsp;<a href="/wiki/singular" title="singular">singular</a>  geraved	 <a href="/wiki/past_tense" title="past tense">past</a>&nbsp;<a href="/wiki/participle" title="participle">participle</a>
+Dutch#NOUN	
+Slovene#ADJECTIVE	Table	           rávni	 masculine  nominative  rávna	 feminine  nominative  rávno	 neuter  nominative  <i>nominative</i><sup style="cursor:help" title="inanimate">inan</sup> <i>or genitive</i><sup style="cursor:help" title="animate">anim</sup> masculine  accusative  rávno	 feminine  accusative  rávno	 neuter  accusative   rávnega	 masculine  genitive  rávne	 feminine  genitive  rávnega	 neuter  genitive   rávnemu	 masculine  dative  rávni	 feminine  dative  rávnemu	 neuter  dative   rávnem	 masculine  locative  rávni	 feminine  locative  rávnem	 neuter  locative   rávnim	 masculine  instrumental  rávno	 feminine  instrumental  rávnim	 neuter  instrumental           rávna	 masculine  nominative  rávni	 feminine  nominative  rávni	 neuter  nominative   rávna	 masculine  accusative  rávni	 feminine  accusative  rávni	 neuter  accusative   rávnih	 masculine  genitive  rávnih	 feminine  genitive  rávnih	 neuter  genitive   rávnima	 masculine  dative  rávnima	 feminine  dative  rávnima	 neuter  dative   rávnih	 masculine  locative  rávnih	 feminine  locative  rávnih	 neuter  locative   rávnima	 masculine  instrumental  rávnima	 feminine  instrumental  rávnima	 neuter  instrumental            rávne	 feminine  nominative  rávna	 neuter  nominative   rávne	 masculine  accusative  rávne	 feminine  accusative  rávna	 neuter  accusative       rávnim	 masculine  dative  rávnim	 feminine  dative  rávnim	 neuter  dative       rávnimi	 masculine  instrumental  rávnimi	 feminine  instrumental  rávnimi	 neuter  instrumental 
+
+ELEPHANT 
+English#NOUN		elephants	plural
+Middle French#NOUN		elephans	plural
+
+AQUILA 
+Interlingua#NOUN		aquilas	plural
+Italian#NOUN		aquile	plural
+Latin#NOUN	Table		aquila	Singular	nominative		aquilae	Plural	nominative		aquilae	Singular	genitive		aquilārum	Plural	genitive		aquilae	Singular	dative		aquilīs	Plural	dative		aquilam	Singular	accusative		aquilās	Plural	accusative		aquilā	Singular	ablative		aquilīs	Plural	ablative		aquila	Singular	vocative		aquilae	Plural	vocative	
+Latin#ADJECTIVE	
+
+BROWN 
+English#NOUN		browns	plural
+English#ADJECTIVE		browner	or	more	comparative	brownest	or	most	superlative
+English#VERB		browns	third-person singular simple present	browning	present participle	browned	simple past and past participle
+Welsh#ADJECTIVE		brown	feminine singular	brown	plural
+
+FLOCCINAUCINIHILIPILIFICATION 
+English#NOUN		null	uncountable
+
+MONTH 
+English#NOUN		months	plural	null	The plural is occasionally seen as <b>month</b> (unchanged)
+
+MARCH 
+English#NOUN		marches	plural
+English#VERB		marches	third-person singular simple present	marching	present participle	marched	simple past and past participle
+English#NOUN		marches	plural
+English#VERB		marches	third-person singular simple present	marching	present participle	marched	simple past and past participle
+English#NOUN		marches	plural
+Welsh#NOUN		meirch	plural
+
+APRIL 
+Afrikaans#NOUN		Aprilmaande	plural
+German#NOUN		Aprils	or	April	genitive	Aprile	or	Aprils	plural
+
+MAY 
+English#VERB		may	third-person singular simple present	-	present participle	might	simple past	-	or	<span class="qualifier-brac">(</span>	past participle
+English#NOUN		mays	plural
+English#VERB		mays	third-person singular simple present	maying	present participle	mayed	simple past and past participle
+Azeri#NOUN	
+Crimean Tatar#NOUN	Table	       
+Kurdish#NOUN	
+Quechua#ADVERB	
+Quechua#PRONOUN	
+Quechua#VERB	Table	     may	   infinitive          maq	   agentive          maspa	   present participle          masqa	   past participle          mana	   future participle                 1<sup>st</sup> person singular    2<sup>nd</sup> person singular    3<sup>rd</sup> person singular    1<sup>st</sup> person<br> inclusive plural    1<sup>st</sup> person<br> exclusive plural    2<sup>nd</sup> person plural    3<sup>rd</sup> person plural                mani	 ñuqa indicative present  manki	 qam indicative present  man	 pay indicative present  manchik	 ñuqanchik indicative present  mayku	 ñuqayku indicative present  mankichik	 qamkuna indicative present  manku	 paykuna indicative present    marqani	 ñuqa indicative past<br> <small>(experienced)</small>  marqanki	 qam indicative past<br> <small>(experienced)</small>  marqan	 pay indicative past<br> <small>(experienced)</small>  marqanchik	 ñuqanchik indicative past<br> <small>(experienced)</small>  marqaniku	 ñuqayku indicative past<br> <small>(experienced)</small>  marqankichik	 qamkuna indicative past<br> <small>(experienced)</small>  marqanku	 paykuna indicative past<br> <small>(experienced)</small>    masqani	 ñuqa indicative past<br> <small>(reported)</small>  masqanki	 qam indicative past<br> <small>(reported)</small>  masqan	 pay indicative past<br> <small>(reported)</small>  masqanchik	 ñuqanchik indicative past<br> <small>(reported)</small>  masqaniku	 ñuqayku indicative past<br> <small>(reported)</small>  masqankichik	 qamkuna indicative past<br> <small>(reported)</small>  masqanku	 paykuna indicative past<br> <small>(reported)</small>    masaq	 ñuqa indicative future  manki	 qam indicative future  manqa	 pay indicative future  masunchik	 ñuqanchik indicative future  masaqku	 ñuqayku indicative future  mankichik	 qamkuna indicative future  manqaku	 paykuna indicative future                       may	 qam imperative affirmative  machun	 pay imperative affirmative    maychik	 qamkuna imperative affirmative  machunku	 paykuna imperative affirmative    ama maychu	 qam imperative negative ama machunchu	 pay imperative negative   ama maychikchu	 qamkuna imperative negative ama machunkuchu	 paykuna imperative negative 
+Tagalog#VERB	
+Tatar#NOUN	Table	 vuoto
+Uzbek#NOUN		maylar	plural
+Vietnamese#VERB	
+Walloon#NOUN	
+
+AUGUST 
+English#ADJECTIVE		auguster	or	more	comparative	augustest	or	most	superlative
+English#VERB		augusts	third-person singular simple present	augusting	present participle	augusted	simple past and past participle
+Danish#NOUN	
+Estonian#NOUN	Table	      august	 singular  nominative  augustid	 plural  nominative   augusti	 singular  accusative  augustid	 plural  accusative   augusti	 singular  genitive  augustite	 plural  genitive   augustit	 singular  partitive  augusteid	 plural  partitive   augustisse	 singular  illative  augusteisse	 plural  illative   augustis	 singular  inessive  augusteis	 plural  inessive   augustist	 singular  elative  augusteist	 plural  elative   augustile	 singular  allative  augusteile	 plural  allative   augustil	 singular  adessive  augusteil	 plural  adessive   augustilt	 singular  ablative  augusteilt	 plural  ablative   augustiks	 singular  translative  augusteiks	 plural  translative   augustini	 singular  terminative  augustiteni	 plural  terminative   augustina	 singular  essive  augustitena	 plural  essive   augustita	 singular  abessive  augustiteta	 plural  abessive   augustiga	 singular  comitative  augustitega	 plural  comitative 
+Faroese#NOUN	
+Interlingua#NOUN		augustes	plural
+Interlingue#NOUN	
+Norwegian Bokmål#NOUN		null	indeclinable
+Norwegian Nynorsk#NOUN		null	indeclinable
+Romanian#NOUN		null	uncountable
+Romanian#ADJECTIVE	Table	                    august	 masculine  indefinite  august	 neuter  indefinite  augustă	 feminine  indefinite  auguști	 masculine  indefinite  auguste	 neuter  indefinite  auguste	 feminine  indefinite    augustul	 masculine  definite  augustul	 neuter  definite  augusta	 feminine  definite  auguștii	 masculine  definite  augustele	 neuter  definite  augustele	 feminine  definite            augustului	 masculine  definite  augustului	 neuter  definite  augustei	 feminine  definite  auguștilor	 masculine  definite  augustelor	 neuter  definite  augustelor	 feminine  definite 
+Serbo-Croatian#NOUN		аугуст	Cyrillic spelling
+Slovak#NOUN	
+Sundanese#NOUN	
+
+SEPTEMBER 
+Afrikaans#NOUN		Septembermaande	plural
+German#NOUN		Septembers	or	September	genitive	September	plural
+
+NOVEMBER 
+Afrikaans#NOUN		Novembermaande	plural
+German#NOUN		Novembers	or	November	genitive	November	plural
+
+MULTICULTURALISM 
+English#NOUN		multiculturalisms	countable
+uncountable	null	plural
+
+CURRENT EVENTS 
+English#NOUN		current event	normally plural	null	singular
+
+DAY 
+English#NOUN		days	plural
+English#VERB		days	third-person singular simple present	daying	present participle	dayed	simple past and past participle
+Middle English#NOUN		days	plural
+Scots#NOUN		days	plural
+
+MONDAY 
+English#NOUN		Mondays	plural
+English#ADVERB		null	comparable
+
+TUESDAY 
+English#NOUN		Tuesdays	plural
+English#ADVERB		null	comparable
+
+WEDNESDAY 
+English#NOUN		Wednesdays	plural
+English#ADVERB	
+
+THURSDAY 
+English#NOUN		Thursdays	plural
+English#ADVERB		null	comparable
+
+FRIDAY 
+English#NOUN		Fridays	plural
+English#ADVERB		null	comparable
+
+SATURDAY 
+English#NOUN		Saturdays	plural
+English#ADVERB		null	comparable
+
+SUNDAY 
+English#NOUN		Sundays	plural
+English#VERB		Sundays	third-person singular simple present	Sundaying	present participle	Sundayed	simple past and past participle
+English#ADVERB		null	comparable
+
+LEXICOGRAPHY 
+English#NOUN		lexicographies	countable
+uncountable	null	plural
+
+ANTONYM 
+English#NOUN		antonyms	plural
+Danish#ADJECTIVE	Table	           antonym	 positive  common singular   comparative  common singular   superlative  common singular   antonymt	 positive  neuter singular   comparative  neuter singular   superlative  neuter singular   antonyme	 positive  plural   comparative  plural   superlative  plural   antonyme	 positive  definite attributive<sup>1</sup>   comparative  definite attributive<sup>1</sup>   superlative  definite attributive<sup>1</sup>     
+Danish#NOUN	Table	  <i>singular</i>   neuter<br> gender  <i>plural</i>   neuter<br> gender   <i>indefinite</i>   neuter<br> gender <i>definite</i>   neuter<br> gender    nominative	 neuter<br> gender neuter<br> gender    antonym	      antonymet	      antonymer	      antonymerne	      genitive	 neuter<br> gender neuter<br> gender    antonyms	      antonymets	      antonymers	      antonymernes	     
+Norwegian Bokmål#NOUN		antonymet	definite singular	antonym	or	antonymer	indefinite plural	antonyma	or	antonymene	definite plural
+Norwegian Nynorsk#NOUN		antonymet	definite singular	antonym	indefinite plural	antonyma	definite plural
+Swedish#ADJECTIVE	Table	           antonym	 positive indefinite/attributive common singular  mer	 comparative indefinite/attributive common singular  mest	 superlative<sup>2</sup> indefinite/attributive common singular   antonymt	 positive indefinite/attributive neuter singular  mer	 comparative indefinite/attributive neuter singular  mest	 superlative<sup>2</sup> indefinite/attributive neuter singular   antonyma	 positive indefinite/attributive plural  mer	 comparative indefinite/attributive plural  mest	 superlative<sup>2</sup> indefinite/attributive plural       antonyme	 positive definite masculine singular<sup>1</sup>  mer	 comparative definite masculine singular<sup>1</sup>  mest	 superlative definite masculine singular<sup>1</sup>   antonyma	 positive definite all  mer	 comparative definite all  mest	 superlative definite all     
+Swedish#NOUN	Table	                  antonym	 indefinite  nominative  antonymen	 definite  nominative  antonymer	 indefinite  nominative  antonymerna	 definite  nominative   antonyms	 indefinite  genitive  antonymens	 definite  genitive  antonymers	 indefinite  genitive  antonymernas	 definite  genitive 
+
+CONNOTATION 
+English#NOUN		connotations	plural
+
+DENOTATION 
+English#NOUN		denotations	plural
+
+SYNONYM 
+English#NOUN		synonyms	plural
+Danish#ADJECTIVE	Table	           synonym	 positive  common singular   comparative  common singular   superlative  common singular   synonymt	 positive  neuter singular   comparative  neuter singular   superlative  neuter singular   synonyme	 positive  plural   comparative  plural   superlative  plural   synonyme	 positive  definite attributive<sup>1</sup>   comparative  definite attributive<sup>1</sup>   superlative  definite attributive<sup>1</sup>     
+Danish#NOUN	Table	  <i>singular</i>   neuter<br> gender  <i>plural</i>   neuter<br> gender   <i>indefinite</i>   neuter<br> gender <i>definite</i>   neuter<br> gender    nominative	 neuter<br> gender neuter<br> gender    synonym	      synonymet	      synonymer	      synonymerne	      genitive	 neuter<br> gender neuter<br> gender    synonyms	      synonymets	      synonymers	      synonymernes	     
+German#ADJECTIVE	Table	               er ist  synonym	 masculine number &amp; gender predicative sie ist  synonym	 feminine number &amp; gender predicative es ist  synonym	 neuter number &amp; gender predicative sie sind  synonym	 all genders number &amp; gender predicative    synonymer	 masculine number &amp; gender nominative  synonyme	 feminine number &amp; gender nominative  synonymes	 neuter number &amp; gender nominative  synonyme	 all genders number &amp; gender nominative    synonymen	 masculine number &amp; gender genitive  synonymer	 feminine number &amp; gender genitive  synonymen	 neuter number &amp; gender genitive  synonymer	 all genders number &amp; gender genitive    synonymem	 masculine number &amp; gender dative  synonymer	 feminine number &amp; gender dative  synonymem	 neuter number &amp; gender dative  synonymen	 all genders number &amp; gender dative    synonymen	 masculine number &amp; gender accusative  synonyme	 feminine number &amp; gender accusative  synonymes	 neuter number &amp; gender accusative  synonyme	 all genders number &amp; gender accusative   der  synonyme	 masculine number &amp; gender nominative die  synonyme	 feminine number &amp; gender nominative das  synonyme	 neuter number &amp; gender nominative die  synonymen	 all genders number &amp; gender nominative   des  synonymen	 masculine number &amp; gender genitive der  synonymen	 feminine number &amp; gender genitive des  synonymen	 neuter number &amp; gender genitive der  synonymen	 all genders number &amp; gender genitive   dem  synonymen	 masculine number &amp; gender dative der  synonymen	 feminine number &amp; gender dative dem  synonymen	 neuter number &amp; gender dative den  synonymen	 all genders number &amp; gender dative   den  synonymen	 masculine number &amp; gender accusative die  synonyme	 feminine number &amp; gender accusative das  synonyme	 neuter number &amp; gender accusative die  synonymen	 all genders number &amp; gender accusative   ein  synonymer	 masculine number &amp; gender nominative eine  synonyme	 feminine number &amp; gender nominative ein  synonymes	 neuter number &amp; gender nominative (keine)  synonymen	 all genders number &amp; gender nominative   eines  synonymen	 masculine number &amp; gender genitive einer  synonymen	 feminine number &amp; gender genitive eines  synonymen	 neuter number &amp; gender genitive (keiner)  synonymen	 all genders number &amp; gender genitive   einem  synonymen	 masculine number &amp; gender dative einer  synonymen	 feminine number &amp; gender dative einem  synonymen	 neuter number &amp; gender dative (keinen)  synonymen	 all genders number &amp; gender dative   einen  synonymen	 masculine number &amp; gender accusative eine  synonyme	 feminine number &amp; gender accusative ein  synonymes	 neuter number &amp; gender accusative (keine)  synonymen	 all genders number &amp; gender accusative 
+Norwegian Bokmål#ADJECTIVE		synonymt	neuter singular	synonyme	definite singular and plural
+Norwegian Bokmål#NOUN		synonymet	definite singular	synonym	or	synonymer	indefinite plural	synonyma	or	synonymene	definite plural
+Norwegian Nynorsk#ADJECTIVE		<strong class="selflink">synonym</strong>	masculine and feminine	synonymt	neuter	synonyme	definite singular and plural	synonymare	comparative	synonymast	indefinite superlative	synonymaste	definite superlative
+Norwegian Nynorsk#NOUN		synonymet	definite singular	synonym	indefinite plural	synonyma	definite plural
+
+DIALECT 
+English#NOUN		dialects	plural
+Dutch#NOUN		dialecten	plural	dialectje	diminutive
+Romanian#NOUN		dialecte	plural
+
+HYPONYM 
+English#NOUN		hyponyms	plural
+Swedish#NOUN	Table	                  hyponym	 indefinite  nominative  hyponymen	 definite  nominative  hyponymer	 indefinite  nominative  hyponymerna	 definite  nominative   hyponyms	 indefinite  genitive  hyponymens	 definite  genitive  hyponymers	 indefinite  genitive  hyponymernas	 definite  genitive 
+
+SEMANTICS 
+English#NOUN		null	uncountable
+
+FALSE FRIEND 
+English#NOUN		false friends	plural
+
+NOUN 
+English#NOUN		nouns	plural
+English#VERB		nouns	third-person singular simple present	nouning	present participle	nouned	simple past and past participle
+Occitan#ADVERB	
+Old French#NOUN		nouns	oblique plural	nouns	nominative singular	noun	nominative plural
+
+HOUR 
+English#NOUN		hours	plural
+
+ALPHABETICAL 
+English#ADJECTIVE		null	comparable
+
+FREEDOM OF SPEECH 
+English#NOUN		null	uncountable
+
+MINUTE 
+English#NOUN		minutes	plural
+English#VERB		minutes	third-person singular simple present	minuting	present participle	minuted	simple past and past participle
+English#ADJECTIVE		minuter	comparative	minutest	superlative
+French#NOUN		minutes	plural
+French#VERB	
+Italian#ADJECTIVE	
+Old French#NOUN		minutes	oblique plural	minute	nominative singular	minutes	nominative plural
+Portuguese#VERB	
+
+BARTER 
+English#NOUN		barters	plural
+English#VERB		barters	third-person singular simple present	bartering	present participle	bartered	simple past and past participle
+
+ETYMOLOGY 
+English#NOUN		etymologies	plural
+
+SWAP 
+English#VERB		swaps	third-person singular simple present	swapping	present participle	swapped	simple past and past participle
+English#NOUN		swaps	countable
+uncountable	null	plural
+Finnish#NOUN	Table	        swap	 inflection of  risti	 inflection of  risti	 nominative  swapit	 inflection of  risti	 inflection of  risti	 nominative    swapin	 inflection of  risti	 inflection of  risti	 genitive  swapien	 inflection of  risti	 inflection of  risti	 genitive    swapia	 inflection of  risti	 inflection of  risti	 partitive  swapeja	 inflection of  risti	 inflection of  risti	 partitive    swapiin	 inflection of  risti	 inflection of  risti	 illative  swapeihin	 inflection of  risti	 inflection of  risti	 illative        swap	 singular  nominative  swapit	 plural  nominative   swap	 nominative nominative accusative   swapit	 plural  nom.    swapit	 nom. accusative gen.  swapin	 plural  gen.    swapin	 nom. accusative genitive  swapien	 plural  genitive    swapia	 nom. accusative partitive  swapeja	 plural  partitive    swapissa	 nom. accusative inessive  swapeissa	 plural  inessive    swapista	 nom. accusative elative  swapeista	 plural  elative    swapiin	 nom. accusative illative  swapeihin	 plural  illative    swapilla	 nom. accusative adessive  swapeilla	 plural  adessive    swapilta	 nom. accusative ablative  swapeilta	 plural  ablative    swapille	 nom. accusative allative  swapeille	 plural  allative    swapina	 nom. accusative essive  swapeina	 plural  essive    swapiksi	 nom. accusative translative  swapeiksi	 plural  translative     swapein	 plural  instructive    swapitta	 nom. accusative abessive  swapeitta	 plural  abessive     swapeineen	 plural  comitative 
+
+POLYSEMIC 
+English#ADJECTIVE		more	comparative	most	superlative
+
+TRADE 
+English#NOUN		trades	countable
+uncountable	null	plural
+English#VERB		trades	third-person singular simple present	trading	present participle	traded	simple past and past participle
+Dutch#VERB	
+French#VERB	
+Latin#VERB	
+
+QUID PRO QUO 
+English#NOUN		quae pro quibus	or	quid pro quibus	or	quid pro quos	plural
+
+VERB 
+English#NOUN		verbs	plural
+English#VERB	Table	 
+Catalan#NOUN		verbs	plural
+Norwegian Bokmål#NOUN		verbet	definite singular	verb	or	verber	indefinite plural	verba	or	verbene	definite plural
+Norwegian Nynorsk#NOUN		verbet	definite singular	verb	indefinite plural	verba	definite plural
+Romanian#NOUN	Table	            (un)  verb	 indefinite articulation  nominative/accusative  verbul	 definite articulation  nominative/accusative (niște)  verbe	 indefinite articulation  nominative/accusative  verbele	 definite articulation  nominative/accusative  (unui)  verb	 indefinite articulation  genitive/dative  verbului	 definite articulation  genitive/dative (unor)  verbe	 indefinite articulation  genitive/dative  verbelor	 definite articulation  genitive/dative   verbule	 indefinite articulation  vocative  verbule	 definite articulation  vocative  verbelor	 indefinite articulation  vocative  verbelor	 definite articulation  vocative 
+Swedish#NOUN	Table	      <b>neuter</b>           verb	 indefinite <b>neuter</b> nominative  verbet	 definite <b>neuter</b> nominative   verben	 definite <b>neuter</b> nominative   verbs	 indefinite <b>neuter</b> genitive  verbets	 definite <b>neuter</b> genitive   verbens	 definite <b>neuter</b> genitive 
+Veps#NOUN	Table	  verb	 nominative sing.  verban	 genitive sing.  verbad	 partitive sing.  verboid	 partitive plur.
+
+ADJECTIVE 
+English#ADJECTIVE		null	comparable
+English#NOUN		adjectives	plural
+English#VERB		adjectives	third-person singular simple present	adjectiving	present participle	adjectived	simple past and past participle
+French#ADJECTIVE	
+Interlingue#NOUN	
+Latin#ADJECTIVE	
+Romanian#NOUN	
+Scots#NOUN		adjectives	plural
+
+CRAFT 
+English#NOUN		craft	countable
+uncountable	crafts	or	null	plural
+English#VERB		crafts	third-person singular simple present	crafting	present participle	crafted	simple past and past participle
+
+ADJECTIVAL 
+English#ADJECTIVE		more	comparative	most	superlative
+English#NOUN		adjectivals	plural
+French#ADJECTIVE		adjectivale	feminine singular	adjectivaux	masculine plural	adjectivales	feminine plural
+
+SUBSTANTIVE 
+English#ADJECTIVE		more	comparative	most	superlative
+English#NOUN		substantives	plural
+English#VERB		substantives	third-person singular simple present	substantiving	present participle	substantived	simple past and past participle
+French#ADJECTIVE	
+Interlingue#NOUN	
+Latin#ADJECTIVE	
+Romanian#NOUN	
+
+TRADE WIND 
+English#NOUN		trade winds	plural
+
+PATRONAGE 
+English#NOUN		patronages	countable
+uncountable	null	plural
+English#VERB		patronages	third-person singular simple present	patronaging	present participle	patronaged	simple past and past participle
+French#NOUN		patronages	plural
+
+DEAL 
+English#NOUN		deals	plural
+English#VERB		deals	third-person singular simple present	dealing	present participle	dealt	simple past and past participle
+English#NOUN		deals	plural
+English#NOUN		deals	plural
+English#ADJECTIVE		null	comparable
+Romanian#NOUN		dealuri	plural
+
+MERCHANDISE 
+English#NOUN		merchandises	uncountable	null	plural
+English#VERB		merchandises	third-person singular simple present	merchandising	present participle	merchandised	simple past and past participle
+French#VERB	
+
+WARES 
+English#NOUN	
+
+PRODUCT 
+English#NOUN		products	countable
+uncountable	null	plural
+Dutch#NOUN		producten	plural	productje	diminutive
+
+APPLES AND PEARS 
+
+EAGLE 
+English#NOUN		eagles	plural
+English#VERB		eagles	third-person singular simple present	eagling	present participle	eagled	simple past and past participle
+French#NOUN		eagles	plural
+
+SESQUIPEDALIANISM 
+English#NOUN		sesquipedalianisms	plural
+
+PNEUMONOULTRAMICROSCOPICSILICOVOLCANOCONIOSIS 
+English#NOUN		pneumonoultramicroscopicsilicovolcanoconioses	plural
+
+ANTIDISESTABLISHMENTARIANISM 
+English#NOUN		antidisestablishmentarianisms	uncountable	null	plural
+
+HEAD 
+English#NOUN		heads	countable
+uncountable	null	plural
+English#ADJECTIVE		null	comparable
+English#VERB		heads	third-person singular simple present	heading	present participle	headed	simple past and past participle
+Estonian#ADJECTIVE	
+
+PUMPKIN 
+English#NOUN		pumpkins	plural
+
+NAME 
+English#NOUN		names	plural
+English#VERB		names	third-person singular simple present	naming	present participle	named	simple past and past participle
+English#NOUN		names	plural
+Afrikaans#NOUN	
+Dutch#VERB	
+Kurdish#NOUN	
+Lithuanian#NOUN	
+Middle English#NOUN		names	plural
+Volapük#NOUN	
+
+PORTMANTEAU WORD 
+English#NOUN		portmanteau words	plural
+
+F 
+English#NOUN		F	lower case	f's	upper case	null	plural
+Italian#NOUN		null	invariable
+
+FA 
+English#NOUN		fas	plural
+Catalan#NOUN		fes	plural
+Catalan#VERB	
+French#NOUN		fa	plural
+Galician#NOUN		fas	plural
+Hungarian#NOUN	Table	         fa	 singular  nominative  fák	 plural  nominative   fát	 singular  accusative  fákat	 plural  accusative   fának	 singular  dative  fáknak	 plural  dative   fával	 singular  instrumental  fákkal	 plural  instrumental   fáért	 singular  causal-final  fákért	 plural  causal-final   fává	 singular  translative  fákká	 plural  translative   fáig	 singular  terminative  fákig	 plural  terminative   faként	 singular  essive-formal  fákként	 plural  essive-formal    singular  essive-modal   plural  essive-modal   fában	 singular  inessive  fákban	 plural  inessive   fán	 singular  superessive  fákon	 plural  superessive   fánál	 singular  adessive  fáknál	 plural  adessive   fába	 singular  illative  fákba	 plural  illative   fára	 singular  sublative  fákra	 plural  sublative   fához	 singular  allative  fákhoz	 plural  allative   fából	 singular  elative  fákból	 plural  elative   fáról	 singular  delative  fákról	 plural  delative   fától	 singular  ablative  fáktól	 plural  ablative 
+Italian#ADVERB	
+Italian#NOUN		null	invariable
+Italian#VERB	
+Latvian#NOUN		null	invariable
+Manx#NOUN		null	genitive singular	null	plural
+Norman#NOUN		fas	plural
+Old Swedish#VERB	Table	  present	        past	        infinitive	      fā	          participle	      fāndi, -e	        fangin (sup. fāt)	       active&nbsp;voice	      indicative	      subjunctive	      imperative	                                            mediopassive&nbsp;voice	                                              
+Spanish#NOUN		fa	plural
+Swahili#VERB	Table	 vuoto		kufa	infinitive
+Swazi#VERB	Table	 vuoto
+Venetian#NOUN		null	invariable
+Venetian#ADVERB	
+Xhosa#VERB	Table	 vuoto
+Zulu#VERB	Table	         ukufa	 tone class h tone class h infinitive       yifa	 tone class h tone class h singular  yife	 imperative<br> + object prefix imperative singular    yifani	 tone class h tone class h plural  yifeni	 imperative<br> + object prefix imperative plural      1st singular present present    ngifa	 tone class h tone class h    ngifa	 participial present    ngife	 subjunctive present   2nd singular present present    ufa	 tone class h tone class h    ufa	 participial present    ufe	 subjunctive present   1st plural present present    sifa	 tone class h tone class h    sifa	 participial present    sife	 subjunctive present   2nd plural present present    nifa	 tone class h tone class h    nifa	 participial present    nife	 subjunctive present     ufa	 tone class h tone class h class 1  efa	 participial present class 1  afe	 subjunctive present class 1   bafa	 tone class h tone class h class 2  befa	 participial present class 2  bafe	 subjunctive present class 2   ufa	 tone class h tone class h class 3  ufa	 participial present class 3  ufe	 subjunctive present class 3   ifa	 tone class h tone class h class 4  ifa	 participial present class 4  ife	 subjunctive present class 4   lifa	 tone class h tone class h class 5  lifa	 participial present class 5  life	 subjunctive present class 5   afa	 tone class h tone class h class 6  efa	 participial present class 6  afe	 subjunctive present class 6   sifa	 tone class h tone class h class 7  sifa	 participial present class 7  sife	 subjunctive present class 7   zifa	 tone class h tone class h class 8  zifa	 participial present class 8  zife	 subjunctive present class 8   ifa	 tone class h tone class h class 9  ifa	 participial present class 9  ife	 subjunctive present class 9   zifa	 tone class h tone class h class 10  zifa	 participial present class 10  zife	 subjunctive present class 10   lufa	 tone class h tone class h class 11  lufa	 participial present class 11  lufe	 subjunctive present class 11   bufa	 tone class h tone class h class 14  bufa	 participial present class 14  bufe	 subjunctive present class 14   kufa	 tone class h tone class h class 15  kufa	 participial present class 15  kufe	 subjunctive present class 15   kufa	 tone class h tone class h class 17  kufa	 participial present class 17  kufe	 subjunctive present class 17     1st singular recent past recent past    ngifē	 tone class h tone class h    bengifa	 recent past<br> continuous recent past    2nd singular recent past recent past    ufē	 tone class h tone class h    ubefa	 recent past<br> continuous recent past    1st plural recent past recent past    sifē	 tone class h tone class h    sibefa	 recent past<br> continuous recent past    2nd plural recent past recent past    nifē	 tone class h tone class h    nibefa	 recent past<br> continuous recent past      ufē	 tone class h tone class h class 1  ubefa	 recent past<br> continuous recent past class 1    bafē	 tone class h tone class h class 2  bebefa	 recent past<br> continuous recent past class 2    ufē	 tone class h tone class h class 3  bewufa	 recent past<br> continuous recent past class 3    ifē	 tone class h tone class h class 4  beyifa	 recent past<br> continuous recent past class 4    lifē	 tone class h tone class h class 5  belifa	 recent past<br> continuous recent past class 5    afē	 tone class h tone class h class 6  abefa	 recent past<br> continuous recent past class 6    sifē	 tone class h tone class h class 7  besifa	 recent past<br> continuous recent past class 7    zifē	 tone class h tone class h class 8  bezifa	 recent past<br> continuous recent past class 8    ifē	 tone class h tone class h class 9  beyifa	 recent past<br> continuous recent past class 9    zifē	 tone class h tone class h class 10  bezifa	 recent past<br> continuous recent past class 10    lufē	 tone class h tone class h class 11  belufa	 recent past<br> continuous recent past class 11    bufē	 tone class h tone class h class 14  bebufa	 recent past<br> continuous recent past class 14    kufē	 tone class h tone class h class 15  bekufa	 recent past<br> continuous recent past class 15    kufē	 tone class h tone class h class 17  bekufa	 recent past<br> continuous recent past class 17      1st singular remote past remote past    ngāfa	 tone class h tone class h    ngangifa	 remote past<br> continuous remote past    2nd singular remote past remote past    wāfa	 tone class h tone class h    wawufa	 remote past<br> continuous remote past    1st plural remote past remote past    sāfa	 tone class h tone class h    sasifa	 remote past<br> continuous remote past    2nd plural remote past remote past    nāfa	 tone class h tone class h    nanifa	 remote past<br> continuous remote past      wāfa	 tone class h tone class h class 1  wayefa	 remote past<br> continuous remote past class 1    bāfa	 tone class h tone class h class 2  babefa	 remote past<br> continuous remote past class 2    wāfa	 tone class h tone class h class 3  wawufa	 remote past<br> continuous remote past class 3    yāfa	 tone class h tone class h class 4  yayifa	 remote past<br> continuous remote past class 4    lāfa	 tone class h tone class h class 5  lalifa	 remote past<br> continuous remote past class 5    āfa	 tone class h tone class h class 6  ayefa	 remote past<br> continuous remote past class 6    sāfa	 tone class h tone class h class 7  sasifa	 remote past<br> continuous remote past class 7    zāfa	 tone class h tone class h class 8  zazifa	 remote past<br> continuous remote past class 8    yāfa	 tone class h tone class h class 9  yayifa	 remote past<br> continuous remote past class 9    zāfa	 tone class h tone class h class 10  zazifa	 remote past<br> continuous remote past class 10    lwāfa	 tone class h tone class h class 11  lwalufa	 remote past<br> continuous remote past class 11    bāfa	 tone class h tone class h class 14  babufa	 remote past<br> continuous remote past class 14    kwāfa	 tone class h tone class h class 15  kwakufa	 remote past<br> continuous remote past class 15    kwāfa	 tone class h tone class h class 17  kwakufa	 remote past<br> continuous remote past class 17      1st singular future future      ngizokufa	 subjunctive present   2nd singular future future      uzokufa	 subjunctive present   1st plural future future      sizokufa	 subjunctive present   2nd plural future future      nizokufa	 subjunctive present       uzokufa	 subjunctive present class 1     bazokufa	 subjunctive present class 2     uzokufa	 subjunctive present class 3     izokufa	 subjunctive present class 4     lizokufa	 subjunctive present class 5     azokufa	 subjunctive present class 6     sizokufa	 subjunctive present class 7     zizokufa	 subjunctive present class 8     izokufa	 subjunctive present class 9     zizokufa	 subjunctive present class 10     luzokufa	 subjunctive present class 11     buzokufa	 subjunctive present class 14     kuzokufa	 subjunctive present class 15     kuzokufa	 subjunctive present class 17 
+
+FABACEOUS 
+English#ADJECTIVE		more	comparative	most	superlative
+
+FABELLA 
+English#NOUN		fabellae	plural
+Latin#NOUN	
+
+FABIAN 
+English#ADJECTIVE		more	comparative	most	superlative
+English#NOUN		Fabians	plural
+
+FABLE 
+English#NOUN		fables	plural
+English#VERB		fables	third-person singular simple present	fabling	present participle	fabled	simple past and past participle
+French#NOUN		fables	plural
+Old French#NOUN		fables	oblique plural	fable	nominative singular	fables	nominative plural
+
+AAM 
+English#NOUN		aams	plural
+Dutch#NOUN		amen	plural
+Estonian#NOUN	Table	      aam	 singular  nominative  aamid	 plural  nominative   aami	 singular  genitive  aamide	 plural  genitive   aami	 singular  partitive  aamisid	 plural  partitive   aamisse	 singular  illative  aamidesse	 plural  illative   aamis	 singular  inessive  aamides	 plural  inessive   aamist	 singular  elative  aamidest	 plural  elative   aamile	 singular  allative  aamidele	 plural  allative   aamil	 singular  adessive  aamidel	 plural  adessive   aamilt	 singular  ablative  aamidelt	 plural  ablative   aamiks	 singular  translative  aamideks	 plural  translative   aamini	 singular  terminative  aamideni	 plural  terminative   aamina	 singular  essive  aamidena	 plural  essive   aamita	 singular  abessive  aamideta	 plural  abessive   aamiga	 singular  comitative  aamidega	 plural  comitative 
+Tagalog#NOUN	
+
+AARDWOLF 
+English#NOUN		aardwolves	plural
+Afrikaans#NOUN		aardwolwe	plural
+Dutch#NOUN		aardwolven	plural	aardwolfje	diminutive
+
+AARONIC 
+English#ADJECTIVE		more	comparative	most	superlative
+
+AARON'S ROD 
+English#NOUN		Aaron's rods	countable
+uncountable	null	plural
+
+ABACA 
+English#NOUN		abacas	countable
+uncountable	null	plural
+French#NOUN		abacas	plural
+
+ABACINATE 
+English#VERB		abacinates	third-person singular simple present	abacinating	present participle	abacinated	simple past and past participle
+Latin#VERB	
+
+ABACINATION 
+English#NOUN		abacinations	plural
+
+ABACISCUS 
+English#NOUN		abacisci	or	abaciscuses	plural
+
+ABACIST 
+English#NOUN		abacists	plural
+
+ABACK 
+English#ADVERB		null	comparable
+English#NOUN		abacks	plural
+
+ABACTINAL 
+English#ADJECTIVE		more	comparative	most	superlative
+Portuguese#ADJECTIVE		abactinais	plural	abactinais	comparable
+
+LIBRE 
+English#ADJECTIVE		null	comparable
+French#ADJECTIVE		libres	plural
+Interlingue#NOUN	
+Italian#NOUN	
+Norman#ADJECTIVE	
+Occitan#NOUN		libres	plural
+Spanish#ADJECTIVE		libres	plural
+Spanish#VERB	
+Tagalog#ADJECTIVE	
+
+JEUDI 
+French#NOUN		jeudis	plural
+Norman#NOUN		jeudis	plural
+Old French#NOUN		jeudis	oblique plural	jeudis	nominative singular	jeudi	nominative plural
+
+COLOR 
+English#NOUN		colors	countable
+uncountable	(	plural
+English#ADJECTIVE		<span class="qualifier-brac">(</span>	comparable
+English#VERB		colors	third-person singular simple present	coloring	present participle	colored	simple past and past participle
+Asturian#NOUN		colores	plural
+Catalan#NOUN		colors	plural
+Italian#NOUN		null	invariable
+Latin#NOUN	Table		color	Singular	nominative		colōrēs	Plural	nominative		colōris	Singular	genitive		colōrum	Plural	genitive		colōrī	Singular	dative		colōribus	Plural	dative		colōrem	Singular	accusative		colōrēs	Plural	accusative		colōre	Singular	ablative		colōribus	Plural	ablative		color	Singular	vocative		colōrēs	Plural	vocative	
+Occitan#NOUN		colors	plural
+Old French#NOUN		colors	oblique plural	color	nominative singular	colors	nominative plural
+Spanish#NOUN		colores	plural
+
+HET 
+English#NOUN		hets	countable
+uncountable	null	plural
+English#ADJECTIVE		more	comparative	most	superlative
+English#VERB	
+English#ADJECTIVE		more	comparative	most	superlative
+Afrikaans#VERB	
+Dutch#PRONOUN	
+Finnish#PRONOUN	
+Middle Dutch#PRONOUN	Table	 
+Norwegian Bokmål#ADJECTIVE		hett	neuter singular	hete	definite singular and plural	hetere	comparative	hetest	indefinite superlative	heteste	definite superlative
+Norwegian Bokmål#VERB	
+Norwegian Nynorsk#VERB	
+Old English#VERB	
+Old Saxon#ADJECTIVE	Table	                        hēt	 singular case nominative  hēte	 plural case nominative   hētu	 plural case nominative     hētana	 singular case accusative  hēte	 plural case accusative  hēta	 singular case accusative  hētu	 plural case accusative  hēt	 singular case accusative    hētes	 singular case genitive  hētarō	 plural case genitive  hētaro	 singular case genitive      hētumu	 singular case dative  hētum	 plural case dative  hētaro	 singular case dative                           hēto	 singular case nominative   hēta	 singular case nominative      hētun	 singular case accusative  hētun	 plural case accusative       hētun	 singular case genitive  hētonō	 plural case genitive       hētun	 singular case dative      
+Swedish#ADJECTIVE	Table	           het	 positive indefinite/attributive common singular  hetare	 comparative indefinite/attributive common singular  hetast	 superlative<sup>2</sup> indefinite/attributive common singular   hett	 positive indefinite/attributive neuter singular  hetare	 comparative indefinite/attributive neuter singular  hetast	 superlative<sup>2</sup> indefinite/attributive neuter singular   heta	 positive indefinite/attributive plural  hetare	 comparative indefinite/attributive plural  hetast	 superlative<sup>2</sup> indefinite/attributive plural       hete	 positive definite masculine singular<sup>1</sup>  hetare	 comparative definite masculine singular<sup>1</sup>  hetaste	 superlative definite masculine singular<sup>1</sup>   heta	 positive definite all  hetare	 comparative definite all  hetaste	 superlative definite all     
+Swedish#VERB	
+
+HOED 
+English#VERB	
+Afrikaans#NOUN		hoede	or	hoedens	plural
+Dutch#NOUN		hoeden	plural	hoedje	diminutive
+Dutch#VERB	
+Welsh#NOUN	
+
+DAT 
+English#PRONOUN	
+English#ADVERB	
+Dutch#PRONOUN	
+German#PRONOUN	
+Latin#VERB	
+Middle Dutch#PRONOUN	
+Norwegian Nynorsk#PRONOUN	
+Romanian#VERB	Table	                    dat	 masculine  indefinite  dat	 neuter  indefinite  dată	 feminine  indefinite  dați	 masculine  indefinite  date	 neuter  indefinite  date	 feminine  indefinite    datul	 masculine  definite  datul	 neuter  definite  data	 feminine  definite  dații	 masculine  definite  datele	 neuter  definite  datele	 feminine  definite            datului	 masculine  definite  datului	 neuter  definite  datei	 feminine  definite  daților	 masculine  definite  datelor	 neuter  definite  datelor	 feminine  definite 
+Tolai#PRONOUN	Table	   singular	      dual	      paucal	      plural	                              
+West Frisian#PRONOUN	
+
+DIE 
+English#VERB		dies	third-person singular simple present	dying	present participle	died	simple past and past participle
+English#NOUN		dies	or	dice	plural
+Afrikaans#PRONOUN		null	definite
+Danish#NOUN	
+Danish#VERB		di	imperative	dier	infinitive	diede	present tense	null	past tense	null	perfect tense
+Dutch#PRONOUN	
+German#PRONOUN	Table	                               
+Interlingua#NOUN		dies	plural
+Italian#NOUN		null	invariable
+Italian#ADJECTIVE	
+Latin#NOUN	
+Middle Dutch#PRONOUN	
+
+EEN 
+English#NOUN	
+English#ADVERB		null	comparable
+English#NOUN		eens	plural
+Luxembourgish#PRONOUN	
+Scots#NOUN	
+
+NIET 
+Dutch#ADVERB	
+Dutch#NOUN		nieten	plural	nietje	diminutive
+Dutch#VERB	
+Norman#NOUN		niets	plural
+
+ZIJN 
+Dutch#VERBT	Table	  zijn	 <a href="/wiki/infinitive" title="infinitive">infinitive</a>  was	 <a href="/wiki/past_tense" title="past tense">past</a>&nbsp;<a href="/wiki/singular" title="singular">singular</a>  geweest	 <a href="/wiki/past_tense" title="past tense">past</a>&nbsp;<a href="/wiki/participle" title="participle">participle</a>
+
+GOOGLE 
+English#VERB		googles	third-person singular simple present	googling	present participle	googled	simple past and past participle
+English#NOUN		googles	plural
+English#VERB		googles	third-person singular simple present	googling	present participle	googled	simple past and past participle
+Danish#VERB		googl	imperative	googler	infinitive	googlede	present tense	null	past tense	null	perfect tense
+Dutch#VERB	
+French#VERB	
+German#VERB	
+Norwegian Nynorsk#VERB		googlar	present tense	googla	past tense	googla	past participle	googlast	passive infinitive	googlande	present participle	googl	imperative
+Portuguese#VERB	
+
+FOREIGN DEBT 
+English#NOUN		foreign debts	uncountable	null	plural
+
+LENS 
+English#NOUN		lenses	or	<span class="qualifier-brac">(</span>	plural
+English#VERB	
+Danish#NOUN	
+Dutch#NOUN		lenzen	plural	lensje	diminutive
+Dutch#NOUN		lenzen	plural	lensje	diminutive
+Dutch#NOUN		lenzen	plural	lensje	diminutive
+Dutch#ADJECTIVE	Table	  lens	 uninflected  lenze	 inflected  lenzer	 comparative
+Latin#NOUN	Table		lēns	Singular	nominative		lentēs	Plural	nominative		lentis	Singular	genitive		lentum	Plural	genitive		lentī	Singular	dative		lentibus	Plural	dative		lentem	Singular	accusative		lentēs	Plural	accusative		lente	Singular	ablative		lentibus	Plural	ablative		lēns	Singular	vocative		lentēs	Plural	vocative	
+Latin#NOUN	Table		lēns	Singular	nominative		lendēs	Plural	nominative		lendis	Singular	genitive		lendum	Plural	genitive		lendī	Singular	dative		lendibus	Plural	dative		lendem	Singular	accusative		lendēs	Plural	accusative		lende	Singular	ablative		lendibus	Plural	ablative		lēns	Singular	vocative		lendēs	Plural	vocative	
+Turkish#NOUN	Table	 vuoto		lensi	definite accusative	lensler	plural
+
+WHATEVER 
+English#ADJECTIVE		more	comparative	most	superlative
+English#PRONOUN	
+
+TRANSVESTITE 
+English#NOUN		transvestites	plural
+
+DOMESTIC DEBT 
+English#NOUN		domestic debts	countable
+uncountable	null	plural
+
+DEBT 
+English#NOUN		debts	plural
+
+ORANGE 
+English#NOUN		oranges	countable
+uncountable	null	plural
+English#ADJECTIVE		oranger	or	more	comparative	orangest	or	most	superlative
+English#VERB		oranges	third-person singular simple present	oranging	present participle	oranged	simple past and past participle
+French#NOUN		oranges	plural
+French#NOUN		oranges	plural
+French#ADJECTIVE		null	invariable
+German#ADJECTIVE	Table	               er ist  orange	 masculine number &amp; gender predicative sie ist  orange	 feminine number &amp; gender predicative es ist  orange	 neuter number &amp; gender predicative sie sind  orange	 all genders number &amp; gender predicative    oranger	 masculine number &amp; gender nominative  orange	 feminine number &amp; gender nominative  oranges	 neuter number &amp; gender nominative  orange	 all genders number &amp; gender nominative    orangen	 masculine number &amp; gender genitive  oranger	 feminine number &amp; gender genitive  orangen	 neuter number &amp; gender genitive  oranger	 all genders number &amp; gender genitive    orangem	 masculine number &amp; gender dative  oranger	 feminine number &amp; gender dative  orangem	 neuter number &amp; gender dative  orangen	 all genders number &amp; gender dative    orangen	 masculine number &amp; gender accusative  orange	 feminine number &amp; gender accusative  oranges	 neuter number &amp; gender accusative  orange	 all genders number &amp; gender accusative   der  orange	 masculine number &amp; gender nominative die  orange	 feminine number &amp; gender nominative das  orange	 neuter number &amp; gender nominative die  orangen	 all genders number &amp; gender nominative   des  orangen	 masculine number &amp; gender genitive der  orangen	 feminine number &amp; gender genitive des  orangen	 neuter number &amp; gender genitive der  orangen	 all genders number &amp; gender genitive   dem  orangen	 masculine number &amp; gender dative der  orangen	 feminine number &amp; gender dative dem  orangen	 neuter number &amp; gender dative den  orangen	 all genders number &amp; gender dative   den  orangen	 masculine number &amp; gender accusative die  orange	 feminine number &amp; gender accusative das  orange	 neuter number &amp; gender accusative die  orangen	 all genders number &amp; gender accusative   ein  oranger	 masculine number &amp; gender nominative eine  orange	 feminine number &amp; gender nominative ein  oranges	 neuter number &amp; gender nominative (keine)  orangen	 all genders number &amp; gender nominative   eines  orangen	 masculine number &amp; gender genitive einer  orangen	 feminine number &amp; gender genitive eines  orangen	 neuter number &amp; gender genitive (keiner)  orangen	 all genders number &amp; gender genitive   einem  orangen	 masculine number &amp; gender dative einer  orangen	 feminine number &amp; gender dative einem  orangen	 neuter number &amp; gender dative (keinen)  orangen	 all genders number &amp; gender dative   einen  orangen	 masculine number &amp; gender accusative eine  orange	 feminine number &amp; gender accusative ein  oranges	 neuter number &amp; gender accusative (keine)  orangen	 all genders number &amp; gender accusative 
+Luxembourgish#ADJECTIVE	Table	  text	                             
+Norman#ADJECTIVE	
+Swedish#ADJECTIVE	Table	 
+Swedish#NOUN	
+
+POLISH 
+English#ADJECTIVE		null	comparable
+
+BBL 
+English#NOUN		bbls	plural
+
+SEVEN 
+English#NOUN	
+Breton#ADJECTIVE	
+Turkish#ADJECTIVE		daha	comparative	en	superlative
+Turkish#NOUN	Table	 vuoto		seveni	definite accusative	sevenler	plural
+
+PREMATURE 
+English#ADJECTIVE		more	comparative	most	superlative
+English#NOUN		prematures	plural
+Italian#ADJECTIVE	
+
+BIRTH 
+English#NOUN		births	countable
+uncountable	null	plural
+English#ADJECTIVE		null	comparable
+English#VERB		births	third-person singular simple present	birthing	present participle	birthed	simple past and past participle
+Albanian#NOUN		birthe	indefinite plural	birthi	definite singular	birthat	definite plural
+
+ACCORD 
+English#NOUN		accords	plural
+English#VERB		accords	third-person singular simple present	according	present participle	accorded	simple past and past participle
+French#NOUN		accords	plural
+Norman#NOUN		accords	plural
+
+WOLF 
+English#NOUN		wolves	plural
+English#VERB		wolfs	third-person singular simple present	wolfing	present participle	wolfed	simple past and past participle
+Afrikaans#NOUN		wolwe	plural	wolfie	diminutive
+Dutch#NOUN		wolven	plural	wolfje	diminutive	wolvin	feminine
+Middle English#NOUN		wolves	plural
+Old High German#NOUN	Table	     nominative	 case case    wolf	 singular case    wolfa	 plural case    accusative	 case case      genitive	 case case    wolfes	 singular case    wolfo	 plural case    dative	 case case    wolfe	 singular case    wolfum	 plural case    instrumental	 case case    wolfu	 singular case    
+West Frisian#NOUN		wolven	plural
+
+CRAGGY 
+English#ADJECTIVE		craggier	comparative	craggiest	superlative
+
+PLANET 
+English#NOUN		planets	plural
+Albanian#NOUN	Table	 vuoto		planete	indefinite plural	planeti	definite singular	planetet	definite plural
+Danish#NOUN	Table	  <i>singular</i>   common<br> gender  <i>plural</i>   common<br> gender   <i>indefinite</i>   common<br> gender <i>definite</i>   common<br> gender    nominative	 common<br> gender common<br> gender    planet	      planeten	      planeter	      planeterne	      genitive	 common<br> gender common<br> gender    planets	      planetens	      planeters	      planeternes	     
+German#VERB	
+Norwegian Bokmål#NOUN		planeten	definite singular	planeter	indefinite plural	planetene	definite plural
+Norwegian Nynorsk#NOUN		planeten	definite singular	planetar	indefinite plural	planetane	definite plural
+Norwegian Nynorsk#NOUN	
+Polish#NOUN	
+Romansch#NOUN		planets	plural
+Serbo-Croatian#NOUN	Table	                         
+Slovene#NOUN	Table	       planét	 singular  nominative  planéta	 dual  nominative  planéti	 plural  nominative   planét	 singular  accusative  planéta	 dual  accusative  planéte	 plural  accusative   planéta	 singular  genitive  planétov	 dual  genitive  planétov	 plural  genitive   planétu	 singular  dative  planétoma	 dual  dative  planétom	 plural  dative   planétu	 singular  locative  planétih	 dual  locative  planétih	 plural  locative   planétom	 singular  instrumental  planétoma	 dual  instrumental  planéti	 plural  instrumental 
+Swedish#NOUN	Table	                  planet	 indefinite  nominative  planeten	 definite  nominative  planeter	 indefinite  nominative  planeterna	 definite  nominative   planets	 indefinite  genitive  planetens	 definite  genitive  planeters	 indefinite  genitive  planeternas	 definite  genitive 
+Turkish#NOUN	Table	 vuoto		planeti	definite accusative	planetler	plural
+
+STAR 
+English#NOUN		stars	plural
+English#VERB		stars	third-person singular simple present	starring	present participle	starred	simple past and past participle
+Dutch#ADJECTIVE	Table	  star	 uninflected  starre	 inflected  starder	 comparative
+French#NOUN		stars	plural
+Italian#NOUN		null	invariable
+Norwegian Nynorsk#NOUN		staren	definite singular	starar	indefinite plural	starane	definite plural
+Serbo-Croatian#ADJECTIVE	Table	      <b>nominative</b> singular singular      masculine singular     feminine singular     neuter singular   <b>genitive</b> singular singular       <b>dative</b> singular singular       <b>accusative</b> singular singular   <small>inanimate</small><br> <small>animate</small> singular singular      <b>vocative</b> singular singular       <b>locative</b> singular singular       <b>instrumental</b> singular singular            <b>nominative</b> plural plural      masculine plural     feminine plural     neuter plural   <b>genitive</b> plural plural       <b>dative</b> plural plural       <b>accusative</b> plural plural       <b>vocative</b> plural plural       <b>locative</b> plural plural       <b>instrumental</b> plural plural       
+Slovene#ADJECTIVE	Table	           stári	 masculine  nominative  stára	 feminine  nominative  stáro	 neuter  nominative  <i>nominative</i><sup style="cursor:help" title="inanimate">inan</sup> <i>or genitive</i><sup style="cursor:help" title="animate">anim</sup> masculine  accusative  stáro	 feminine  accusative  stáro	 neuter  accusative   stárega	 masculine  genitive  stáre	 feminine  genitive  stárega	 neuter  genitive   stáremu	 masculine  dative  stári	 feminine  dative  stáremu	 neuter  dative   stárem	 masculine  locative  stári	 feminine  locative  stárem	 neuter  locative   stárim	 masculine  instrumental  stáro	 feminine  instrumental  stárim	 neuter  instrumental           stára	 masculine  nominative  stári	 feminine  nominative  stári	 neuter  nominative   stára	 masculine  accusative  stári	 feminine  accusative  stári	 neuter  accusative   stárih	 masculine  genitive  stárih	 feminine  genitive  stárih	 neuter  genitive   stárima	 masculine  dative  stárima	 feminine  dative  stárima	 neuter  dative   stárih	 masculine  locative  stárih	 feminine  locative  stárih	 neuter  locative   stárima	 masculine  instrumental  stárima	 feminine  instrumental  stárima	 neuter  instrumental            stáre	 feminine  nominative  stára	 neuter  nominative   stáre	 masculine  accusative  stáre	 feminine  accusative  stára	 neuter  accusative       stárim	 masculine  dative  stárim	 feminine  dative  stárim	 neuter  dative       stárimi	 masculine  instrumental  stárimi	 feminine  instrumental  stárimi	 neuter  instrumental 
+Venetian#VERB	Table	   star	   infinitive         èser	   auxiliary verb    stando	   gerund     stà	   past participle  stà	 gerund auxiliary verb past participle                           sto	 mi indicative first singular person present (te)  sti	 ti indicative second singular person present (el/ła)  sta	 eło / eła indicative third singular person present  stòn	 noialtri / noialtre indicative first plural person present  sté	 voialtri / voialtre indicative second plural person present (i/łe)  sta	 łuri / łore indicative third plural person present   stava	 mi indicative first singular person imperfect (te)  stavi	 ti indicative second singular person imperfect (el/ła)  stava	 eło / eła indicative third singular person imperfect  stàvimo	 noialtri / noialtre indicative first plural person imperfect  stavi	 voialtri / voialtre indicative second plural person imperfect (i/łe)  stava	 łuri / łore indicative third plural person imperfect   starò	 mi indicative first singular person future (te)  starè	 ti indicative second singular person future (el/ła)  starà	 eło / eła indicative third singular person future  starémo	 noialtri / noialtre indicative first plural person future  starè	 voialtri / voialtre indicative second plural person future (i/łe)  starà	 łuri / łore indicative third plural person future          starìa	 mi conditional first singular person present (te)  starisi	 ti conditional second singular person present (el/ła)  starìa	 eło / eła conditional third singular person present  starìsimo	 noialtri / noialtre conditional first plural person present  starisi	 voialtri / voialtre conditional second plural person present (i/łe)  starìa	 łuri / łore conditional third plural person present          sta	 che mi subjunctive first singular person present (te)  sti	 che ti subjunctive second singular person present (el/ła)  sta	 che eło / eła subjunctive third singular person present  stone	 che noialtri / noialtre subjunctive first plural person present  sté	 che voialtri / voialtre subjunctive second plural person present (i/łe)  sta	 che łuri / łore subjunctive third plural person present   stase	 che mi subjunctive first singular person imperfect (te)  stasi	 che ti subjunctive second singular person imperfect (el/ła)  stase	 che eło / eła subjunctive third singular person imperfect  stàsimo	 che noialtri / noialtre subjunctive first plural person imperfect  stasi	 che voialtri / voialtre subjunctive second plural person imperfect (i/łe)  stase	 che łuri / łore subjunctive third plural person imperfect          (te)  sta	 ti imperative second singular person imperative (el/ła)  ste	 eło / eła imperative third singular person imperative  stémo	 noialtri / noialtre imperative first plural person imperative  sté	 voialtri / voialtre imperative second plural person imperative (i/łe)  ste	 łuri / łore imperative third plural person imperative 
+
+OBFUSCATE 
+English#VERB		obfuscates	third-person singular simple present	obfuscating	present participle	obfuscated	simple past and past participle
+English#ADJECTIVE		more	comparative	most	superlative
+
+CAN 
+English#VERB		can	third-person singular simple present	-	present participle	could	simple past	<span class="qualifier-brac">(</span>	past participle
+English#NOUN		cans	plural
+English#VERB		cans	third-person singular simple present	canning	present participle	canned	simple past and past participle
+Afar#NOUN	
+Asturian#NOUN		canes	plural
+Azeri#NOUN	Table	    cyrillic	 other scripts other scripts    ҹан	 other scripts other scripts    roman	 other scripts other scripts    can	 other scripts other scripts    perso-arabic	 other scripts other scripts    جان	 other scripts other scripts   
+Galician#NOUN		cans	plural
+Galician#NOUN		cans	plural
+Interlingua#NOUN		canes	plural
+Irish#VERB	Table	                        canaim	   present  canair	   present  canann	   present  canaimid	   present   canaid	   present a  gcanas	   present  cantar	   present    chanas	   past  chanais	   past  chan	   past   chanabhair	   past  chanadar	   past a  chan	   past  canadh	   past    chanainn	   past habitual  chantá	   past habitual  chanadh	   past habitual    a  chanadh	   past habitual  chantaí	   past habitual    canfad	   future  canfair	   future  canfaidh	   future    canfaid	   future a  gcanfas	   future  canfar	   future    chanfainn	   conditional  chanfá	   conditional  chanfadh	   conditional    a  chanfadh	   conditional  chanfaí	   conditional   go  gcanad	   present go  gcanair	   present go  gcana	   present   go  gcanaid	   present  go  gcantar	   present   dá  gcanainn	   past dá  gcantá	   past dá  gcanadh	   past     dá  gcantaí	   past    canaim	   imperative  can	   imperative  canadh	   imperative  canaimis	   imperative  canaidh	   imperative  canaidís	   imperative   cantar	   imperative    canadh	   verbal noun           canta	   past participle        
+Italian#NOUN		cani	plural
+Italian#NOUN		null	invariable
+Occitan#NOUN		cans	plural
+Scots#VERB	
+Scottish Gaelic#VERB		chan	past	canaidh	future	cantainn	verbal noun	cante	past participle
+Spanish#NOUN		canes	plural
+Turkish#NOUN	Table	 vuoto		canı	definite accusative	canlar	plural
+Venetian#NOUN		cani	plural
+Vietnamese#VERB	
+Volapük#NOUN	Table	     nominative	      can	 singular     cans	 plural     genitive	      cana	 singular     canas	 plural     dative	      cane	 singular     canes	 plural     accusative	      cani	 singular     canis	 plural     predicative	      canu	 singular     canus	 plural     vocative	       
+Welsh#ADJECTIVE	
+Welsh#NOUN		caniau	plural
+
+ZERO 
+English#NOUN	
+English#ADJECTIVE		zeroes	countable
+uncountable	zeros	or	null	plural
+English#VERB		null	comparable
+Catalan#NOUN	
+Italian#ADJECTIVE	
+Italian#NOUN		null	invariable
+Kurdish#NOUN	
+Latin#NOUN	
+Portuguese#ADJECTIVE	
+Portuguese#NOUN		zeros	plural
+Portuguese#VERB	
+
+NUMBER 
+English#NOUN		numbers	plural
+English#VERB		numbers	third-person singular simple present	numbering	present participle	numbered	simple past and past participle
+English#ADJECTIVE	
+Estonian#NOUN	Table	      number	 singular  nominative  numbrid	 plural  nominative   numbri	 singular  accusative  numbrid	 plural  accusative   numbri	 singular  genitive  numbrite	 plural  genitive   numbrit	 singular  partitive  numbreid	 plural  partitive   numbrisse	 singular  illative  numbreisse	 plural  illative   numbris	 singular  inessive  numbreis	 plural  inessive   numbrist	 singular  elative  numbreist	 plural  elative   numbrile	 singular  allative  numbreile	 plural  allative   numbril	 singular  adessive  numbreil	 plural  adessive   numbrilt	 singular  ablative  numbreilt	 plural  ablative   numbriks	 singular  translative  numbreiks	 plural  translative   numbrini	 singular  terminative  numbriteni	 plural  terminative   numbrina	 singular  essive  numbritena	 plural  essive   numbrita	 singular  abessive  numbriteta	 plural  abessive   numbriga	 singular  comitative  numbritega	 plural  comitative 
+
+OXYMORON 
+English#NOUN		oxymorons	or	oxymora	plural
+
+NUMERAL 
+English#NOUN		numerals	plural
+English#ADJECTIVE		null	comparable
+Galician#NOUN		numerais	plural
+Interlingua#ADJECTIVE	
+Interlingua#NOUN	
+Middle French#ADJECTIVE		numerale	feminine singular	numeraux	masculine plural	numerales	feminine plural
+Portuguese#ADJECTIVE		numerais	plural	numerais	comparable
+Spanish#NOUN		numerales	plural
+
+BUREAUCRAT 
+English#NOUN		bureaucrats	plural
+
+ALPHABET 
+English#NOUN		alphabets	plural
+English#VERB		alphabets	third-person singular simple present	alphabeting	present participle	alphabeted	simple past and past participle
+French#NOUN		alphabets	plural
+Middle French#NOUN		alphabets	plural
+
+ACHIEVEMENT 
+English#NOUN		achievements	plural
+
+ACHILLES TENDON 
+English#NOUN		Achilles tendons	plural
+
+ACHRONIC 
+
+ACHROOUS 
+
+ACHYLOUS 
+
+ACHYMOUS 
+
+ACICULA 
+English#NOUN		aciculae	plural
+Latin#NOUN	Table		acicula	Singular	nominative		aciculae	Plural	nominative		aciculae	Singular	genitive		aciculārum	Plural	genitive		aciculae	Singular	dative		aciculīs	Plural	dative		aciculam	Singular	accusative		aciculās	Plural	accusative		aciculā	Singular	ablative		aciculīs	Plural	ablative		acicula	Singular	vocative		aciculae	Plural	vocative	
+
+ACID 
+English#ADJECTIVE		more	comparative	most	superlative
+English#NOUN		acids	countable
+uncountable	null	plural
+Romanian#ADJECTIVE	Table	                    acid	 masculine  indefinite  acid	 neuter  indefinite  acidă	 feminine  indefinite  acizi	 masculine  indefinite  acide	 neuter  indefinite  acide	 feminine  indefinite    acidul	 masculine  definite  acidul	 neuter  definite  acida	 feminine  definite  acizii	 masculine  definite  acidele	 neuter  definite  acidele	 feminine  definite            acidului	 masculine  definite  acidului	 neuter  definite  acidei	 feminine  definite  acizilor	 masculine  definite  acidelor	 neuter  definite  acidelor	 feminine  definite 
+Romanian#NOUN	Table	            (un)  acid	 indefinite articulation  nominative/accusative  acidul	 definite articulation  nominative/accusative (niște)  acizi	 indefinite articulation  nominative/accusative  acizii	 definite articulation  nominative/accusative  (unui)  acid	 indefinite articulation  genitive/dative  acidului	 definite articulation  genitive/dative (unor)  acizi	 indefinite articulation  genitive/dative  acizilor	 definite articulation  genitive/dative   acidule	 indefinite articulation  vocative  acidule	 definite articulation  vocative  acizilor	 indefinite articulation  vocative  acizilor	 definite articulation  vocative 
+
+TACHYGRAPHY 
+English#NOUN		null	uncountable
+
+POLYTHEISTIC 
+English#ADJECTIVE		more	comparative	most	superlative
+
+LIGHTSPEED 
+English#NOUN		lightspeeds	countable
+uncountable	null	plural
+
+TREKKIE 
+English#NOUN		Trekkies	plural
+
+TELEPORT 
+English#VERB		teleports	third-person singular simple present	teleporting	present participle	teleported	simple past and past participle
+English#NOUN		teleports	plural
+
+GROWTH 
+English#NOUN		growths	countable
+uncountable	null	plural
+
+QUARTER 
+English#ADJECTIVE		null	comparable
+English#NOUN		quarters	countable
+uncountable	null	plural
+English#VERB		quarters	third-person singular simple present	quartering	present participle	quartered	simple past and past participle
+English#VERB		quarters	third-person singular simple present	quartering	present participle	quartered	simple past and past participle
+Catalan#NOUN		quarters	plural
+French#NOUN		quarters	plural
+Old French#NOUN		quarters	oblique plural	quarters	nominative singular	quarter	nominative plural
+
+TADAGO
+English#NOUN		tadago-pies	plural
+
+PAROLE 
+English#NOUN		paroles	uncountable	null	plural
+English#VERB		paroles	third-person singular simple present	paroling	present participle	paroled	simple past and past participle
+Esperanto#ADVERB	
+French#NOUN		paroles	plural
+Italian#NOUN	
+Latvian#NOUN	Table	      parole	 singular  vienskaitlis	  nominative  nominatīvs	  paroles	 plural  daudzskaitlis	  nominative  nominatīvs	   paroli	 singular  vienskaitlis	  accusative  akuzatīvs	  paroles	 plural  daudzskaitlis	  accusative  akuzatīvs	   paroles	 singular  vienskaitlis	  genitive  ģenitīvs	  paroļu	 plural  daudzskaitlis	  genitive  ģenitīvs	   parolei	 singular  vienskaitlis	  dative  datīvs	  parolēm	 plural  daudzskaitlis	  dative  datīvs	   paroli	 singular  vienskaitlis	  instrumental  instrumentālis	  parolēm	 plural  daudzskaitlis	  instrumental  instrumentālis	   parolē	 singular  vienskaitlis	  locative  lokatīvs	  parolēs	 plural  daudzskaitlis	  locative  lokatīvs	   parole	 singular  vienskaitlis	  vocative  vokatīvs	  paroles	 plural  daudzskaitlis	  vocative  vokatīvs	 
+Middle French#NOUN		paroles	plural
+Old French#NOUN		paroles	oblique plural	parole	nominative singular	paroles	nominative plural
+Spanish#NOUN		paroles	plural
+
+TAGHAIRM 
+English#NOUN		taghairms	uncountable	null	plural
+
+FRANKENSTEIN COMPLEX 
+English#NOUN		Frankenstein complexes	plural
+
+SHAPESHIFT 
+English#VERB		shapeshifts	third-person singular simple present	shapeshifting	present participle	shapeshifted	simple past and past participle
+
+BUG
+English#NOUN		bug-eyed monsters	plural
+
+EVERYWHEN 
+
+FUTURISM 
+English#NOUN		futurisms	countable
+uncountable	null	plural
+
+DEEP SLEEP 
+English#NOUN		deep sleeps	countable
+uncountable	null	plural
+
+DIES 
+English#VERB	
+English#NOUN	
+Catalan#NOUN	
+German#PRONOUN	
+Latin#NOUN	Table		diēs	Singular	nominative		diēs	Plural	nominative		diēī	Singular	genitive		diērum	Plural	genitive		diēī	Singular	dative		diēbus	Plural	dative		diem	Singular	accusative		diēs	Plural	accusative		diē	Singular	ablative		diēbus	Plural	ablative		diēs	Singular	vocative		diēs	Plural	vocative	
+Latvian#VERB	
+Romansch#NOUN	
+Serbo-Croatian#ADVERB		диес	Cyrillic spelling
+
+GERMAN 
+English#NOUN		Germans	plural
+English#ADJECTIVE	
+German#NOUN	Table	         indef.	 singular     def.	 singular      def.	 plural  noun   ein singular  nominative das singular  nominative   noun  nominative die plural  nominative  germane	 noun  nominative  eines singular  genitive des singular  genitive  germans	 noun  genitive der plural  genitive   noun  genitive  einem singular  dative dem singular  dative   noun  dative den plural  dative  germanen	 noun  dative  ein singular  accusative das singular  accusative   noun  accusative die plural  accusative  
+
+TAGLIACOTIAN 
+English#ADJECTIVE		null	comparable
+
+RAIN DOGS AND CATS 
+English#VERB	
+
+SLUSHPILE 
+
+HOLOPHRASTIC 
+English#ADJECTIVE		null	comparable
+
+PRE
+English#ADJECTIVE		null	comparable
+
+FAQ 
+English#NOUN		FAQs	plural
+French#NOUN		FAQ	plural
+Portuguese#NOUN		FAQs	plural
+
+FTP 
+English#ADJECTIVE		null	comparable
+English#NOUN		FTPs	plural
+English#VERB	
+
+MEXICO 
+Latin#NOUN	
+
+DECADE 
+English#NOUN		decades	plural
+Dutch#NOUN		decades	or	decaden	plural	decadetje	diminutive
+Italian#NOUN		decadi	plural
+Italian#VERB	
+Latin#NOUN	
+Middle French#NOUN		decades	plural
+
+FORTNIGHT 
+English#NOUN		fortnights	plural
+English#ADVERB		null	comparable
+
+PM 
+English#NOUN		PMs	plural
+English#VERB		PMs	third-person singular simple present	PMing	present participle	PMed	simple past and past participle
+
+BIOTERROR 
+English#NOUN		null	uncountable
+
+DOTCOM 
+English#NOUN		dotcoms	plural
+
+DOLLARIZATION 
+English#NOUN		null	uncountable
+
+BELLGIRL 
+
+CONTEMPORISATION 
+English#NOUN		contemporisations	plural
+
+FRANKENFOOD 
+English#NOUN		null	uncountable
+
+ALPHABETISM 
+English#NOUN		alphabetisms	plural
+
+LEMKO 
+
+E
+English#NOUN		e-texts	plural
+
+GRASS 
+English#NOUN		grasses	countable
+uncountable	null	plural
+English#VERB		grasses	third-person singular simple present	grassing	present participle	grassed	simple past and past participle
+Romansch#NOUN	
+
+ONE 
+English#PRONOUN	
+English#NOUN		oneself	reflexive	one’s	possessive adjective	ones	plural
+English#ADJECTIVE		ones	plural
+English#VERB		null	comparable
+Maori#NOUN	
+Polish#PRONOUN	Table	          one	   nominative   ich	   genitive   im	   dative   je	   accusative   nimi	   instrumental   nich	   locative   
+Samoan#NOUN	
+Serbo-Croatian#PRONOUN	Table	                                                                
+Slovene#PRONOUN	Table	           òn	 masculine  nominative  ôna	 feminine  nominative  ôno	 neuter  nominative   -nj	 masculine  accusative  -njo	 feminine  accusative  -nj	 neuter  accusative   ga	 masculine  genitive  je	 feminine  genitive  ga	 neuter  genitive   mu	 masculine  dative  ji	 feminine  dative  mu	 neuter  dative   njêm	 masculine  locative  njì	 feminine  locative  njêm	 neuter  locative   njím	 masculine  instrumental  njó	 feminine  instrumental  njím	 neuter  instrumental       njegôv, njegòv	 masculine  possessive  njén	 feminine  possessive  njegôv, njegòv	 neuter  possessive           ônadva	 masculine  nominative  onédve	 feminine  nominative  onédve	 neuter  nominative   -nju	 masculine  accusative  -nju	 feminine  accusative  -nju	 neuter  accusative   ju	 masculine  genitive  ju	 feminine  genitive  ju	 neuter  genitive   jima	 masculine  dative  jima	 feminine  dative  jima	 neuter  dative   njíju	 masculine  locative  njíju	 feminine  locative  njíju	 neuter  locative   njíma	 masculine  instrumental  njíma	 feminine  instrumental  njíma	 neuter  instrumental       njún	 masculine  possessive  njún	 feminine  possessive  njún	 neuter  possessive           ôni	 masculine  nominative  ône	 feminine  nominative  ôna	 neuter  nominative   -nje	 masculine  accusative  -nje	 feminine  accusative  -nje	 neuter  accusative   jih	 masculine  genitive  jih	 feminine  genitive  jih	 neuter  genitive   jim	 masculine  dative  jim	 feminine  dative  jim	 neuter  dative   njìh	 masculine  locative  njìh	 feminine  locative  njìh	 neuter  locative   njími	 masculine  instrumental  njími	 feminine  instrumental  njími	 neuter  instrumental       njíhov	 masculine  possessive  njíhov	 feminine  possessive  njíhov	 neuter  possessive 
+Tahitian#NOUN	
+Volapük#PRONOUN	
+
+TWO 
+English#NOUN	
+
+THREE 
+English#NOUN	
+
+FOUR 
+English#NOUN	
+French#NOUN		fours	plural
+Norman#NOUN		fours	plural
+
+FIVE 
+English#NOUN	
+Walloon#NOUN		fives	plural
+
+CIA 
+
+GUI 
+Hungarian#NOUN	Table	         gui	 singular  nominative  gui-k	 plural  nominative   gui-t	 singular  accusative  gui-kat	 plural  accusative   gui-nak	 singular  dative  gui-knak	 plural  dative   gui-val	 singular  instrumental  gui-kkal	 plural  instrumental   gui-ért	 singular  causal-final  gui-kért	 plural  causal-final   gui-vá	 singular  translative  gui-kká	 plural  translative   gui-ig	 singular  terminative  gui-kig	 plural  terminative   gui-ként	 singular  essive-formal  gui-kként	 plural  essive-formal    singular  essive-modal   plural  essive-modal   gui-ban	 singular  inessive  gui-kban	 plural  inessive   gui-n	 singular  superessive  gui-kon	 plural  superessive   gui-nál	 singular  adessive  gui-knál	 plural  adessive   gui-ba	 singular  illative  gui-kba	 plural  illative   gui-ra	 singular  sublative  gui-kra	 plural  sublative   gui-hoz	 singular  allative  gui-khoz	 plural  allative   gui-ból	 singular  elative  gui-kból	 plural  elative   gui-ról	 singular  delative  gui-król	 plural  delative   gui-tól	 singular  ablative  gui-któl	 plural  ablative 
+
+YMCA 
+English#NOUN		YMCAs	plural
+
+OS 
+English#ADJECTIVE		null	comparable
+English#NOUN		OSes	or	OSs	plural
+Hungarian#NOUN	Table	         os	 singular  nominative  os-ek	 plural  nominative   os-t	 singular  accusative  os-eket	 plural  accusative   os-nek	 singular  dative  os-eknek	 plural  dative   os-sel	 singular  instrumental  os-ekkel	 plural  instrumental   os-ért	 singular  causal-final  os-ekért	 plural  causal-final   os-sé	 singular  translative  os-ekké	 plural  translative   os-ig	 singular  terminative  os-ekig	 plural  terminative   os-ként	 singular  essive-formal  os-ekként	 plural  essive-formal    singular  essive-modal   plural  essive-modal   os-ben	 singular  inessive  os-ekben	 plural  inessive   os-en	 singular  superessive  os-eken	 plural  superessive   os-nél	 singular  adessive  os-eknél	 plural  adessive   os-be	 singular  illative  os-ekbe	 plural  illative   os-re	 singular  sublative  os-ekre	 plural  sublative   os-hez	 singular  allative  os-ekhez	 plural  allative   os-ből	 singular  elative  os-ekből	 plural  elative   os-ről	 singular  delative  os-ekről	 plural  delative   os-től	 singular  ablative  os-ektől	 plural  ablative 
+
+AD 
+English#ADVERB	
+English#NOUN		ADs	plural
+
+FBI 
+English#NOUN	
+
+BUCKLEY'S CHANCE 
+English#NOUN		null	uncountable
+
+SEME 
+English#NOUN		semes	or	semata	plural
+English#VERB		semes	third-person singular simple present	seming	present participle	semed	simple past and past participle
+English#NOUN	
+English#ADJECTIVE	
+English#NOUN		semes	or	seme	plural
+Asturian#VERB	
+Basque#NOUN	Table	 vuoto
+Galician#NOUN		semes	plural
+Italian#NOUN		semi	plural
+Serbo-Croatian#NOUN	Table	                         
+Slovene#NOUN	Table	       seme	 singular  nominative  semeni	 dual  nominative  semena	 plural  nominative   seme	 singular  accusative  semeni	 dual  accusative  semena	 plural  accusative   semena	 singular  genitive  semen	 dual  genitive  semen	 plural  genitive   semenu	 singular  dative  semenoma	 dual  dative  semenom	 plural  dative   semenu	 singular  locative  semenih	 dual  locative  semenih	 plural  locative   semenom	 singular  instrumental  semenoma	 dual  instrumental  semeni	 plural  instrumental 
+Venetian#ADJECTIVE	
+
+CRUDE 
+English#ADJECTIVE		cruder	comparative	crudest	superlative
+English#NOUN		crudes	plural
+Italian#ADJECTIVE	
+Latin#ADJECTIVE	
+
